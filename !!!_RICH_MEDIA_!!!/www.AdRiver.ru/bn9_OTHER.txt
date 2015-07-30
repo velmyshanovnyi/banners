@@ -1,0 +1,80 @@
+<!-- AdRiver ajax2 -->
+<script type="text/javascript" src="http://static.liga.net/resources/files/bg/adriver.core.2.js"></script>
+<!-- AdRiver ajax2 END -->
+</head>
+********************************************************************************
+
+<body>
+
+================================================================================
+РІЗНІ КОДИ (переважно тимчасові)
+================================================================================
+ЛІГА.net
+
+
+<!-- AdRiver brendtopliga -->
+<div id="brendtopliga" class="brendtopliga adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("brendtopliga", {sid: 164095, sz: "brendtopliga", pz: 0, bn: 9 });
+</script>
+<!-- AdRiver brendtopliga END -->
+
+================================================================================
+Фінанси (Курси валют - брендування) права колонка
+
+<!-- AdRiver brend9fin -->
+<div id="brend9fin" class="brend9fin adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("brend9fin", {sid: 164099, sz: "brend9fin", pz: 0, bn: 9 });
+</script>
+<!-- AdRiver brend9fin END -->
+
+================================================================================
+Новости (pre-roll)
+
+<!-- AdRiver prerollnews9 -->
+<div id="prerollnews9" class="prerollnews9 adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("prerollnews9", {sid: 164097, sz: "prerollnews9", pz: 0, bn: 9 });
+</script>
+<!-- AdRiver prerollnews9 END -->
+
+================================================================================
+Бизнес (pre-roll)
+
+<!-- AdRiver prerollbiz9 -->
+<div id="prerollbiz9" class="prerollbiz9 adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("prerollbiz9", {sid: 164098, sz: "prerollbiz9", pz: 0, bn: 9 });
+</script>
+<!-- AdRiver prerollbiz9 END -->
+
+================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

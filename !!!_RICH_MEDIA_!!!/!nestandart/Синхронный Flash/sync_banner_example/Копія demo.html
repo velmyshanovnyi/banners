@@ -1,0 +1,50 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>index3</title>
+<LINK REL=stylesheet HREF="style1.css" TYPE="text/css">
+</head>
+<body bgcolor="#ffffff">
+<p><a href="javascript:d_fs();">Test #1</a> | <a href="javascript:d_sf();">Test #2</a></p>
+<table border="0" cellpadding="0" cellspacing="0"><tr>
+<td align="right" valign="top" id="b1">[Banner #1]</td>
+<td align="left" valign="top"id="b2">[Banner #2]</td>
+</tr></table>
+<script type="text/javascript">
+var b1 = document.getElementById('b1');
+var b2 =  document.getElementById('b2');
+
+function getFlashCode(path, id, width, height){
+	return '<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="'+width+'" height="'+height+'" id="obj-'+id+'" align="middle"><param name="allowScriptAccess" value="sameDomain" /><param name="movie" value="'+path+'" /><param name="quality" value="high" /><param name="bgcolor" value="#ffffff" /><embed src="'+path+'" quality="high" bgcolor="#ffffff" width="'+width+'" height="'+height+'" id="emb-'+id+'" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" /></object>';
+}
+
+function printB1(){
+	b1.innerHTML = getFlashCode('./600x90.swf', 'f1', 600, 90);
+}
+
+function printB2(){
+	b2.innerHTML = getFlashCode('./160x600.swf', 'f2', 160, 600);
+}
+
+function clear(){
+	b1.innerHTML = '[Banner #1]';
+	b2.innerHTML = '[Banner #2]';
+}
+
+function d_fs(){
+clear();
+setTimeout('printB1();', 1000);
+setTimeout('printB2();', 2000);
+}
+
+function d_sf(){
+clear();
+setTimeout('printB1();', 2000);
+setTimeout('printB2();', 1000);
+}
+
+</script>
+</body>
+</html>

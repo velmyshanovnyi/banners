@@ -1,0 +1,32 @@
+<script type='text/javascript'> 
+	d=document;
+	ref = Math.round((Math.random()*10000000));
+	ref += '&' + escape((d.referrer.length != 0) ? d.referrer : window.location.href);
+	d.write('<scr' + 'ipt src="http://banner.b-one.com.ua/ratatouille/holder/1031/js?'+ref+'"></scr' + 'ipt>');
+</script>
+
+
+
+
+------------------------------------
+ORIGINAL CODE
+-----
+
+<script type='text/javascript'> 
+	d=document;
+	ref = Math.round((Math.random()*10000000));
+	ref += '&' + escape((d.referrer.length != 0) ? d.referrer : window.location.href);
+	d.write('<scr' + 'ipt src="http://banner.b-one.com.ua/ratatouille/holder/1031/js?'+ref+'"></scr' + 'ipt>');
+</script>
+
+<script  type="text/javascript">
+if( readCookie(bO_cookieName) ){
+document.getElementById("bO_upper").style.display = "none";
+}else{
+createCookie(bO_cookieName,"1","1");
+}
+</script>
+
+
+
+-------------------------------------

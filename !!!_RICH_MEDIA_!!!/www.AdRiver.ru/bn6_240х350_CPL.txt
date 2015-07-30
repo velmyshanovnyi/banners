@@ -1,0 +1,33 @@
+<!-- AdRiver ajax2 -->
+<script type="text/javascript" src="http://static.liga.net/resources/files/bg/adriver.core.2.js"></script>
+<!-- AdRiver ajax2 END -->
+</head>
+********************************************************************************
+
+<body>
+
+================================================================================
+240х350 - CPL
+================================================================================
+Новости
+
+<center>
+<!-- AdRiver 240x350cplnews -->
+<div id="240x350cplnews" class="240x350cplnews adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("240x350cplnews", {sid:164097, bt:52, bn:6});
+</script>
+<!-- AdRiver 240x350cplnews END -->
+</center>
+================================================================================
+Мониторинг СМИ
+
+<center>
+<!-- AdRiver 240x350cplsmi -->
+<div id="240x350cplsmi" class="240x350cplsmi adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("240x350cplsmi", {sid: 164100, bt:52, bn:6});
+</script>
+<!-- AdRiver 240x350cplsmi END -->
+</center>
+================================================================================

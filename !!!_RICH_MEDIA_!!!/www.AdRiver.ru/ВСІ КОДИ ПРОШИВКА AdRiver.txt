@@ -1,0 +1,126 @@
+
+--------------------------------------------------------------------------------
+http://www.adriver.ru/doc/ban/spec/spec_282.html
+При создании flash-ролика в первом кадре пропишите следующие команды:
+
+if(ar_init == undefined){
+ ar_init = true;
+ System.security.allowDomain('*');
+}
+
+--------------------------------------------------------------------------------
+http://www.adriver.ru/doc/ban/spec/spec_282.html
+В вашем flash-ролике сделайте элемент button. Для этого элемента напишите следующий код:
+
+on (release) {
+       getURL(_root.link1, "_blank");
+}
+
+--------------------------------------------------------------------------------
+Другие варианты:
+Крестик закрытия реализуется как: 
+
+
+/* 
+on (release)
+{
+getURL(_root.ar_backref, "_self");
+getURL(_root.ar_backref, _root.target);
+getURL("FSCommand:kill", "");
+getURL("fscommand:quit", "");
+getURL("javascript:hide();"); // as1, as2
+getURL("javascript:clickCloseBanner()"); 
+getURL("javascript:FlashCorner.doAction('hide')");
+getURL('javascript:fscommand("quit", "")');
+getURL('javascript:fl_Command("kill",0)');
+ExternalInterface.call("kCommand", "kill", "0");
+}
+*/ 
+
+
+getURL(_root.link1, "_blank"); 
+fscommand('kill', ''); 
+unloadMovie(_root); 
+
+
+/* 
+on (release)
+{
+	fscommand("quit", "");
+}
+
+
+
+kill.onRelease=function() {
+	_root._visible=false;	
+	 getURL("FSCommand:kill","");
+}
+
+
+*/ 
+
+
+
+// "href='javascript: window.close();'"
+
+
+
+--------------------------------------------------------------------------------
+http://www.adriver.ru/doc/ban/descr/
+Кнопка «закрыть» для баннеров FullScreen, FlashFull
+ 
+on(release)
+{
+     getURL(_root.ar_backref, "_self");
+}
+
+--------------------------------------------------------------------------------
+http://www.adriver.ru/doc/ban/descr/
+Кнопка «закрыть» для баннеров CatFish на AJAX
+треба зробити кнопку з ЦИМ кодом, в перший кадр НІЧОГО не писати
+
+on (release) {
+fscommand('kill', ''); // чомусь в Хромі лишається прозорий неклікабельний леєр, а в ІЕ все ОК.
+unloadMovie(_root); 
+}
+
+АБО
+
+exit.onRelease=function(){
+	_root._visible=false;	
+	 getURL("FSCommand:kill","");
+}
+
+--------------------------------------------------------------------------------
+http://www.adriver.ru/doc/ban/spec/spec_554.html
+Rich-media на коде ajax
+
+Для кнопки закрытия пропишите следующий скрипт:
+
+on (release) {
+    richClose();
+}
+
+--------------------------------------------------------------------------------
+http://www.adriver.ru/doc/ban/spec/spec_554.html
+Rich-media на коде javascript -- Flash-ролик на ActionScript2:
+
+getURL('javascript:fl_Command("kill",0)');
+
+--------------------------------------------------------------------------------
+http://www.adriver.ru/doc/ban/spec/spec_554.html
+Rich-media на коде javascript -- Flash-ролик на ActionScript3:
+
+flash.external.ExternalInterface.call("fl_Command", "kill", 0); 
+
+--------------------------------------------------------------------------------
+
+
+
+#include "rich.adriver.as"
+
+
+
+
+
+

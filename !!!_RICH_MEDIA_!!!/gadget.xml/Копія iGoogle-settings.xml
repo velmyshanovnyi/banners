@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GadgetTabML version="1.0" xmlns:iGoogle="http://www.google.com/ig" xmlns="http://schemas.google.com/GadgetTabML/2008">
+  <SkinPreferences zipcode="Київ, Ukraine" country="ua" language="en" />
+  <Tab title="Home" skinUrl="http://themeliselotte.googlepages.com/timer.xml">
+    <Layout iGoogle:spec="TWO_COL_LAYOUT_2" />
+    <Section>
+      <Module type="GMAIL" xmlns="http://www.google.com/ig">
+        <UserPref name="numItems" value="9" />
+        <UserPref name="showPreview" value="true" />
+      </Module>
+      <Module type="REMOTE">
+        <ModulePrefs url="http://www.google.com/ig/modules/dictionary.xml" />
+        <UserPref name="sl" value="en" />
+        <UserPref name="tl" value="ru" />
+      </Module>
+      <Module type="REMOTE">
+        <ModulePrefs url="http://www.google.com/ig/modules/mygroups.xml" zipped="false" />
+      </Module>
+      <Module type="WEATHER" xmlns="http://www.google.com/ig">
+        <Location name="Kyiv" country="ua" language="en" latitude="50400001" longitude="30450000" />
+      </Module>
+      <Module type="REMOTE">
+        <ModulePrefs url="http://www.google.com/ig/modules/reader.xml" zipped="false" />
+        <UserPref name="itemCount" value="5" />
+        <UserPref name="ranking" value="d" />
+        <UserPref name="readItemsVisible" value="0" />
+        <UserPref name="linkTarget" value="new" />
+        <UserPref name="displayStreamId" value="user/05772313688979348665/state/com.google/reading-list" />
+      </Module>
+      <Module type="WEATHER" xmlns="http://www.google.com/ig">
+        <UserPref name="temperatureUnit" value="C" />
+        <Location name="kyiv" />
+      </Module>
+    </Section>
+    <Section>
+      <Module type="RSS" xmlns="http://www.google.com/ig">
+        <UserPref name="numItems" value="9" />
+        <ModulePrefs xmlUrl="http://www.liga.net/lenta/export/RSS/all.xml" />
+      </Module>
+      <Module type="REMOTE">
+        <ModulePrefs url="http://aruljohn.com/gadget/ip.xml" zipped="true" />
+      </Module>
+      <Module type="REMOTE">
+        <ModulePrefs url="http://lovemygadget.com/language/language_translation.xml" zipped="true" />
+      </Module>
+      <Module type="REMOTE">
+        <ModulePrefs url="http://www.google.com/ig/modules/calendar.xml" zipped="true" />
+        <UserPref name="calendarFeedsImported" value="1" />
+        <UserPref name="calendarFeeds"
+        value="({'http://www.google.com/calendar/feeds/velmyshanovnyi%40gmail.com/private/full':1,'http://www.google.com/calendar/feeds/k0bgd4381kpsgt4uvkh5n5dlc4%40group.calendar.google.com/private/full':1,'http://www.google.com/calendar/feeds/pora.region%40gmail.com/private/full':1,'http://www.google.com/calendar/feeds/bu33crkoh9bmk0rimfrnqc6sq4%40group.calendar.google.com/private/full':1,'http://www.google.com/calendar/feeds/c4o4i7m2lbamc4k26sc2vokh5g%40group.calendar.google.com/private/full':1,'http://www.google.com/calendar/feeds/f2u974vf1v3dhg6bbonl4e07i4%40group.calendar.google.com/private/full':1,'http://www.google.com/calendar/feeds/iljin.sergiy%40gmail.com/private/full':1,'http://www.google.com/calendar/feeds/p%23weather%40group.v.calendar.google.com/private/full':1,'http://www.google.com/calendar/feeds/utjn6bggfvmr9f02pfrl8pb1tk%40group.calendar.google.com/private/full':1,'http://www.google.com/calendar/feeds/9q6s17cisre73hd8t229he8qes%40group.calendar.google.com/private/full':1,'http://www.google.com/calendar/feeds/christian__ru%40holiday.calendar.google.com/private/full':1})" />
+      </Module>
+    </Section>
+  </Tab>
+  <Tab title="SMS" skinUrl="skins/springscape.xml">
+    <Layout iGoogle:spec="THREE_COL_LAYOUT_1" />
+    <Section>
+      <Module type="REMOTE">
+        <ModulePrefs url="http://www.onlinetextmessage.com/onlinetextmessage.xml" zipped="false" />
+      </Module>
+      <Module type="REMOTE">
+        <ModulePrefs url="http://www.callwave.com/widgets/googletextmessage.aspx" />
+      </Module>
+      <Module type="REMOTE">
+        <ModulePrefs url="http://www.freewebtown.com/theweather/googlegadgets/textmessage.xml" />
+      </Module>
+    </Section>
+    <Section>
+      <Module type="REMOTE">
+        <ModulePrefs url="http://google.mtatm.com/SendSMSGadget.xml" />
+      </Module>
+    </Section>
+    <Section>
+      <Module type="REMOTE">
+        <ModulePrefs url="http://www.telemessage.com/oplugin/beta/tm.xml" zipped="true" />
+      </Module>
+    </Section>
+  </Tab>
+  <Tab title="VOIP" skinUrl="skins/jr.xml">
+    <Layout iGoogle:spec="THREE_COL_LAYOUT_1" />
+    <Section>
+      <Module type="RSS" xmlns="http://www.google.com/ig">
+        <ModulePrefs xmlUrl="http://voip.weblogsinc.com/rss.xml" />
+      </Module>
+      <Module type="RSS" xmlns="http://www.google.com/ig">
+        <ModulePrefs xmlUrl="http://andyabramson.blogs.com/voipwatch/index.rdf" />
+      </Module>
+      <Module type="RSS" xmlns="http://www.google.com/ig">
+        <ModulePrefs xmlUrl="http://blog.tmcnet.com/blog/tom-keating/index.xml" />
+      </Module>
+      <Module type="RSS" xmlns="http://www.google.com/ig">
+        <ModulePrefs xmlUrl="http://www.voipnow.org/atom.xml" />
+      </Module>
+      <Module type="RSS" xmlns="http://www.google.com/ig">
+        <ModulePrefs xmlUrl="http://blogs.zdnet.com/ip-telephony/wp-rss2.php" />
+      </Module>
+      <Module type="RSS" xmlns="http://www.google.com/ig">
+        <ModulePrefs xmlUrl="http://www.voip-info.org/rss/wiki_rss.php" />
+      </Module>
+    </Section>
+    <Section />
+    <Section />
+  </Tab>
+  <Tab title="FULL" skinUrl="http://themeapi.googlecode.com/svn/trunk/fuse/fuse.xml">
+    <Layout iGoogle:spec="THREE_COL_LAYOUT_1" />
+    <Section>
+      <Module type="REMOTE">
+        <ModulePrefs url="http://www.google.com/ig/modules/mytopics.xml" />
+      </Module>
+      <Module type="BOOKMARKS" xmlns="http://www.google.com/ig" />
+      <Module type="GMAIL" xmlns="http://www.google.com/ig">
+        <UserPref name="numItems" value="9" />
+      </Module>
+      <Module type="REMOTE">
+        <ModulePrefs url="http://www.google.com/ig/modules/interesting_items.xml" />
+        <UserPref name="op" value="3" />
+        <UserPref name="selectedTab" value="3" />
+        <UserPref name="info_ts" value="19763197.044" />
+        <UserPref name="rec_pq" value="1" />
+        <UserPref name="rec_ig" value="1" />
+        <UserPref name="rec_up" value="1" />
+        <UserPref name="rec_vi" value="0" />
+        <UserPref name="rec_nw" value="1" />
+        <UserPref name="mm_tab_promo" value="0" />
+      </Module>
+      <Module type="REMOTE">
+        <ModulePrefs url="http://googlegadgets.neoteksystems.com/turbospiritGadget.Xml" zipped="true" />
+      </Module>
+      <Module type="REMOTE">
+        <ModulePrefs url="http://rlwidgets.com/gmodules/en_US/rlbookmark.xml" zipped="true" />
+      </Module>
+      <Module type="REMOTE">
+        <ModulePrefs url="http://www.google.com/ig/modules/googlelogo.xml" zipped="true" />
+        <UserPref name="logo" value="1" />
+        <UserPref name="delay" value="10" />
+        <UserPref name="newdoodles" value="1" />
+      </Module>
+      <Module type="NEWS" xmlns="http://www.google.com/ig">
+        <UserPref name="numItems" value="9" />
+        <UserPref name="section" value="QUERY" />
+        <UserPref name="query" value="abook" />
+      </Module>
+    </Section>
+    <Section />
+    <Section>
+      <Module type="SEARCH_HISTORY" xmlns="http://www.google.com/ig" />
+      <Module type="REMOTE">
+        <ModulePrefs url="http://www.google.com/ig/modules/docs.xml" />
+      </Module>
+      <Module type="REMOTE">
+        <ModulePrefs url="http://jattardi.googlepages.com/timedate.xml" />
+      </Module>
+    </Section>
+  </Tab>
+  <Tab isMobile="true">
+    <Layout iGoogle:spec="THREE_COL_LAYOUT_1" />
+    <Section>
+      <Module type="GMAIL" xmlns="http://www.google.com/ig" />
+    </Section>
+    <Section />
+    <Section />
+  </Tab>
+  <Tab title="liga.net" skinUrl="http://themeliselotte.googlepages.com/timer.xml">
+    <Layout iGoogle:spec="THREE_COL_LAYOUT_1" />
+    <Section>
+      <Module type="RSS" xmlns="http://www.google.com/ig">
+        <ModulePrefs xmlUrl="http://news.liga.net/all/rss.xml" />
+      </Module>
+      <Module type="RSS" xmlns="http://www.google.com/ig">
+        <ModulePrefs xmlUrl="http://news.liga.net/articles/rss.xml" />
+      </Module>
+      <Module type="RSS" xmlns="http://www.google.com/ig">
+        <ModulePrefs xmlUrl="http://news.liga.net/smi/rss.xml" />
+      </Module>
+      <Module type="RSS" xmlns="http://www.google.com/ig">
+        <ModulePrefs xmlUrl="http://news.liga.net/politics/rss.xml" />
+      </Module>
+      <Module type="RSS" xmlns="http://www.google.com/ig">
+        <ModulePrefs xmlUrl="http://news.liga.net/incident/rss.xml" />
+      </Module>
+      <Module type="RSS" xmlns="http://www.google.com/ig">
+        <ModulePrefs xmlUrl="http://news.liga.net/sport/rss.xml" />
+      </Module>
+    </Section>
+    <Section>
+      <Module type="RSS" xmlns="http://www.google.com/ig">
+        <ModulePrefs xmlUrl="http://news.liga.net/top/rss.xml" />
+      </Module>
+      <Module type="RSS" xmlns="http://www.google.com/ig">
+        <ModulePrefs xmlUrl="http://news.liga.net/interview/rss.xml" />
+      </Module>
+      <Module type="RSS" xmlns="http://www.google.com/ig">
+        <ModulePrefs xmlUrl="http://news.liga.net/pr/rss.xml" />
+      </Module>
+      <Module type="RSS" xmlns="http://www.google.com/ig">
+        <ModulePrefs xmlUrl="http://news.liga.net/economics/rss.xml" />
+      </Module>
+      <Module type="RSS" xmlns="http://www.google.com/ig">
+        <ModulePrefs xmlUrl="http://news.liga.net/world/rss.xml" />
+      </Module>
+      <Module type="RSS" xmlns="http://www.google.com/ig">
+        <ModulePrefs xmlUrl="http://news.liga.net/culture/rss.xml" />
+      </Module>
+    </Section>
+    <Section>
+      <Module type="RSS" xmlns="http://www.google.com/ig">
+        <ModulePrefs xmlUrl="http://news.liga.net/news/rss.xml" />
+      </Module>
+      <Module type="RSS" xmlns="http://www.google.com/ig">
+        <ModulePrefs xmlUrl="http://news.liga.net/photonews/rss.xml" />
+      </Module>
+      <Module type="RSS" xmlns="http://www.google.com/ig">
+        <ModulePrefs xmlUrl="http://news.liga.net/opinion/rss.xml" />
+      </Module>
+      <Module type="RSS" xmlns="http://www.google.com/ig">
+        <ModulePrefs xmlUrl="http://news.liga.net/society/rss.xml" />
+      </Module>
+      <Module type="RSS" xmlns="http://www.google.com/ig">
+        <ModulePrefs xmlUrl="http://news.liga.net/capital/rss.xml" />
+      </Module>
+      <Module type="RSS" xmlns="http://www.google.com/ig">
+        <ModulePrefs xmlUrl="http://news.liga.net/elect2007/all.xml" />
+      </Module>
+    </Section>
+  </Tab>
+  <Tab title="abook" skinUrl="skins/classic.xml">
+    <Layout iGoogle:spec="TWO_COL_LAYOUT_2" />
+    <Section>
+      <Module type="REMOTE">
+        <ModulePrefs url="http://www.flashgame.web.id/ig/1//xml/30.xml" zipped="false" />
+      </Module>
+    </Section>
+    <Section />
+  </Tab>
+</GadgetTabML>

@@ -1,0 +1,329 @@
+
+
+[bn7][288] biz.liga.net
+[bn7][289] avenue.liga.net
+[bn7][290] blog.liga.net
+[bn7][291] expert.liga.net
+[bn7][292] file.liga.net
+[bn7][293] finance.liga.net
+[bn7][294] forum.liga.net
+[bn7][295] liga.net(головна)
+[bn7][296] news.liga.net
+[bn7][297] ratings.liga.net
+[bn7][298] smi.liga.net
+
+
+
+
+
+
+<!-- OpenX JS Tag v2.8.5 [bn7][288] biz.liga.net -->
+<script type='text/javascript'><!--//<![CDATA[
+   document.MAX_ct0 ='INSERT_CLICKURL_HERE';
+   var m3_u = (location.protocol=='https:'?'https://bg.liga.net/www/delivery/ajs.php':'http://bg.liga.net/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=288");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+   }
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://bg.liga.net/www/delivery/ck.php?n=a69b656e&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://bg.liga.net/www/delivery/avw.php?zoneid=288&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a69b656e&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' /></a></noscript>
+<!-- OpenX JS Tag v2.8.5 [bn7][288] biz.liga.net END -->
+
+
+
+
+
+
+
+
+<!-- OpenX JS Tag v2.8.5 [bn7][289] avenue.liga.net -->
+<script type='text/javascript'><!--//<![CDATA[
+   document.MAX_ct0 ='INSERT_CLICKURL_HERE';
+   var m3_u = (location.protocol=='https:'?'https://bg.liga.net/www/delivery/ajs.php':'http://bg.liga.net/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=289");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+   }
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://bg.liga.net/www/delivery/ck.php?n=aebedf54&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://bg.liga.net/www/delivery/avw.php?zoneid=289&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=aebedf54&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' /></a></noscript>
+<!-- OpenX JS Tag v2.8.5 [bn7][289] avenue.liga.net END -->
+
+
+
+
+
+
+
+
+<!-- OpenX JS Tag v2.8.5 [bn7][290] blog.liga.net -->
+<script type='text/javascript'><!--//<![CDATA[
+   document.MAX_ct0 ='INSERT_CLICKURL_HERE';
+   var m3_u = (location.protocol=='https:'?'https://bg.liga.net/www/delivery/ajs.php':'http://bg.liga.net/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=290");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+   }
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://bg.liga.net/www/delivery/ck.php?n=afbeaea7&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://bg.liga.net/www/delivery/avw.php?zoneid=290&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=afbeaea7&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' /></a></noscript>
+<!-- OpenX JS Tag v2.8.5 [bn7][290] blog.liga.net END -->
+
+
+
+
+
+
+
+<!-- OpenX JS Tag v2.8.5 [bn7][291] expert.liga.net -->
+<script type='text/javascript'><!--//<![CDATA[
+   document.MAX_ct0 ='INSERT_CLICKURL_HERE';
+   var m3_u = (location.protocol=='https:'?'https://bg.liga.net/www/delivery/ajs.php':'http://bg.liga.net/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=291");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+   }
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://bg.liga.net/www/delivery/ck.php?n=a716fee9&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://bg.liga.net/www/delivery/avw.php?zoneid=291&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a716fee9&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' /></a></noscript>
+<!-- OpenX JS Tag v2.8.5 [bn7][291] expert.liga.net END -->
+
+
+
+
+
+
+
+<!-- OpenX JS Tag v2.8.5 [bn7][292] file.liga.net -->
+<script type='text/javascript'><!--//<![CDATA[
+   document.MAX_ct0 ='INSERT_CLICKURL_HERE';
+   var m3_u = (location.protocol=='https:'?'https://bg.liga.net/www/delivery/ajs.php':'http://bg.liga.net/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=292");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+   }
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://bg.liga.net/www/delivery/ck.php?n=a5e7c742&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://bg.liga.net/www/delivery/avw.php?zoneid=292&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a5e7c742&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' /></a></noscript>
+<!-- OpenX JS Tag v2.8.5 [bn7][292] file.liga.net END -->
+
+
+
+
+
+
+
+
+<!-- OpenX JS Tag v2.8.5 [bn7][293] finance.liga.net -->
+<script type='text/javascript'><!--//<![CDATA[
+   document.MAX_ct0 ='INSERT_CLICKURL_HERE';
+   var m3_u = (location.protocol=='https:'?'https://bg.liga.net/www/delivery/ajs.php':'http://bg.liga.net/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=293");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+   }
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://bg.liga.net/www/delivery/ck.php?n=aae8e9cd&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://bg.liga.net/www/delivery/avw.php?zoneid=293&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=aae8e9cd&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' /></a></noscript>
+<!-- OpenX JS Tag v2.8.5 [bn7][293] finance.liga.net END -->
+
+
+
+
+
+
+
+<!-- OpenX JS Tag v2.8.5 [bn7][294] forum.liga.net -->
+<script type='text/javascript'><!--//<![CDATA[
+   document.MAX_ct0 ='INSERT_CLICKURL_HERE';
+   var m3_u = (location.protocol=='https:'?'https://bg.liga.net/www/delivery/ajs.php':'http://bg.liga.net/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=294");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+   }
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://bg.liga.net/www/delivery/ck.php?n=a3e55572&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://bg.liga.net/www/delivery/avw.php?zoneid=294&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a3e55572&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' /></a></noscript>
+<!-- OpenX JS Tag v2.8.5 [bn7][294] forum.liga.net END -->
+
+
+
+
+
+
+
+<!-- OpenX JS Tag v2.8.5 [bn7][295] liga.net(головна) -->
+<script type='text/javascript'><!--//<![CDATA[
+   document.MAX_ct0 ='INSERT_CLICKURL_HERE';
+   var m3_u = (location.protocol=='https:'?'https://bg.liga.net/www/delivery/ajs.php':'http://bg.liga.net/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=295");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+   }
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://bg.liga.net/www/delivery/ck.php?n=a14fef25&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://bg.liga.net/www/delivery/avw.php?zoneid=295&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a14fef25&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' /></a></noscript>
+<!-- OpenX JS Tag v2.8.5 [bn7][295] liga.net(головна) END -->
+
+
+
+
+
+
+
+<!-- OpenX JS Tag v2.8.5 [bn7][296] news.liga.net -->
+<script type='text/javascript'><!--//<![CDATA[
+   document.MAX_ct0 ='INSERT_CLICKURL_HERE';
+   var m3_u = (location.protocol=='https:'?'https://bg.liga.net/www/delivery/ajs.php':'http://bg.liga.net/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=296");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+   }
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://bg.liga.net/www/delivery/ck.php?n=adbda6bb&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://bg.liga.net/www/delivery/avw.php?zoneid=296&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=adbda6bb&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' /></a></noscript>
+<!-- OpenX JS Tag v2.8.5 [bn7][296] news.liga.net END -->
+
+
+
+
+
+
+
+
+<!-- OpenX JS Tag v2.8.5 [bn7][297] ratings.liga.net -->
+<script type='text/javascript'><!--//<![CDATA[
+   document.MAX_ct0 ='INSERT_CLICKURL_HERE';
+   var m3_u = (location.protocol=='https:'?'https://bg.liga.net/www/delivery/ajs.php':'http://bg.liga.net/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=297");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+   }
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://bg.liga.net/www/delivery/ck.php?n=a0395524&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://bg.liga.net/www/delivery/avw.php?zoneid=297&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a0395524&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' /></a></noscript>
+<!-- OpenX JS Tag v2.8.5 [bn7][297] ratings.liga.net END -->
+
+
+
+
+
+
+
+
+<!-- OpenX JS Tag v2.8.5 [bn7][298] smi.liga.net -->
+<script type='text/javascript'><!--//<![CDATA[
+   document.MAX_ct0 ='INSERT_CLICKURL_HERE';
+   var m3_u = (location.protocol=='https:'?'https://bg.liga.net/www/delivery/ajs.php':'http://bg.liga.net/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=298");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+   }
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://bg.liga.net/www/delivery/ck.php?n=a39e91dc&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://bg.liga.net/www/delivery/avw.php?zoneid=298&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a39e91dc&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' /></a></noscript>
+<!-- OpenX JS Tag v2.8.5 [bn7][298] smi.liga.net END -->
+
+
+
+

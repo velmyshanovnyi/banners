@@ -1,0 +1,290 @@
+<!-- AdRiver ajax2 -->
+<script type="text/javascript" src="http://static.liga.net/resources/files/bg/adriver.core.2.js"></script>
+<!-- AdRiver ajax2 END -->
+</head>
+********************************************************************************
+
+<body>
+
+================================================================================
+240x350 (права колонка)
+================================================================================
+ЛІГА.net - 240x350 (права колонка)
+http://liga.net/
+Дата заміни: 20121207
+
+<center>
+<!-- AdRiver 240x350rliga -->
+<div id="240x350rliga" class="240x350rliga adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("240x350rliga", {sid: 164095, bt:52, bn: 1});
+</script>
+<!-- AdRiver 240x350rliga END -->
+</center>
+
+          <center>
+          <!-- AdRiver 240x350rliga -->
+          <div id="240x350rliga" class="240x350rliga adriverBanner"></div>
+          <script type="text/javascript"> 
+          new adriver("240x350rliga", {sid: 164095, sz: "240x350rliga", pz: 0, bn: 1 });
+          </script>
+          <!-- AdRiver 240x350rliga END -->
+          </center>
+
+          <center>
+          <!-- AdRiver 200x400rliga -->
+          <div id="200x400rliga" class="200x400rliga adriverBanner"></div>
+          <script type="text/javascript"> 
+          new adriver("200x400rliga", {sid: 164095, sz: "200x400rliga", pz: 0, bn: 1 });
+          </script>
+          <!-- AdRiver 200x400rliga END -->
+          </center>
+================================================================================
+Новости
+
+<center>
+<!-- AdRiver 240x350rnews -->
+<div id="240x350rnews" class="240x350rnews adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("240x350rnews", {sid:164097, bt:52, bn:1});
+</script>
+<!-- AdRiver 240x350rnews END -->
+</center>
+
+          <center>
+          <!-- AdRiver 240x350rnews -->
+          <div id="240x350rnews" class="240x350rnews adriverBanner"></div>
+          <script type="text/javascript"> 
+          new adriver("240x350rnews", {sid: 164097, sz: "240x350rnews", pz: 0, bn: 1 });
+          </script>
+          <!-- AdRiver 240x350rnews END -->
+          </center>
+
+          <center>
+          <!-- AdRiver 200x400rnews -->
+          <div id="200x400rnews" class="200x400rnews adriverBanner"></div>
+          <script type="text/javascript"> 
+          new adriver("200x400rnews", {sid: 164097, sz: "200x400rnews", pz: 0, bn: 1 });
+          </script>
+          <!-- AdRiver 200x400rnews END -->
+          </center>
+================================================================================
+БІЗ
+<center>
+<!-- AdRiver 240x350rbiz -->
+<div id="240x350rbiz" class="240x350rbiz adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("240x350rbiz", {sid:164098, bt:52, bn:1});
+</script>
+<!-- AdRiver 240x350rbiz END -->
+</center>
+
+          <center>
+          <!-- AdRiver 240x350rbiz -->
+          <div id="240x350rbiz" class="240x350rbiz adriverBanner" style="padding: 0px; margin: 0 0 30px 0;"></div>
+          <script type="text/javascript"> 
+          new adriver("240x350rbiz", {sid: 164098, sz: "240x350rbiz", pz: 0, bn: 1 });
+          </script>
+          <!-- AdRiver 240x350rbiz END -->
+          </center>
+================================================================================
+Финансы
+
+<center>
+<!-- AdRiver 240x350rfin -->
+<div id="240x350rfin" class="240x350rfin adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("240x350rfin", {sid:164099, bt:52, bn:1});
+</script>
+<!-- AdRiver 240x350rfin END -->
+</center>
+
+          <center>
+          <!-- AdRiver 240x350rfin -->
+          <div id="240x350rfin" class="240x350rfin adriverBanner"></div>
+          <script type="text/javascript"> 
+          new adriver("240x350rfin", {sid: 164099, sz: "240x350rfin", pz: 0, bn: 1 });
+          </script>
+          <!-- AdRiver 240x350rfin END -->
+          </center>
+================================================================================
+Досье
+http://file.liga.net/
+
+<center>
+<!-- AdRiver 240x350rfile -->
+<div id="240x350rfile" class="240x350rfile adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("240x350rfile", {sid: 164101, sz: "240x350rfile", pz: 0, bn: 1 });
+</script>
+<!-- AdRiver 240x350rfile END-->
+</center>
+
+
+          <center>
+          <!-- AdRiver 200x200rfile -->
+          <div id="200x200rfile" class="200x200rfile adriverBanner"></div>
+          <script type="text/javascript"> 
+          new adriver("200x200rfile", {sid: 164101, sz: "200x200rfile", pz: 0, bn: 2 });
+          </script>
+          <!-- AdRiver 200x200rfile END-->
+          </center>
+================================================================================
+Мониторинг СМИ    - 240x350 (правая колонка)
+http://smi.liga.net/
+(заміна кода 20130425)
+
+<center>
+<noindex>
+<!-- AdRiver 240x350rsmi -->
+<div id="240x350rsmi" class="240x350rsmi adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("240x350rsmi", {sid:164100, bt:52, bn:1});
+</script>
+<!-- AdRiver 240x350rsmi END -->
+</noindex>
+</center>
+
+              	<!-- AdRiver 200x400rsmi --> 
+              	<center><div id="200x400rsmi" class="200x400rsmi adriverBanner"></div></center> 
+              	<script type="text/javascript"> 
+              	new adriver("200x400rsmi", {sid: 164100, sz: "200x400rsmi", pz: 0, bn: 1 }); 
+              	</script> 
+              	<!-- AdRiver 200x400rsmi END -->
+              	
+================================================================================
+Блоги
+
+<center>
+</center>
+================================================================================
+Форумы
+
+<center>
+<noindex>
+<!-- AdRiver 240x350rforum -->
+<div id="240x350rforum" class="240x350rforum adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("240x350rforum", {sid:164102, bt:52, bn:1});
+</script>
+<!-- AdRiver 240x350rforum END -->
+</noindex>
+</center>
+================================================================================
+[CODE:2012] Рейтинги [CODE:2012]
+
+<center>
+<!-- AdRiver 240x350rratings -->
+<div id="240x350rratings" class="240x350rratings adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("240x350rratings", {sid: 175125, sz: "240x350rratings", pz: 0, bn: 1 });
+</script>
+<!-- AdRiver 240x350rratings END -->
+</center>
+================================================================================
+Пресс-центр
+
+<center>
+<!-- AdRiver 240x350rpress -->
+<div id="240x350rpress" class="240x350rpress adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("240x350rpress", {sid: 164105, sz: "240x350rpress", pz: 0, bn: 1 });
+</script>
+<!-- AdRiver 240x350rpress END -->
+</center>
+================================================================================
+Avenu
+
+<center>
+</center>
+================================================================================
+http://8marta.liga.net/
+
+<center>
+<!-- AdRiver 240x350r8marta -->
+<div id="240x350r8marta" class="240x350r8marta adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("240x350r8marta", {sid: 181038, sz: "240x350r8marta", pz: 0, bn: 1 });
+</script>
+<!-- AdRiver 240x350r8marta END -->
+</center>
+================================================================================
+http://www.ligazakon.ua
+
+<center>
+<!-- AdRiver 240x350rligazakon -->
+<div id="240x350rligazakon" class="240x350rligazakon adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("240x350rligazakon", {sid: 184182, sz: "240x350rligazakon", pz: 0, bn: 1 });
+</script>
+<!-- AdRiver 240x350rligazakon END -->
+</center>
+================================================================================
+http://search.ligazakon.ua
+
+<center>
+<!-- AdRiver 240x350rsearch -->
+<div id="240x350rsearch" class="240x350rsearch adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("240x350rsearch", {sid: 184183, sz: "240x350rsearch", pz: 0, bn: 1 });
+</script>
+<!-- AdRiver 240x350rsearch END -->
+</center>
+================================================================================
+http://buh.ligazakon.ua
+
+<center>
+<!-- AdRiver 240x350rbuh -->
+<div id="240x350rbuh" class="240x350rbuh adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("240x350rbuh", {sid: 184184, sz: "240x350rbuh", pz: 0, bn: 1 });
+</script>
+<!-- AdRiver 240x350rbuh END -->
+</center>
+================================================================================
+http://jurliga.ligazakon.ua
+
+<center>
+<!-- AdRiver 240x350rjurliga -->
+<div id="240x350rjurliga" class="240x350rjurliga adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("240x350rjurliga", {sid: 184185, sz: "240x350rjurliga", pz: 0, bn: 1 });
+</script>
+<!-- AdRiver 240x350rjurliga END -->
+</center>
+================================================================================
+http://moepravo.ligazakon.ua
+
+<center>
+<!-- AdRiver 240x350_moepravo_bn1  -->
+<div id="adriver_banner_1653004613"></div>
+<script type="text/javascript">
+new adriver("adriver_banner_1653004613", {sid:184883, bt:52, bn:1});
+</script>
+<!-- AdRiver 240x350_moepravo_bn1 END -->
+</center>
+================================================================================
+http://ny.liga.net
+Дата заміни: 20121207
+
+<center>
+<!-- AdRiver 240x350rny -->
+<div id="240x350rny" class="240x350rny adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("240x350rny", {sid: 168671, bt:52, bn: 1});
+</script>
+<!-- AdRiver 240x350rny END -->
+</center>
+================================================================================
+http://seychas.ua
+Дата заміни: нема
+
+<center>
+<!-- AdRiver bn1seychas -->
+<div id="bn1seychas" class="bn1seychas adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("bn1seychas", {sid: 164106, bt:52, bn: 1});
+</script>
+<!-- AdRiver bn1seychas END -->
+</center>
+================================================================================

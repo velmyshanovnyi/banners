@@ -1,0 +1,652 @@
+<!-- AdRiver ajax2 -->
+<script type="text/javascript" src="http://3doma.ua/adriver.core.2.js"></script>
+<!-- AdRiver ajax2 END -->
+</head>
+********************************************************************************
+
+<body>
+
+================================================================================
+info@3Doma.ua
+3doma
+irina_vekl
+
+Регистрационная информация выслана на указанный Вами E-Mail (info@3Doma.ua) 
+--------------------------------------------------------------------------------
+САЙТИ
+
+3d        173679
+3dreal    179709
+3drem     179710
+3ddes     179711
+3dspec    179712
+3dkonk    179713
+--------------------------------------------------------------------------------
+УРЛИ:
+
+3doma.ua
+realty-test.office.liga.net
+realty-dev.office.liga.net
+realty.office.liga.net
+
+realty.3doma.ua
+realty.realty-test.office.liga.net
+realty.realty-dev.office.liga.net
+realty.realty.office.liga.net
+
+remont.3doma.ua
+remont.realty-test.office.liga.net
+remont.realty-dev.office.liga.net
+remont.realty.office.liga.net
+
+design.3doma.ua
+design.realty-test.office.liga.net
+design.realty-dev.office.liga.net
+design.realty.office.liga.net
+
+СПЕЦТЕМА:
+3doma.ua
+realty-test.office.liga.net
+realty-dev.office.liga.net
+realty.office.liga.net
+3doma.ua/ny
+
+
+--------------------------------------------------------------------------------
+ЗОНИ:
+
+240x350r3d      [bn:1]  173679
+240x350r3dreal  [bn:1]  179709
+240x350r3drem   [bn:1]  179710
+240x350r3ddes   [bn:1]  179711
+240x350r3dspec  [bn:1]  179712
+240x350r3dkonk  [bn:1]  179713
+
+240x100r3d      [bn:2]  173679
+240x100r3dreal  [bn:2]  179709
+240x100r3drem   [bn:2]  179710
+240x100r3ddes   [bn:2]  179711
+240x100r3dspec  [bn:2]  179712
+240x100r3dkonk  [bn:2]  179713
+
+728x90t3d       [bn:3]  173679
+728x90t3dreal   [bn:3]  179709
+728x90t3drem    [bn:3]  179710
+728x90t3ddes    [bn:3]  179711
+728x90t3dspec   [bn:3]  179712
+728x90t3dkonk   [bn:3]  179713
+
+rich3d          [bn:4]  173679
+rich3dreal      [bn:4]  179709
+rich3drem       [bn:4]  179710
+rich3ddes       [bn:4]  179711
+rich3dspec      [bn:4]  179712
+rich3dkonk      [bn:4]  179713
+
+140x300l3d      [bn:5]  173679
+140x300l3dreal  [bn:5]  179709
+140x300l3drem   [bn:5]  179710
+140x300l3ddes   [bn:5]  179711
+140x300l3dspec  [bn:5]  179712
+140x300l3dkonk  [bn:5]  179713
+
+
+
+
+================================================================================
+КОДИ:
+================================================================================
+240x350r3d [bn:1] 173679
+
+<center>
+<!-- AdRiver 240x350r3d -->
+<div id="240x350r3d" class="240x350r3d adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("240x350r3d", {sid:173679, bt:52, bn:1});
+</script>
+<!-- AdRiver 240x350r3d END -->
+</center>
+
+
+          <center>
+          <!-- AdRiver 240x350r3d -->
+          <div id="240x350r3d" class="240x350r3d adriverBanner"></div>
+          <script type="text/javascript"> 
+          new adriver("240x350r3d", {sid: 173679, sz: "240x350r3d", pz: 0, bn: 1 });
+          </script>
+          <!-- AdRiver 240x350r3d END -->
+          </center>
+================================================================================
+240x350r3dreal [bn:1] 179709
+
+<center>
+<!-- AdRiver 240x350r3dreal -->
+<div id="240x350r3dreal" class="240x350r3dreal adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("240x350r3dreal", {sid:179709, bt:52, bn:1});
+</script>
+<!-- AdRiver 240x350r3dreal END -->
+</center>
+
+          <center>
+          <!-- AdRiver 240x350r3dreal -->
+          <div id="240x350r3dreal" class="240x350r3dreal adriverBanner"></div>
+          <script type="text/javascript"> 
+          new adriver("240x350r3dreal", {sid: 179709, sz: "240x350r3dreal", pz: 0, bn: 1 });
+          </script>
+          <!-- AdRiver 240x350r3dreal END -->
+          </center>
+================================================================================
+240x350r3drem [bn:1]  179710
+
+<center>
+<!-- AdRiver 240x350r3drem -->
+<div id="240x350r3drem" class="240x350r3drem adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("240x350r3drem", {sid:179710, bt:52, bn:1});
+</script>
+<!-- AdRiver 240x350r3drem END -->
+</center>
+
+          <center>
+          <!-- AdRiver 240x350r3drem -->
+          <div id="240x350r3drem" class="240x350r3drem adriverBanner"></div>
+          <script type="text/javascript"> 
+          new adriver("240x350r3drem", {sid: 179710, sz: "240x350r3drem", pz: 0, bn: 1 });
+          </script>
+          <!-- AdRiver 240x350r3drem END -->
+          </center>
+================================================================================
+240x350r3ddes [bn:1]  179711
+
+<center>
+<!-- AdRiver 240x350r3ddes -->
+<div id="240x350r3ddes" class="240x350r3ddes adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("240x350r3ddes", {sid:179711, bt:52, bn:1});
+</script>
+<!-- AdRiver 240x350r3ddes END -->
+</center>
+
+
+          <center>
+          <!-- AdRiver 240x350r3ddes -->
+          <div id="240x350r3ddes" class="240x350r3ddes adriverBanner"></div>
+          <script type="text/javascript"> 
+          new adriver("240x350r3ddes", {sid: 179711, sz: "240x350r3ddes", pz: 0, bn: 1 });
+          </script>
+          <!-- AdRiver 240x350r3ddes END -->
+          </center>
+================================================================================
+240x350r3dspec [bn:1] 179712
+
+<center>
+<!-- AdRiver 240x350r3dspec -->
+<div id="240x350r3dspec" class="240x350r3dspec adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("240x350r3dspec", {sid: 179712, sz: "240x350r3dspec", pz: 0, bn: 1 });
+</script>
+<!-- AdRiver 240x350r3dspec END -->
+</center>
+================================================================================
+240x350r3dkonk [bn:1] 179713
+
+<center>
+<!-- AdRiver 240x350r3dkonk -->
+<div id="240x350r3dkonk" class="240x350r3dkonk adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("240x350r3dkonk", {sid: 179713, sz: "240x350r3dkonk", pz: 0, bn: 1 });
+</script>
+<!-- AdRiver 240x350r3dkonk END -->
+</center>
+================================================================================
+
+
+
+
+
+
+
+
+================================================================================
+240x100r3d [bn:2] 173679
+
+<center>
+<!-- AdRiver 240x100r3d -->
+<div id="240x100r3d" class="240x100r3d adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("240x100r3d", {sid:173679, bt:52, bn:2});
+</script>
+<!-- AdRiver 240x100r3d END -->
+</center>
+
+          <center>
+          <!-- AdRiver 240x100r3d -->
+          <div id="240x100r3d" class="240x100r3d adriverBanner"></div>
+          <script type="text/javascript"> 
+          new adriver("240x100r3d", {sid: 173679, sz: "240x100r3d", pz: 0, bn: 2 });
+          </script>
+          <!-- AdRiver 240x100r3d END -->
+          </center>
+================================================================================
+240x100r3dreal [bn:2] 179709
+
+<center>
+<!-- AdRiver 240x100r3dreal -->
+<div id="240x100r3dreal" class="240x100r3dreal adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("240x100r3dreal", {sid:179709, bt:52, bn:2});
+</script>
+<!-- AdRiver 240x100r3dreal END -->
+</center>
+
+          <center>
+          <!-- AdRiver 240x100r3dreal -->
+          <div id="240x100r3dreal" class="240x100r3dreal adriverBanner"></div>
+          <script type="text/javascript"> 
+          new adriver("240x100r3dreal", {sid: 179709, sz: "240x100r3dreal", pz: 0, bn: 2 });
+          </script>
+          <!-- AdRiver 240x100r3dreal END -->
+          </center>
+================================================================================
+240x100r3drem [bn:2]  179710
+
+<center>
+<!-- AdRiver 240x100r3drem -->
+<div id="240x100r3drem" class="240x100r3drem adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("240x100r3drem", {sid:179710, bt:52, bn:2});
+</script>
+<!-- AdRiver 240x100r3drem END -->
+</center>
+
+          <center>
+          <!-- AdRiver 240x100r3drem -->
+          <div id="240x100r3drem" class="240x100r3drem adriverBanner"></div>
+          <script type="text/javascript"> 
+          new adriver("240x100r3drem", {sid: 179710, sz: "240x100r3drem", pz: 0, bn: 2 });
+          </script>
+          <!-- AdRiver 240x100r3drem END -->
+          </center>
+================================================================================
+240x100r3ddes [bn:2]  179711
+
+<center>
+<!-- AdRiver 240x100r3ddes -->
+<div id="240x100r3ddes" class="240x100r3ddes adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("240x100r3ddes", {sid:179711, bt:52, bn:2});
+</script>
+<!-- AdRiver 240x100r3ddes END -->
+</center>
+
+          <center>
+          <!-- AdRiver 240x100r3ddes -->
+          <div id="240x100r3ddes" class="240x100r3ddes adriverBanner"></div>
+          <script type="text/javascript"> 
+          new adriver("240x100r3ddes", {sid: 179711, sz: "240x100r3ddes", pz: 0, bn: 2 });
+          </script>
+          <!-- AdRiver 240x100r3ddes END -->
+          </center>
+================================================================================
+240x100r3dspec [bn:2] 179712
+
+<center>
+<!-- AdRiver 240x100r3dspec -->
+<div id="240x100r3dspec" class="240x100r3dspec adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("240x100r3dspec", {sid: 179712, sz: "240x100r3dspec", pz: 0, bn: 2 });
+</script>
+<!-- AdRiver 240x100r3dspec END -->
+</center>
+================================================================================
+240x100r3dkonk [bn:2] 179713
+
+<center>
+<!-- AdRiver 240x100r3dkonk -->
+<div id="240x100r3dkonk" class="240x100r3dkonk adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("240x100r3dkonk", {sid: 179713, sz: "240x100r3dkonk", pz: 0, bn: 2 });
+</script>
+<!-- AdRiver 240x100r3dkonk END -->
+</center>
+================================================================================
+
+================================================================================
+
+
+
+
+
+
+================================================================================
+728x90t3d [bn:3]  173679
+
+<center>
+<!-- AdRiver 728x90t3d -->
+<div id="728x90t3d" class="728x90t3d adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("728x90t3d", {sid:173679, bt:52, bn:3});
+</script>
+<!-- AdRiver 728x90t3d END -->
+</center>
+
+
+          <center>
+          <!-- AdRiver 728x90t3d -->
+          <div id="728x90t3d" class="728x90t3d adriverBanner"></div>
+          <script type="text/javascript"> 
+          new adriver("728x90t3d", {sid: 173679, sz: "728x90t3d", pz: 0, bn: 3 });
+          </script>
+          <!-- AdRiver 728x90t3d END -->
+          </center>
+================================================================================
+728x90t3dreal [bn:3]  179709
+
+<center>
+<!-- AdRiver 728x90t3dreal -->
+<div id="728x90t3dreal" class="728x90t3dreal adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("728x90t3dreal", {sid:179709, bt:52, bn:3});
+</script>
+<!-- AdRiver 728x90t3dreal END -->
+</center>
+
+
+          <center>
+          <!-- AdRiver 728x90t3dreal -->
+          <div id="728x90t3dreal" class="728x90t3dreal adriverBanner"></div>
+          <script type="text/javascript"> 
+          new adriver("728x90t3dreal", {sid: 179709, sz: "728x90t3dreal", pz: 0, bn: 3 });
+          </script>
+          <!-- AdRiver 728x90t3dreal END -->
+          </center>
+================================================================================
+728x90t3dreal-n980 [bn:3]  179709 -- ДЛЯ КАМПАНІЇ n980
+http://realty.3doma.ua/news/1794746-3doma_ua_priglashaet_polzovateley_portala_na_kruglyy_stol_.html
+
+<center>
+<!-- ONLY: для кампанії n980 -->
+<!-- AdRiver 728x90t3dreal-n980 -->
+<div id="728x90t3dreal-n980" class="728x90t3dreal-n980 adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("728x90t3dreal-n980", {sid: 179709, sz: "728x90t3dreal-n980", pz: 0, bn: 3 });
+</script>
+<!-- AdRiver 728x90t3dreal-n980 END -->
+<!-- ONLY: для кампанії n980 END -->
+</center>
+================================================================================
+728x90t3drem [bn:3] 179710
+
+<center>
+<!-- AdRiver 728x90t3drem -->
+<div id="728x90t3drem" class="728x90t3drem adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("728x90t3drem", {sid:179710, bt:52, bn:3});
+</script>
+<!-- AdRiver 728x90t3drem END -->
+</center>
+
+          <center>
+          <!-- AdRiver 728x90t3drem -->
+          <div id="728x90t3drem" class="728x90t3drem adriverBanner"></div>
+          <script type="text/javascript"> 
+          new adriver("728x90t3drem", {sid: 179710, sz: "728x90t3drem", pz: 0, bn: 3 });
+          </script>
+          <!-- AdRiver 728x90t3drem END -->
+          </center>
+================================================================================
+728x90t3ddes [bn:3] 179711
+
+<center>
+<!-- AdRiver 728x90t3ddes -->
+<div id="728x90t3ddes" class="728x90t3ddes adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("728x90t3ddes", {sid:179711, bt:52, bn:3});
+</script>
+<!-- AdRiver 728x90t3ddes END -->
+</center>
+
+
+          <center>
+          <!-- AdRiver 728x90t3ddes -->
+          <div id="728x90t3ddes" class="728x90t3ddes adriverBanner"></div>
+          <script type="text/javascript"> 
+          new adriver("728x90t3ddes", {sid: 179711, sz: "728x90t3ddes", pz: 0, bn: 3 });
+          </script>
+          <!-- AdRiver 728x90t3ddes END -->
+          </center>
+================================================================================
+728x90t3dspec [bn:3]  179712
+
+<center>
+<!-- AdRiver 728x90t3dspec -->
+<div id="728x90t3dspec" class="728x90t3dspec adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("728x90t3dspec", {sid: 179712, sz: "728x90t3dspec", pz: 0, bn: 3 });
+</script>
+<!-- AdRiver 728x90t3dspec END -->
+</center>
+================================================================================
+728x90t3dkonk [bn:3]  179713
+
+<center>
+<!-- AdRiver 728x90t3dkonk -->
+<div id="728x90t3dkonk" class="728x90t3dkonk adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("728x90t3dkonk", {sid: 179713, sz: "728x90t3dkonk", pz: 0, bn: 3 });
+</script>
+<!-- AdRiver 728x90t3dkonk END -->
+</center>
+================================================================================
+
+
+
+
+
+
+================================================================================
+rich3d [bn:4] 173679
+
+<!-- AdRiver rich3d -->
+<div id="rich3d" class="rich3d adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("rich3d", {sid:173679, bt:52, bn:4});
+</script>
+<!-- AdRiver rich3d END -->
+
+
+          <!-- AdRiver rich3d -->
+          <div id="rich3d" class="rich3d adriverBanner"></div>
+          <script type="text/javascript"> 
+          new adriver("rich3d", {sid: 173679, sz: "rich3d", pz: 0, bn: 4 });
+          </script>
+          <!-- AdRiver rich3d END -->
+================================================================================
+rich3dreal [bn:4] 179709
+
+<!-- AdRiver rich3dreal -->
+<div id="rich3dreal" class="rich3dreal adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("rich3dreal", {sid:179709, bt:52, bn:4});
+</script>
+<!-- AdRiver rich3dreal END -->
+
+
+          <!-- AdRiver rich3dreal -->
+          <div id="rich3dreal" class="rich3dreal adriverBanner"></div>
+          <script type="text/javascript"> 
+          new adriver("rich3dreal", {sid: 179709, sz: "rich3dreal", pz: 0, bn: 4 });
+          </script>
+          <!-- AdRiver rich3dreal END -->
+================================================================================
+rich3drem [bn:4]  179710
+
+<!-- AdRiver rich3drem -->
+<div id="rich3drem" class="rich3drem adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("rich3drem", {sid:179710, bt:52, bn:4});
+</script>
+<!-- AdRiver rich3drem END -->
+
+          <!-- AdRiver rich3drem -->
+          <div id="rich3drem" class="rich3drem adriverBanner"></div>
+          <script type="text/javascript"> 
+          new adriver("rich3drem", {sid: 179710, sz: "rich3drem", pz: 0, bn: 4 });
+          </script>
+          <!-- AdRiver rich3drem END -->
+================================================================================
+rich3ddes [bn:4]  179711
+
+<!-- AdRiver rich3ddes -->
+<div id="rich3ddes" class="rich3ddes adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("rich3ddes", {sid:179711, bt:52, bn:4});
+</script>
+<!-- AdRiver rich3ddes END -->
+
+
+          <!-- AdRiver rich3ddes -->
+          <div id="rich3ddes" class="rich3ddes adriverBanner"></div>
+          <script type="text/javascript"> 
+          new adriver("rich3ddes", {sid: 179711, sz: "rich3ddes", pz: 0, bn: 4 });
+          </script>
+          <!-- AdRiver rich3ddes END -->
+================================================================================
+rich3dspec [bn:4] 179712
+
+<!-- AdRiver rich3dspec -->
+<div id="rich3dspec" class="rich3dspec adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("rich3dspec", {sid: 179712, sz: "rich3dspec", pz: 0, bn: 4 });
+</script>
+<!-- AdRiver rich3dspec END -->
+================================================================================
+rich3dkonk [bn:4] 179713
+
+<!-- AdRiver rich3dkonk -->
+<div id="rich3dkonk" class="rich3dkonk adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("rich3dkonk", {sid: 179713, sz: "rich3dkonk", pz: 0, bn: 4 });
+</script>
+<!-- AdRiver rich3dkonk END -->
+================================================================================
+
+
+
+
+
+
+================================================================================
+140x300l3d [bn:5] 173679
+
+<center>
+<!-- AdRiver 140x300l3d -->
+<div id="140x300l3d" class="140x300l3d adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("140x300l3d", {sid:173679, bt:52, bn:5});
+</script>
+<!-- AdRiver 140x300l3d END -->
+</center>
+
+
+          <center>
+          <!-- AdRiver 140x300l3d -->
+          <div id="140x300l3d" class="140x300l3d adriverBanner"></div>
+          <script type="text/javascript"> 
+          new adriver("140x300l3d", {sid: 173679, sz: "140x300l3d", pz: 0, bn: 5 });
+          </script>
+          <!-- AdRiver 140x300l3d END -->
+          </center>
+================================================================================
+140x300l3dreal [bn:5] 179709
+
+<center>
+<!-- AdRiver 140x300l3dreal -->
+<div id="140x300l3dreal" class="140x300l3dreal adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("140x300l3dreal", {sid:179709, bt:52, bn:5});
+</script>
+<!-- AdRiver 140x300l3dreal END -->
+</center>
+
+
+          <center>
+          <!-- AdRiver 140x300l3dreal -->
+          <div id="140x300l3dreal" class="140x300l3dreal adriverBanner"></div>
+          <script type="text/javascript"> 
+          new adriver("140x300l3dreal", {sid: 179709, sz: "140x300l3dreal", pz: 0, bn: 5 });
+          </script>
+          <!-- AdRiver 140x300l3dreal END -->
+          </center>
+================================================================================
+140x300l3drem [bn:5] 179710
+
+<center>
+<!-- AdRiver 140x300l3drem -->
+<div id="140x300l3drem" class="140x300l3drem adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("140x300l3drem", {sid:179710, bt:52, bn:5});
+</script>
+<!-- AdRiver 140x300l3drem END -->
+</center>
+
+          <center>
+          <!-- AdRiver 140x300l3drem -->
+          <div id="140x300l3drem" class="140x300l3drem adriverBanner"></div>
+          <script type="text/javascript"> 
+          new adriver("140x300l3drem", {sid: 179710, sz: "140x300l3drem", pz: 0, bn: 5 });
+          </script>
+          <!-- AdRiver 140x300l3drem END -->
+          </center>
+================================================================================
+140x300l3ddes [bn:5]  179711
+
+<center>
+<!-- AdRiver 140x300l3ddes -->
+<div id="140x300l3ddes" class="140x300l3ddes adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("140x300l3ddes", {sid:179711, bt:52, bn:5});
+</script>
+<!-- AdRiver 140x300l3ddes END -->
+</center>
+
+          <center>
+          <!-- AdRiver 140x300l3ddes -->
+          <div id="140x300l3ddes" class="140x300l3ddes adriverBanner"></div>
+          <script type="text/javascript"> 
+          new adriver("140x300l3ddes", {sid: 179711, sz: "140x300l3ddes", pz: 0, bn: 5 });
+          </script>
+          <!-- AdRiver 140x300l3ddes END -->
+          </center>
+================================================================================
+140x300l3dspec [bn:5] 179712
+
+<center>
+<!-- AdRiver 140x300l3dspec -->
+<div id="140x300l3dspec" class="140x300l3dspec adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("140x300l3dspec", {sid: 179712, sz: "140x300l3dspec", pz: 0, bn: 5 });
+</script>
+<!-- AdRiver 140x300l3dspec END -->
+</center>
+================================================================================
+140x300l3dkonk [bn:5] 179713
+
+<center>
+<!-- AdRiver 140x300l3dkonk -->
+<div id="140x300l3dkonk" class="140x300l3dkonk adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("140x300l3dkonk", {sid: 179713, sz: "140x300l3dkonk", pz: 0, bn: 5 });
+</script>
+<!-- AdRiver 140x300l3dkonk END -->
+</center>
+================================================================================
+
+================================================================================
+
+================================================================================
+
+================================================================================
+
+================================================================================

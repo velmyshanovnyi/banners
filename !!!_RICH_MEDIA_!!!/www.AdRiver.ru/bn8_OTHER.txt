@@ -1,0 +1,62 @@
+<!-- AdRiver ajax2 -->
+<script type="text/javascript" src="http://static.liga.net/resources/files/bg/adriver.core.2.js"></script>
+<!-- AdRiver ajax2 END -->
+</head>
+********************************************************************************
+
+<body>
+
+================================================================================
+РІЗНІ КОДИ (переважно тимчасові)
+================================================================================
+ЛІГА.net
+
+
+<!-- AdRiver brendtopliga -->
+<div id="brendtopliga" class="brendtopliga adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("brendtopliga", {sid: 164095, sz: "brendtopliga", pz: 0, bn: 9 });
+</script>
+<!-- AdRiver brendtopliga END -->
+
+================================================================================
+Фінанси (Депозити/кредити - брендування) права колонка
+
+<!-- AdRiver brend8fin -->
+<div id="brend8fin" class="brend8fin adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("brend8fin", {sid: 164099, sz: "brend8fin", pz: 0, bn: 8 });
+</script>
+<!-- AdRiver brend8fin END -->
+
+================================================================================
+
+
+
+
+
+
+================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

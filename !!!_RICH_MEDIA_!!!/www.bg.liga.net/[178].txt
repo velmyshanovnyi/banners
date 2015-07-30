@@ -1,0 +1,236 @@
+
+
+
+
+
+
+
+<!--/* LIGA.net OpenX Javascript Tag v2.8.2 www.bg.liga.net [178-01] [biz] */-->
+<script type='text/javascript'><!--//<![CDATA[
+   document.MAX_ct0 ='INSERT_CLICKURL_HERE';
+   var m3_u = (location.protocol=='https:'?'https://bg.liga.net/www/delivery/ajs.php':'http://bg.liga.net/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=178&amp;source=biz&amp;target=_blank&amp;charset=UTF-8&amp;block=1&amp;blockcampaign=1");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write ('&amp;charset=UTF-8');
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+   }
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://bg.liga.net/www/delivery/ck.php?n=a8624d74&amp;cb=17801' target='_blank'><img src='http://bg.liga.net/www/delivery/avw.php?zoneid=178&amp;source=biz&amp;charset=UTF-8&amp;cb=17801&amp;n=a8624d74&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' /></a></noscript>
+<!--/* LIGA.net OpenX Javascript Tag v2.8.2 www.bg.liga.net [178-01] [biz] END */-->
+
+
+<!--/* LIGA.net OpenX Javascript Tag v2.8.2 www.bg.liga.net [178-02] [biz] */-->
+<script type='text/javascript'><!--//<![CDATA[
+   document.MAX_ct0 ='INSERT_CLICKURL_HERE';
+   var m3_u = (location.protocol=='https:'?'https://bg.liga.net/www/delivery/ajs.php':'http://bg.liga.net/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=178&amp;source=biz&amp;target=_blank&amp;charset=UTF-8&amp;block=1&amp;blockcampaign=1");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write ('&amp;charset=UTF-8');
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+   }
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://bg.liga.net/www/delivery/ck.php?n=aeeb0c40&amp;cb=17802' target='_blank'><img src='http://bg.liga.net/www/delivery/avw.php?zoneid=178&amp;source=biz&amp;charset=UTF-8&amp;cb=17802&amp;n=aeeb0c40&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' /></a></noscript>
+<!--/* LIGA.net OpenX Javascript Tag v2.8.2 www.bg.liga.net [178-02] [biz] END */-->
+
+
+<!--/* LIGA.net OpenX Javascript Tag v2.8.2 www.bg.liga.net [178-03] [biz] */-->
+<script type='text/javascript'><!--//<![CDATA[
+   document.MAX_ct0 ='INSERT_CLICKURL_HERE';
+   var m3_u = (location.protocol=='https:'?'https://bg.liga.net/www/delivery/ajs.php':'http://bg.liga.net/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=178&amp;source=biz&amp;target=_blank&amp;charset=UTF-8&amp;block=1&amp;blockcampaign=1");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write ('&amp;charset=UTF-8');
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+   }
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://bg.liga.net/www/delivery/ck.php?n=a23a65f0&amp;cb=17803' target='_blank'><img src='http://bg.liga.net/www/delivery/avw.php?zoneid=178&amp;source=biz&amp;charset=UTF-8&amp;cb=17803&amp;n=a23a65f0&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' /></a></noscript>
+<!--/* LIGA.net OpenX Javascript Tag v2.8.2 www.bg.liga.net [178-03] [biz] END */-->
+
+
+<!--/* LIGA.net OpenX Javascript Tag v2.8.2 www.bg.liga.net [178-04] [biz] */-->
+<script type='text/javascript'><!--//<![CDATA[
+   document.MAX_ct0 ='INSERT_CLICKURL_HERE';
+   var m3_u = (location.protocol=='https:'?'https://bg.liga.net/www/delivery/ajs.php':'http://bg.liga.net/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=178&amp;source=biz&amp;target=_blank&amp;charset=UTF-8&amp;block=1&amp;blockcampaign=1");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write ('&amp;charset=UTF-8');
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+   }
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://bg.liga.net/www/delivery/ck.php?n=a7acdf00&amp;cb=17804' target='_blank'><img src='http://bg.liga.net/www/delivery/avw.php?zoneid=178&amp;source=biz&amp;charset=UTF-8&amp;cb=17804&amp;n=a7acdf00&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' /></a></noscript>
+<!--/* LIGA.net OpenX Javascript Tag v2.8.2 www.bg.liga.net [178-04] [biz] END */-->
+
+
+<!--/* LIGA.net OpenX Javascript Tag v2.8.2 www.bg.liga.net [178-05] [biz] */-->
+<script type='text/javascript'><!--//<![CDATA[
+   document.MAX_ct0 ='INSERT_CLICKURL_HERE';
+   var m3_u = (location.protocol=='https:'?'https://bg.liga.net/www/delivery/ajs.php':'http://bg.liga.net/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=178&amp;source=biz&amp;target=_blank&amp;charset=UTF-8&amp;block=1&amp;blockcampaign=1");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write ('&amp;charset=UTF-8');
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+   }
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://bg.liga.net/www/delivery/ck.php?n=a8c8d8c7&amp;cb=17805' target='_blank'><img src='http://bg.liga.net/www/delivery/avw.php?zoneid=178&amp;source=biz&amp;charset=UTF-8&amp;cb=17805&amp;n=a8c8d8c7&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' /></a></noscript>
+<!--/* LIGA.net OpenX Javascript Tag v2.8.2 www.bg.liga.net [178-05] [biz] END */-->
+
+
+<!--/* LIGA.net OpenX Javascript Tag v2.8.2 www.bg.liga.net [178-06] [biz] */-->
+<script type='text/javascript'><!--//<![CDATA[
+   document.MAX_ct0 ='INSERT_CLICKURL_HERE';
+   var m3_u = (location.protocol=='https:'?'https://bg.liga.net/www/delivery/ajs.php':'http://bg.liga.net/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=178&amp;source=biz&amp;target=_blank&amp;charset=UTF-8&amp;block=1&amp;blockcampaign=1");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write ('&amp;charset=UTF-8');
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+   }
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://bg.liga.net/www/delivery/ck.php?n=a7f92fa4&amp;cb=17806' target='_blank'><img src='http://bg.liga.net/www/delivery/avw.php?zoneid=178&amp;source=biz&amp;charset=UTF-8&amp;cb=17806&amp;n=a7f92fa4&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' /></a></noscript>
+<!--/* LIGA.net OpenX Javascript Tag v2.8.2 www.bg.liga.net [178-06] [biz] END */-->
+
+
+<!--/* LIGA.net OpenX Javascript Tag v2.8.2 www.bg.liga.net [178-07] [biz] */-->
+<script type='text/javascript'><!--//<![CDATA[
+   document.MAX_ct0 ='INSERT_CLICKURL_HERE';
+   var m3_u = (location.protocol=='https:'?'https://bg.liga.net/www/delivery/ajs.php':'http://bg.liga.net/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=178&amp;source=biz&amp;target=_blank&amp;charset=UTF-8&amp;block=1&amp;blockcampaign=1");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write ('&amp;charset=UTF-8');
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+   }
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://bg.liga.net/www/delivery/ck.php?n=af1ccf62&amp;cb=17807' target='_blank'><img src='http://bg.liga.net/www/delivery/avw.php?zoneid=178&amp;source=biz&amp;charset=UTF-8&amp;cb=17807&amp;n=af1ccf62&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' /></a></noscript>
+<!--/* LIGA.net OpenX Javascript Tag v2.8.2 www.bg.liga.net [178-07] [biz] END */-->
+
+
+<!--/* LIGA.net OpenX Javascript Tag v2.8.2 www.bg.liga.net [178-08] [biz] */-->
+<script type='text/javascript'><!--//<![CDATA[
+   document.MAX_ct0 ='INSERT_CLICKURL_HERE';
+   var m3_u = (location.protocol=='https:'?'https://bg.liga.net/www/delivery/ajs.php':'http://bg.liga.net/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=178&amp;source=biz&amp;target=_blank&amp;charset=UTF-8&amp;block=1&amp;blockcampaign=1");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write ('&amp;charset=UTF-8');
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+   }
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://bg.liga.net/www/delivery/ck.php?n=aa8b49a4&amp;cb=17808' target='_blank'><img src='http://bg.liga.net/www/delivery/avw.php?zoneid=178&amp;source=biz&amp;charset=UTF-8&amp;cb=17808&amp;n=aa8b49a4&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' /></a></noscript>
+<!--/* LIGA.net OpenX Javascript Tag v2.8.2 www.bg.liga.net [178-08] [biz] END */-->
+
+
+<!--/* LIGA.net OpenX Javascript Tag v2.8.2 www.bg.liga.net [178-09] [biz] */-->
+<script type='text/javascript'><!--//<![CDATA[
+   document.MAX_ct0 ='INSERT_CLICKURL_HERE';
+   var m3_u = (location.protocol=='https:'?'https://bg.liga.net/www/delivery/ajs.php':'http://bg.liga.net/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=178&amp;source=biz&amp;target=_blank&amp;charset=UTF-8&amp;block=1&amp;blockcampaign=1");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write ('&amp;charset=UTF-8');
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+   }
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://bg.liga.net/www/delivery/ck.php?n=a60ee891&amp;cb=17809' target='_blank'><img src='http://bg.liga.net/www/delivery/avw.php?zoneid=178&amp;source=biz&amp;charset=UTF-8&amp;cb=17809&amp;n=a60ee891&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' /></a></noscript>
+<!--/* LIGA.net OpenX Javascript Tag v2.8.2 www.bg.liga.net [178-09] [biz] END */-->
+
+
+<!--/* LIGA.net OpenX Javascript Tag v2.8.2 www.bg.liga.net [178-10] [biz] */-->
+<script type='text/javascript'><!--//<![CDATA[
+   document.MAX_ct0 ='INSERT_CLICKURL_HERE';
+   var m3_u = (location.protocol=='https:'?'https://bg.liga.net/www/delivery/ajs.php':'http://bg.liga.net/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=178&amp;source=biz&amp;target=_blank&amp;charset=UTF-8&amp;block=1&amp;blockcampaign=1");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write ('&amp;charset=UTF-8');
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+   }
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://bg.liga.net/www/delivery/ck.php?n=a24cf0eb&amp;cb=17810' target='_blank'><img src='http://bg.liga.net/www/delivery/avw.php?zoneid=178&amp;source=biz&amp;charset=UTF-8&amp;cb=17810&amp;n=a24cf0eb&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' /></a></noscript>
+<!--/* LIGA.net OpenX Javascript Tag v2.8.2 www.bg.liga.net [178-10] [biz] END */-->
+

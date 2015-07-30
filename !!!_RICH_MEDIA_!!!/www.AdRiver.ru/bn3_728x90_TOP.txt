@@ -1,0 +1,302 @@
+
+
+
+
+<!-- AdRiver ajax2 -->
+<script type="text/javascript" src="http://static.liga.net/resources/files/bg/adriver.core.2.js"></script>
+<!-- AdRiver ajax2 END -->
+
+</head>
+================================================================================
+
+
+
+
+
+
+
+
+
+
+<body>
+
+
+
+
+================================================================================
+728x90 (зверху)
+================================================================================
+ЛІГА.net - 728x90 (зверху)
+http://liga.net/
+Дата заміни: 20121207
+
+
+<center>
+<!-- AdRiver 728x90tliga -->
+<div id="728x90tliga" class="728x90tliga adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("728x90tliga", {sid: 164095, bt:52, bn: 3});
+</script>
+<!-- AdRiver 728x90tliga END -->
+</center>
+
+          <center>
+          <!-- AdRiver 728x90tliga -->
+          <div id="728x90tliga" class="728x90tliga adriverBanner"></div>
+          <script type="text/javascript"> 
+          new adriver("728x90tliga", {sid: 164095, sz: "728x90tliga", pz: 0, bn: 3 });
+          </script>
+          <!-- AdRiver 728x90tliga END -->
+          </center>
+================================================================================
+http://news.liga.net/
+
+<center>
+<!-- AdRiver 728x90tnews -->
+<div id="728x90tnews" class="728x90tnews adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("728x90tnews", {sid:164097, bt:52, bn:3});
+</script>
+<!-- AdRiver 728x90tnews END -->
+</center>
+
+          <center>
+          <!-- AdRiver 728x90tnews -->
+          <div id="728x90tnews" class="728x90tnews adriverBanner"></div>
+          <script type="text/javascript"> 
+          new adriver("728x90tnews", {sid: 164097, sz: "728x90tnews", pz: 0, bn: 3 });
+          </script>
+          <!-- AdRiver 728x90tnews END -->
+          </center>
+================================================================================
+http://news.liga.net/ 2012
+
+<center>
+<!-- AdRiver 728x90tnews2012 -->
+<div id="728x90tnews2012" class="728x90tnews2012 adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("728x90tnews2012", {sid: 179008, sz: "728x90tnews2012", pz: 0, bn: 3 });
+</script>
+<!-- AdRiver 728x90tnews2012 END -->
+</center>
+================================================================================
+http://news.liga.net/ VYBORY
+
+<center>
+<!-- AdRiver 728x90tnewsvyb -->
+<div id="728x90tnewsvyb" class="728x90tnewsvyb adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("728x90tnewsvyb", {sid: 182170, sz: "728x90tnewsvyb", pz: 0, bn: 3 });
+</script>
+<!-- AdRiver 728x90tnewsvyb END -->
+</center>
+================================================================================
+http://biz.liga.net/
+
+<center>
+<!-- AdRiver 728x90tbiz -->
+<div id="728x90tbiz" class="728x90tbiz adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("728x90tbiz", {sid:164098, bt:52, bn:3});
+</script>
+<!-- AdRiver 728x90tbiz END -->
+</center>
+
+<center>
+<!-- AdRiver 728x90tbiz biz-themes-1c -->
+<div id="728x90tbiz" class="728x90tbiz adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("728x90tbiz", {sid:164098, bt:52, sz:'biz-themes-123456789', bn:3});
+</script>
+<!-- AdRiver 728x90tbiz biz-themes-1c END -->
+</center>
+
+          <center>
+          <!-- AdRiver 728x90tbiz -->
+          <div id="728x90tbiz" class="728x90tbiz adriverBanner"></div>
+          <script type="text/javascript"> 
+          new adriver("728x90tbiz", {sid: 164098, sz: "728x90tbiz", pz: 0, bn: 3 });
+          </script>
+          <!-- AdRiver 728x90tbiz END -->
+          </center>
+================================================================================
+http://finance.liga.net/
+
+<center>
+<!-- AdRiver 728x90tfin -->
+<div id="728x90tfin" class="728x90tfin adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("728x90tfin", {sid:164099, bt:52, bn:3});
+</script>
+<!-- AdRiver 728x90tfin END -->
+</center>
+
+          <center>
+          <!-- AdRiver 728x90tfin -->
+          <div id="728x90tfin" class="728x90tfin adriverBanner"></div>
+          <script type="text/javascript"> 
+          new adriver("728x90tfin", {sid: 164099, sz: "728x90tfin", pz: 0, bn: 3 });
+          </script>
+          <!-- AdRiver 728x90tfin END -->
+          </center>
+================================================================================
+Досье
+http://file.liga.net/
+
+<center>
+<!-- AdRiver 728x90tfile -->
+<div id="728x90tfile" class="728x90tfile adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("728x90tfile", {sid: 164101, sz: "728x90tfile", pz: 0, bn: 3 });
+</script>
+<!-- AdRiver 728x90tfile END-->
+</center>
+================================================================================
+Мониторинг СМИ    - 728x90 (верх)
+http://smi.liga.net/
+(заміна кода 20130425)
+
+<center>
+<noindex>
+<!-- AdRiver 728x90tsmi -->
+<div id="728x90tsmi" class="728x90tsmi adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("728x90tsmi", {sid:164100, bt:52, bn:3});
+</script>
+<!-- AdRiver 728x90tsmi END -->
+</noindex>
+</center>
+
+
+                <center>
+                <!-- AdRiver 728x90tsmi -->
+                <div id="728x90tsmi" class="728x90tsmi adriverBanner"></div>
+                <script type="text/javascript"> 
+                new adriver("728x90tsmi", {sid: 164100, sz: "728x90tsmi", pz: 0, bn: 3 });
+                </script>
+                <!-- AdRiver 728x90tsmi END -->
+                </center>
+================================================================================
+http://blog.liga.net/
+
+<center>
+<!-- AdRiver 728x90tblog -->
+<div id="728x90tblog" class="728x90tblog adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("728x90tblog", {sid: 164103, sz: "728x90tblog", pz: 0, bn: 3 });
+</script>
+<!-- AdRiver 728x90tblog END -->
+</center>
+================================================================================
+http://forum.liga.net/
+
+<center>
+<noindex>
+<!-- AdRiver 728x90tforum -->
+<div id="728x90tforum" class="728x90tforum adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("728x90tforum", {sid:164102, bt:52, bn:3});
+</script>
+<!-- AdRiver 728x90tforum END -->
+</noindex>
+</center>
+
+        <center>
+        <!-- AdRiver 728x90tforum -->
+        <div id="728x90tforum" class="728x90tforum adriverBanner"></div>
+        <script type="text/javascript"> 
+        new adriver("728x90tforum", {sid: 164102, sz: "728x90tforum", pz: 0, bn: 3 });
+        </script>
+        <!-- AdRiver 728x90tforum END -->
+        </center>
+
+
+================================================================================
+http://ratings.liga.net/
+
+<center>
+<!-- AdRiver 728x90tratings -->
+<div id="728x90tratings" class="728x90tratings adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("728x90tratings", {sid: 175125, sz: "728x90tratings", pz: 0, bn: 3 });
+</script>
+<!-- AdRiver 728x90tratings END -->
+</center>
+================================================================================
+[CODE:2012] http://press.liga.net/  Пресс-центр [CODE:2012]
+
+<center>
+<!-- AdRiver 728x90tpress -->
+<div id="728x90tpress" class="728x90tpress adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("728x90tpress", {sid: 164105, sz: "728x90tpress", pz: 0, bn: 3 });
+</script>
+<!-- AdRiver 728x90tpress END -->
+</center>
+================================================================================
+http://avenue.liga.net/
+
+<center>
+<!-- AdRiver 728x90tavenu -->
+<div id="728x90tavenu" class="728x90tavenu adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("728x90tavenu", {sid: 172985, sz: "728x90tavenu", pz: 0, bn: 3 });
+</script>
+<!-- AdRiver 728x90tavenu END -->
+</center>
+================================================================================
+http://8marta.liga.net/
+
+<center>
+<!-- AdRiver 728x90t8marta -->
+<div id="728x90t8marta" class="728x90t8marta adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("728x90t8marta", {sid: 181038, sz: "728x90t8marta", pz: 0, bn: 3 });
+</script>
+<!-- AdRiver 728x90t8marta END -->
+</center>
+================================================================================
+http://ny.liga.net
+Дата заміни: 20121207
+
+<!-- AdRiver richny -->
+<div id="richny" class="richny adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("richny", {sid: 168671, bt:52, bn:4});
+</script>
+<!-- AdRiver richny END -->
+
+          <center>
+          <!-- AdRiver 728x90tny -->
+          <div id="728x90tny" class="728x90tny adriverBanner"></div>
+          <script type="text/javascript"> 
+          new adriver("728x90tny", {sid: 168671, sz: "728x90tny", pz: 0, bn: 3 });
+          </script>
+          <!-- AdRiver 728x90tny END -->
+          </center>
+================================================================================
+================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

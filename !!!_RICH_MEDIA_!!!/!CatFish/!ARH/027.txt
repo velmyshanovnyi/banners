@@ -1,0 +1,549 @@
+// JavaScript Document
+
+<object width="200" height="400" codebase="http://url.to.go#version=7,0,19,0" classid="___________">
+<param name="movie" value="http://url.to.go/>
+<param name="quality" value="high"/>
+<param value="transparent" name="wmode"/>
+или
+<param value="opaque" name="wmode"/>
+
+<param name="flashvars" value="clickTAG=http://url.to.go"/>
+<embed width="200" height="400" src="http://url.to.go" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="clickTAG=http://url.to.go" type="application/x-shockwave-flash"/>
+</object>
+
+
+<html><body style='margin:0;background-color:transparent;'><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" 
+codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8" width="480px;" height="300px;">
+<param name=movie value="http://video.yo.md/flowplayer.swf">
+<param name=quality value="best">
+<param name=wmode value="transparent">
+<param name=allowFullScreen value="false">
+<param name=swLiveConnect value="true">
+<param name=allowScriptAccess value="always">
+<param name="FlashVars" value="config={clip:{url:http://video.yo.md/44.flv,">
+<embed src="http://video.yo.md/flowplayer.swf" quality="high" width="480px;" height="300px;" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" FlashVars="config={clip:{url:http://video.yo.md/44.flv," wmode="transparent" border="0" AllowScriptAccess="always"></embed></object>
+
+</body></html>
+
+
+
+// http://www.flashbannernow.com/flash-banner-code.php
+<object width="1000" height="180" data="http://bg.liga.net/www/images/020.swf" type="application/x-shockwave-flash" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,5,0,175" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000">
+<param name="allowfullscreen" value="true" />
+<param name="allowscriptaccess" value="always">
+<param name="flashvars" value="clickTAG=http%3A//link.ua" />
+<param name="quality" value="high">
+<param name="menu" value="false" />
+<param name="movie" value="http://bg.liga.net/www/images/020.swf" />
+<param name="scale" value="exactfit" />
+<param name="wmode" value="transparent" />
+<param name="wmode" value="opaque" />
+<embed width="1000" height="180" src="http://bg.liga.net/www/images/020.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="clickTAG=http%3A//link.ua" type="application/x-shockwave-flash" wmode="opaque" border="0" menu="false" scale="exactfit" allowfullscreen="true" AllowScriptAccess="always" />
+</object>
+
+
+
+
+// http://www.flashbannernow.com/flash-banner-code.php
+<object width="1000" height="180" data="http://bg.liga.net/www/images/020.swf" type="application/x-shockwave-flash" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,5,0,175" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always"><param name="flashvars" value="clickTAG=http%3A//link.ua" /><param name="quality" value="high"><param name="menu" value="false" /><param name="movie" value="http://bg.liga.net/www/images/020.swf" /><param name="scale" value="exactfit" /><param name="wmode" value="transparent" /><embed width="1000" height="180" src="http://bg.liga.net/www/images/020.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="clickTAG=http%3A//link.ua" type="application/x-shockwave-flash" wmode="transparent" border="0" menu="false" scale="exactfit" allowfullscreen="true" AllowScriptAccess="always" /></object>
+
+
+
+
+// http://www.flashbannernow.com/flash-banner-code.php
+<object width="1000" height="180" data="http://bg.liga.net/www/images/021.swf" type="application/x-shockwave-flash" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,65,0" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000">
+<param name="allowfullscreen" value="true" />
+<param name="allowscriptaccess" value="always">
+<param name="flashvars" value="clickTAG=http%3A//link.ua" />
+<param name="quality" value="high">
+<param name="menu" value="false" />
+<param name="movie" value="http://bg.liga.net/www/images/021.swf" />
+<param name="scale" value="exactfit" />
+<param name="wmode" value="transparent" />
+<embed width="1000" height="180" src="http://bg.liga.net/www/images/021.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="clickTAG=http%3A//link.ua" type="application/x-shockwave-flash" wmode="transparent" border="0" menu="false" scale="exactfit" allowfullscreen="true" AllowScriptAccess="always" />
+</object>
+
+
+
+// http://www.flashbannernow.com/flash-banner-code.php
+<object width="1000" height="180" data="http://bg.liga.net/www/images/020.swf" type="application/x-shockwave-flash" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,5,0,175" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always"><param name="flashvars" value="clickTAG=http%3A//link.ua" /><param name="quality" value="high"><param name="menu" value="false" /><param name="movie" value="http://bg.liga.net/www/images/020.swf" /><param name="scale" value="exactfit" /><param name="wmode" value="opaque" /><embed width="1000" height="180" src="http://bg.liga.net/www/images/020.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="clickTAG=http%3A//link.ua" type="application/x-shockwave-flash" wmode="opaque" border="0" menu="false" scale="exactfit" allowfullscreen="true" AllowScriptAccess="always" /></object>
+
+<object style="position: absolute; z-index: 100; left: 30" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,65,0" width="1000" height="180" id="021" align="middle">
+
+
+	<object style="position: absolute; z-index: 100; left: 30" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,65,0" width="1000" height="180" id="021" align="middle">
+	<param name="allowScriptAccess" value="sameDomain" />
+	<param name="allowFullScreen" value="false" />
+	<param name="movie" value="021.swf" /><param name="quality" value="high" /><param name="wmode" value="transparent" /><param name="bgcolor" value="#ffffff" />	<embed src="021.swf" quality="high" wmode="transparent"  width="1000" height="180" name="021" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+	</object>
+
+
+<object width="1000" height="180" data="http://bg.liga.net/www/images/021.swf" type="application/x-shockwave-flash" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,65,0" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000">
+<param name="allowfullscreen" value="true" />
+<param name="allowscriptaccess" value="always">
+<param name="flashvars" value="clickTAG=http%3A//link.ua" />
+<param name="quality" value="high">
+<param name="menu" value="false" />
+<param name="movie" value="http://bg.liga.net/www/images/021.swf" />
+<param name="scale" value="exactfit" />
+<param name="wmode" value="transparent" />
+<embed width="1000" height="180" src="http://bg.liga.net/www/images/021.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="clickTAG=http%3A//link.ua" type="application/x-shockwave-flash" wmode="transparent" border="0" menu="false" scale="exactfit" allowfullscreen="true" AllowScriptAccess="always" />
+</object>
+
+
+<object width="1000" height="180" data="http://bg.liga.net/www/images/021.swf" type="application/x-shockwave-flash" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,65,0" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always"><param name="flashvars" value="clickTAG=http%3A//link.ua" /><param name="quality" value="high"><param name="menu" value="false" /><param name="movie" value="http://bg.liga.net/www/images/021.swf" /><param name="scale" value="exactfit" /><param name="wmode" value="transparent" /><embed width="1000" height="180" src="http://bg.liga.net/www/images/021.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="clickTAG=http%3A//link.ua" type="application/x-shockwave-flash" wmode="transparent" border="0" menu="false" scale="exactfit" allowfullscreen="true" AllowScriptAccess="always" /></object>
+
+
+
+style="z-index: 100;"
+
+
+
+<object style="z-index: 10000;" width="1000" height="180" data="http://bg.liga.net/www/images/021.swf" type="application/x-shockwave-flash" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,65,0" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000">
+<param name="allowfullscreen" value="true" />
+<param name="allowscriptaccess" value="always">
+<param name="flashvars" value="clickTAG=http%3A//link.ua" />
+<param name="quality" value="high">
+<param name="menu" value="false" />
+<param name="movie" value="http://bg.liga.net/www/images/021.swf" />
+<param name="scale" value="exactfit" />
+<param name="wmode" value="transparent" />
+<embed width="1000" height="180" src="http://bg.liga.net/www/images/021.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="clickTAG=http%3A//link.ua" type="application/x-shockwave-flash" wmode="transparent" border="0" menu="false" scale="exactfit" allowfullscreen="true" AllowScriptAccess="always" />
+</object>
+
+
+<object style="z-index: 10000;" width="1000" height="180" data="http://bg.liga.net/www/images/021.swf" type="application/x-shockwave-flash" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,65,0" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always"><param name="flashvars" value="clickTAG=http%3A//link.ua" /><param name="quality" value="high"><param name="menu" value="false" /><param name="movie" value="http://bg.liga.net/www/images/021.swf" /><param name="scale" value="exactfit" /><param name="wmode" value="transparent" /><embed width="1000" height="180" src="http://bg.liga.net/www/images/021.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="clickTAG=http%3A//link.ua" type="application/x-shockwave-flash" wmode="transparent" border="0" menu="false" scale="exactfit" allowfullscreen="true" AllowScriptAccess="always" /></object>
+
+
+
+
+
+<object style="z-index: 10000;" width="100%" height="180" data="http://bg.liga.net/www/images/024.swf" type="application/x-shockwave-flash" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,65,0" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000">
+<param name="allowfullscreen" value="true" />
+<param name="allowscriptaccess" value="always">
+<param name="flashvars" value="clickTAG=http://link.ua" />
+<param name="quality" value="high">
+<param name="menu" value="false" />
+<param name="movie" value="024.swf" />
+<param name="scale" value="exactfit" />
+<param name="wmode" value="transparent" />
+<embed width="100%" height="180" src="http://bg.liga.net/www/images/024.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="clickTAG=http://link.ua" type="application/x-shockwave-flash" wmode="transparent" border="0" menu="false" scale="exactfit" allowfullscreen="true" AllowScriptAccess="always" />
+</object>
+
+
+
+
+<object style="z-index: 10000;" width="100%" height="180" data="http://bg.liga.net/www/images/023.swf" type="application/x-shockwave-flash" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,65,0" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always"><param name="flashvars" value="clickTAG=http://link.ua" /><param name="quality" value="high"><param name="menu" value="false" /><param name="movie" value="http://bg.liga.net/www/images/023.swf" /><param name="scale" value="exactfit" /><param name="wmode" value="transparent" /><embed width="1000" height="180" src="http://bg.liga.net/www/images/023.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="clickTAG=http://link.ua" type="application/x-shockwave-flash" wmode="transparent" border="0" menu="false" scale="exactfit" allowfullscreen="true" AllowScriptAccess="always" /></object>
+
+
+
+
+
+<a href="FSCommand:quit"></a>
+<a href="FSCommand:kill"></a>
+<a href="http://www.link.ua"></a>
+<object style="z-index: 10000;" width="1000" height="180" data="http://bg.liga.net/www/images/024.swf" type="application/x-shockwave-flash" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" align="center">
+<param name="allowfullscreen" value="true" />
+<param name="allowscriptaccess" value="always">
+<param name="flashvars" value="clickTAG=http://link.ua" />
+<param name="quality" value="high">
+<param name="menu" value="false" />
+<param name="movie" value="http://bg.liga.net/www/images/024.swf" />
+<param name="scale" value="exactfit" />
+<param name="wmode" value="transparent" />
+<embed width="1000" height="180" src="http://bg.liga.net/www/images/024.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="clickTAG=http://link.ua" type="application/x-shockwave-flash" wmode="transparent" border="0" align="center" menu="false" scale="exactfit" allowfullscreen="true" AllowScriptAccess="always" />
+</object>
+
+
+
+
+
+<a href="FSCommand:kill"></a>
+<a href="http://www.link.ua"></a>
+<object style="z-index: 10000;" width="1000" height="180" data="http://bg.liga.net/www/images/024.swf" type="application/x-shockwave-flash" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" align="center">
+<param name="allowfullscreen" value="true" />
+<param name="allowscriptaccess" value="always">
+<param name="flashvars" value="clickTAG=http://link.ua" />
+<param name="quality" value="high">
+<param name="m__enu" value="false" />
+<param name="movie" value="http://bg.liga.net/www/images/024.swf" />
+<param name="scale" value="exactfit" />
+<param name="wmode" value="transparent" />
+<embed width="1000" height="180" src="http://bg.liga.net/www/images/024.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="clickTAG=http://link.ua" type="application/x-shockwave-flash" wmode="transparent" border="0" align="center" menu="false" scale="exactfit" allowfullscreen="true" AllowScriptAccess="always" />
+</object>
+
+http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,65,0
+
+<a href="FSCommand:kill"></a>
+<a href="http://www.link.ua"></a>
+<object style="z-index: 10000;" width="1000" height="180" data="http://bg.liga.net/www/images/024.swf" type="application/x-shockwave-flash" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,65,0" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" align="center">
+<param name="allowfullscreen" value="true" />
+<param name="allowscriptaccess" value="always">
+<param name="flashvars" value="clickTAG=http://link.ua" />
+<param name="quality" value="high">
+<param name="menu" value="false" />
+<param name="movie" value="http://bg.liga.net/www/images/024.swf" />
+<param name="scale" value="exactfit" />
+<param name="wmode" value="transparent" />
+<embed width="1000" height="180" src="http://bg.liga.net/www/images/024.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="clickTAG=http://link.ua" type="application/x-shockwave-flash" wmode="transparent" border="0" align="center" menu="false" scale="exactfit" allowfullscreen="true" AllowScriptAccess="always" />
+</object>
+
+
+<param name="menu" value="true" />
+-- align="center"
+
+<a href="FSCommand:kill"></a>
+<object style="z-index: 10000;" width="1000" height="180" data="http://bg.liga.net/www/images/024.swf" type="application/x-shockwave-flash" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,65,0" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000">
+<param name="allowfullscreen" value="true" />
+<param name="allowscriptaccess" value="always">
+<param name="flashvars" value="clickTAG=http://link.ua" />
+<param name="quality" value="high">
+<param name="menu" value="true" />
+<param name="movie" value="http://bg.liga.net/www/images/024.swf" />
+<param name="scale" value="exactfit" />
+<param name="wmode" value="transparent" />
+<embed width="1000" height="180" src="http://bg.liga.net/www/images/024.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="clickTAG=http://link.ua" type="application/x-shockwave-flash" wmode="transparent" border="0" menu="true" scale="exactfit" allowfullscreen="true" AllowScriptAccess="always" />
+</object>
+
+
+
+
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,5,0,175" width="1000" height="80"><param name="movie" value="http://bg.liga.net/www/images/024.swf" /><param name=FlashVars value="clickTAG=http%3A//link.ua" /><param name="menu" value="false" /><param name="scale" value="exactfit" /><param name="AllowScriptAccess" value="always" /><embed src="http://bg.liga.net/www/images/024.swf" FlashVars="clickTAG=http%3A//link.ua" width="1000" height="80" menu="false" scale="exactfit" AllowScriptAccess="always" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" /></object>
+
+
+
+
+
+<a href="FSCommand:kill"></a>
+<object style="z-index: 10000;" width="1000" height="180" data="http://bg.liga.net/www/images/024.swf" type="application/x-shockwave-flash" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,65,0" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000">
+<param name="allowfullscreen" value="true" />
+<param name="allowscriptaccess" value="always">
+<param name="flashvars" value="clickTAG=http://link.ua" />
+<param name="quality" value="high">
+<param name="menu" value="true" />
+<param name="movie" value="http://bg.liga.net/www/images/024.swf" />
+<param name="scale" value="exactfit" />
+<param name="wmode" value="transparent" />
+<embed width="1000" height="180" src="http://bg.liga.net/www/images/024.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="clickTAG=http://link.ua" type="application/x-shockwave-flash" wmode="transparent" border="0" menu="true" scale="exactfit" allowfullscreen="true" AllowScriptAccess="always" />
+</object>
+
+
+codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,5,0,175" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"
+
+
+<a href="http://www.link.ua"></a><object style="z-index: 10000;" width="1000" height="180" data="http://bg.liga.net/www/images/024.swf" type="application/x-shockwave-flash" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,5,0,175" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always"><param name="flashvars" value="clickTAG=http://link.ua" /><param name="quality" value="high"><param name="menu" value="true" /><param name="movie" value="http://bg.liga.net/www/images/024.swf" /><param name="scale" value="exactfit" /><param name="wmode" value="transparent" /><embed width="1000" height="180" src="http://bg.liga.net/www/images/024.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="clickTAG=http://link.ua" type="application/x-shockwave-flash" wmode="transparent" border="0" menu="true" scale="exactfit" allowfullscreen="true" AllowScriptAccess="always" /></object>
+
+
+
+
+<a href="FSCommand:kill"></a>
+<object style="z-index: 10000;" width="1000" height="180" data="http://bg.liga.net/www/images/025.swf" type="application/x-shockwave-flash" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,65,0" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000">
+<param name="allowfullscreen" value="true" />
+<param name="allowscriptaccess" value="always">
+<param name="flashvars" value="clickTAG=http://link.ua" />
+<param name="quality" value="high">
+<param name="menu" value="true" />
+<param name="movie" value="http://bg.liga.net/www/images/025.swf" />
+<param name="scale" value="exactfit" />
+<param name="wmode" value="transparent" />
+<embed width="1000" height="180" src="http://bg.liga.net/www/images/025.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="clickTAG=http://link.ua" type="application/x-shockwave-flash" wmode="transparent" border="0" menu="true" scale="exactfit" allowfullscreen="true" AllowScriptAccess="always" />
+</object>
+
+
+<a href="FSCommand:kill"></a>
+<object style="z-index: 10000;" width="1000" height="180" data="http://bg.liga.net/www/images/025.swf" type="application/x-shockwave-flash" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,65,0" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000">
+<param name="allowfullscreen" value="true" />
+<param name="allowscriptaccess" value="always">
+<param name="flashvars" value="clickTAG=http://link.ua" />
+<param name="quality" value="high">
+<param name="menu" value="true" />
+<param name="movie" value="http://bg.liga.net/www/images/025.swf" />
+<param name="scale" value="exactfit" />
+<param name="wmode" value="transparent" />
+<embed width="1000" height="180" src="http://bg.liga.net/www/images/025.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="clickTAG=http://link.ua" type="application/x-shockwave-flash" wmode="transparent" border="0" menu="true" scale="exactfit" allowfullscreen="true" AllowScriptAccess="always" />
+</object>
+
+
+
+<a href="FSCommand:kill"></a>
+<object style="z-index: 10000;" width="1000" height="180" data="http://bg.liga.net/www/images/025.swf" type="application/x-shockwave-flash" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,65,0" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000">
+<param name="allowfullscreen" value="true" />
+<param name="allowscriptaccess" value="always">
+<param name="flashvars" value="clickTAG=http://link.ua" />
+<param name="quality" value="high">
+<param name="menu" value="true" />
+<param name="movie" value="http://bg.liga.net/www/images/025.swf" />
+<param name="scale" value="exactfit" />
+<param name="wmode" value="transparent" />
+<embed width="1000" height="180" src="http://bg.liga.net/www/images/025.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="clickTAG=http://link.ua" type="application/x-shockwave-flash" wmode="transparent" border="0" menu="true" scale="exactfit" allowfullscreen="true" AllowScriptAccess="always" />
+</object>
+
+-----------------------
+<a href="FSCommand:kill"></a><object style="z-index: 10000;" width="1000" height="180" data="http://bg.liga.net/www/images/026.swf" type="application/x-shockwave-flash" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,5,0,175" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always"><param name="flashvars" value="alink1=http%3A%2F%2Fbg.liga.net%2Fwww%2Fdelivery%2Fck.php%3Foaparams%3D2__bannerid%3D2361__zoneid%3D0__log%3Dno__cb%3D4759b47b9a__maxdest%3Dhttp%3A%2F%2Fwww.link.ua&atar1=_blank" /><param name="quality" value="high"><param name="menu" value="true" /><param name="movie" value="http://bg.liga.net/www/images/026.swf" /><param name="scale" value="exactfit" /><param name="wmode" value="transparent" /><embed width="1000" height="180" src="http://bg.liga.net/www/images/026.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="alink1=http%3A%2F%2Fbg.liga.net%2Fwww%2Fdelivery%2Fck.php%3Foaparams%3D2__bannerid%3D2361__zoneid%3D0__log%3Dno__cb%3D4759b47b9a__maxdest%3Dhttp%3A%2F%2Fwww.link.ua&atar1=_blank" type="application/x-shockwave-flash" wmode="transparent" border="0" menu="true" scale="exactfit" allowfullscreen="true" AllowScriptAccess="always" /></object>
+-----------------------
+
+<a href="FSCommand:kill"></a>
+<object style="z-index: 9999999999;" width="1000" height="180" data="http://bg.liga.net/www/images/026.swf" type="application/x-shockwave-flash" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,5,0,175" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000">
+<param name="allowfullscreen" value="true" />
+<param name="allowscriptaccess" value="always">
+<param name="flashvars" value="alink1=http%3A%2F%2Fbg.liga.net%2Fwww%2Fdelivery%2Fck.php%3Foaparams%3D2__bannerid%3D2361__zoneid%3D0__log%3Dno__cb%3D4759b47b9a__maxdest%3Dhttp%3A%2F%2Fwww.link.ua&atar1=_blank" />
+<param name="quality" value="high">
+<param name="menu" value="true" />
+<param name="movie" value="http://bg.liga.net/www/images/026.swf" />
+<param name="scale" value="exactfit" />
+<param name="wmode" value="transparent" />
+<embed width="1000" height="180" src="http://bg.liga.net/www/images/026.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="alink1=http%3A%2F%2Fbg.liga.net%2Fwww%2Fdelivery%2Fck.php%3Foaparams%3D2__bannerid%3D2361__zoneid%3D0__log%3Dno__cb%3D4759b47b9a__maxdest%3Dhttp%3A%2F%2Fwww.link.ua&atar1=_blank" type="application/x-shockwave-flash" wmode="transparent" border="0" menu="true" scale="exactfit" allowfullscreen="true" AllowScriptAccess="always" />
+</object>
+
+
+
+<a href="FSCommand:kill"></a>
+<object style="z-index: 9999999999;" width="1000" height="180" data="http://bg.liga.net/www/images/025.swf" type="application/x-shockwave-flash" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,5,0,175" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000">
+<param name="allowfullscreen" value="true" />
+<param name="allowscriptaccess" value="always">
+<param name="flashvars" value="alink1=http%3A%2F%2Fbg.liga.net%2Fwww%2Fdelivery%2Fck.php%3Foaparams%3D2__bannerid%3D2361__zoneid%3D0__log%3Dno__cb%3D4759b47b9a__maxdest%3Dhttp%3A%2F%2Fwww.link.ua&atar1=_blank" />
+<param name="quality" value="high">
+<param name="menu" value="true" />
+<param name="movie" value="http://bg.liga.net/www/images/025.swf" />
+<param name="scale" value="exactfit" />
+<param name="wmode" value="transparent" />
+<embed width="1000" height="180" src="http://bg.liga.net/www/images/025.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="alink1=http%3A%2F%2Fbg.liga.net%2Fwww%2Fdelivery%2Fck.php%3Foaparams%3D2__bannerid%3D2361__zoneid%3D0__log%3Dno__cb%3D4759b47b9a__maxdest%3Dhttp%3A%2F%2Fwww.link.ua&atar1=_blank" type="application/x-shockwave-flash" wmode="transparent" border="0" menu="true" scale="exactfit" allowfullscreen="true" AllowScriptAccess="always" />
+</object>
+
+
+<a href="FSCommand:kill"></a><object style="z-index: 9999999999;" width="1000" height="180" data="http://bg.liga.net/www/images/025.swf" type="application/x-shockwave-flash" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,5,0,175" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always"><param name="flashvars" value="alink1=http%3A%2F%2Fbg.liga.net%2Fwww%2Fdelivery%2Fck.php%3Foaparams%3D2__bannerid%3D2361__zoneid%3D0__log%3Dno__cb%3D4759b47b9a__maxdest%3Dhttp%3A%2F%2Fwww.link.ua&atar1=_blank" /><param name="quality" value="high"><param name="menu" value="true" /><param name="movie" value="http://bg.liga.net/www/images/025.swf" /><param name="scale" value="exactfit" /><param name="wmode" value="transparent" /><embed width="1000" height="180" src="http://bg.liga.net/www/images/025.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="alink1=http%3A%2F%2Fbg.liga.net%2Fwww%2Fdelivery%2Fck.php%3Foaparams%3D2__bannerid%3D2361__zoneid%3D0__log%3Dno__cb%3D4759b47b9a__maxdest%3Dhttp%3A%2F%2Fwww.link.ua&atar1=_blank" type="application/x-shockwave-flash" wmode="transparent" border="0" menu="true" scale="exactfit" allowfullscreen="true" AllowScriptAccess="always" /></object>
+
+
+027
+
+<a href="FSCommand:kill"></a>
+<object style="z-index: 9999999999;" width="1000" height="180" data="http://bg.liga.net/www/images/027.swf" type="application/x-shockwave-flash" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,5,0,175" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000">
+<param name="allowfullscreen" value="true" />
+<param name="allowscriptaccess" value="always">
+<param name="flashvars" value="alink1=http%3A%2F%2Fbg.liga.net%2Fwww%2Fdelivery%2Fck.php%3Foaparams%3D2__bannerid%3D2362__zoneid%3D0__log%3Dno__cb%3Ddc0b0ed25b__maxdest%3Dhttp%3A%2F%2Fwww.link.ua&atar1=_blank" />
+<param name="quality" value="high">
+<param name="menu" value="true" />
+<param name="movie" value="http://bg.liga.net/www/images/027.swf" />
+<param name="scale" value="exactfit" />
+<param name="wmode" value="transparent" />
+<embed width="1000" height="180" src="http://bg.liga.net/www/images/027.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="alink1=http%3A%2F%2Fbg.liga.net%2Fwww%2Fdelivery%2Fck.php%3Foaparams%3D2__bannerid%3D2362__zoneid%3D0__log%3Dno__cb%3Ddc0b0ed25b__maxdest%3Dhttp%3A%2F%2Fwww.link.ua&atar1=_blank" type="application/x-shockwave-flash" wmode="transparent" border="0" menu="true" scale="exactfit" allowfullscreen="true" AllowScriptAccess="always" />
+</object>
+
+
+
+<a href="FSCommand:kill"></a><object style="z-index: 9999999999;" width="1000" height="180" data="http://bg.liga.net/www/images/027.swf" type="application/x-shockwave-flash" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,5,0,175" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always"><param name="flashvars" value="alink1=http%3A%2F%2Fbg.liga.net%2Fwww%2Fdelivery%2Fck.php%3Foaparams%3D2__bannerid%3D2362__zoneid%3D0__log%3Dno__cb%3Ddc0b0ed25b__maxdest%3Dhttp%3A%2F%2Fwww.link.ua&atar1=_blank" /><param name="quality" value="high"><param name="menu" value="true" /><param name="movie" value="http://bg.liga.net/www/images/027.swf" /><param name="scale" value="exactfit" /><param name="wmode" value="transparent" /><embed width="1000" height="180" src="http://bg.liga.net/www/images/027.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="alink1=http%3A%2F%2Fbg.liga.net%2Fwww%2Fdelivery%2Fck.php%3Foaparams%3D2__bannerid%3D2362__zoneid%3D0__log%3Dno__cb%3Ddc0b0ed25b__maxdest%3Dhttp%3A%2F%2Fwww.link.ua&atar1=_blank" type="application/x-shockwave-flash" wmode="transparent" border="0" menu="true" scale="exactfit" allowfullscreen="true" AllowScriptAccess="always" /></object>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+======================
+використовуючи виклик файла і СТАТИСТИКУ з БГ2
+
+<a href='http://bg2.liga.net/www/delivery/ck.php?n=aae4f513' target='_blank'><img src='http://bg2.liga.net/www/delivery/avw.php?campaignid=27&amp;source=bg2&amp;n=aae4f513&amp;ct0=027' border='0' alt='' /></a>
+
+
+<a href="FSCommand:kill"></a>
+<object style="z-index: 9999999999;" width="1000" height="180" data="http://bg.liga.net/www/images/027.swf" type="application/x-shockwave-flash" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,5,0,175" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000">
+<param name="allowfullscreen" value="true" />
+<param name="allowscriptaccess" value="always">
+<param name="flashvars" value="alink1=http%3A%2F%2Fbg.liga.net%2Fwww%2Fdelivery%2Fck.php%3Foaparams%3D2__bannerid%3D2362__zoneid%3D0__log%3Dno__cb%3Ddc0b0ed25b__maxdest%3Dhttp%3A%2F%2Fwww.link.ua&atar1=_blank" />
+<param name="quality" value="high">
+<param name="menu" value="true" />
+<param name="movie" value="http://bg.liga.net/www/images/027.swf" />
+<param name="scale" value="exactfit" />
+<param name="wmode" value="transparent" />
+<embed width="1000" height="180" src="http://bg.liga.net/www/images/027.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="alink1=http%3A%2F%2Fbg.liga.net%2Fwww%2Fdelivery%2Fck.php%3Foaparams%3D2__bannerid%3D2362__zoneid%3D0__log%3Dno__cb%3Ddc0b0ed25b__maxdest%3Dhttp%3A%2F%2Fwww.link.ua&atar1=_blank" type="application/x-shockwave-flash" wmode="transparent" border="0" menu="true" scale="exactfit" allowfullscreen="true" AllowScriptAccess="always" />
+</object>
+
+
+
+
+
+
+
+
+
+
+
+
+
+=============== ПРАЦЮЮЧИЙ КОД = 027 =========================
+<a href="FSCommand:kill"></a>
+<object style="z-index: 9999999999;" width="1000" height="180" data="http://bg.liga.net/www/images/027.swf" type="application/x-shockwave-flash" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,5,0,175" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000">
+<param name="allowfullscreen" value="true" />
+<param name="allowscriptaccess" value="always">
+<param name="flashvars" value="alink1=http%3A%2F%2Fbg.liga.net%2Fwww%2Fdelivery%2Fck.php%3Foaparams%3D2__bannerid%3D2362__zoneid%3D0__log%3Dno__cb%3Ddc0b0ed25b__maxdest%3Dhttp%3A%2F%2Fwww.link.ua&atar1=_blank" />
+<param name="quality" value="high">
+<param name="menu" value="true" />
+<param name="movie" value="http://bg.liga.net/www/images/027.swf" />
+<param name="scale" value="exactfit" />
+<param name="wmode" value="transparent" />
+<embed width="1000" height="180" src="http://bg.liga.net/www/images/027.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="alink1=http%3A%2F%2Fbg.liga.net%2Fwww%2Fdelivery%2Fck.php%3Foaparams%3D2__bannerid%3D2362__zoneid%3D0__log%3Dno__cb%3Ddc0b0ed25b__maxdest%3Dhttp%3A%2F%2Fwww.link.ua&atar1=_blank" type="application/x-shockwave-flash" wmode="transparent" border="0" menu="true" scale="exactfit" allowfullscreen="true" AllowScriptAccess="always" />
+</object>
+==============================================================
+<script language="JavaScript">
+//<!--
+// enter the message you wish to be shown, including html tags
+// ТУТ кладемо код банера одним рядком, якщо це буде JS то незнаю чи відпрацює...
+// http://www.flashbannernow.com/flash-banner-code.php
+var message='<a href="FSCommand:kill"></a><object style="z-index: 9999999999;" width="1000" height="180" data="http://bg.liga.net/www/images/027.swf" type="application/x-shockwave-flash" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,5,0,175" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always"><param name="flashvars" value="alink1=http%3A%2F%2Fbg.liga.net%2Fwww%2Fdelivery%2Fck.php%3Foaparams%3D2__bannerid%3D2362__zoneid%3D0__log%3Dno__cb%3Ddc0b0ed25b__maxdest%3Dhttp%3A%2F%2Fwww.link.ua&atar1=_blank" /><param name="quality" value="high"><param name="menu" value="true" /><param name="movie" value="http://bg.liga.net/www/images/027.swf" /><param name="scale" value="exactfit" /><param name="wmode" value="transparent" /><embed width="1000" height="180" src="http://bg.liga.net/www/images/027.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="alink1=http%3A%2F%2Fbg.liga.net%2Fwww%2Fdelivery%2Fck.php%3Foaparams%3D2__bannerid%3D2362__zoneid%3D0__log%3Dno__cb%3Ddc0b0ed25b__maxdest%3Dhttp%3A%2F%2Fwww.link.ua&atar1=_blank" type="application/x-shockwave-flash" wmode="transparent" border="0" menu="true" scale="exactfit" allowfullscreen="true" AllowScriptAccess="always" /></object>'
+
+
+//enter a color name or hex to be used as the background color of the message
+// var backgroundcolor="#FF0000"
+var backgroundcolor="transparent"
+// var backgroundcolor="opaque"
+
+//enter 1 for always display, 2 for ONCE per browser session
+var displaymode=1
+
+// Set duration message should appear on screen, in seconds (10000=10 sec, 0=perpetual)
+// час скільки банер показується
+var displayduration=0
+
+//enter 0 for non-flashing message, 1 for flashing
+var flashmode=1
+//if above is set to flashing, enter the flash-to color below
+// var flashtocolor="lightyellow"
+var flashtocolor="transparent"
+
+
+///////////////do not edit below this line////////////////////////////////////////
+var ie=document.all
+var ieNOTopera=document.all&&navigator.userAgent.indexOf("Opera")==-1
+
+function regenerate(){
+window.location.reload()
+}
+
+function regenerate2(){
+if (document.layers)
+setTimeout("window.onresize=regenerate",400)
+}
+
+var which=0
+
+function flash(){
+if (which==0){
+if (document.layers)
+topmsg_obj.bgColor=flashtocolor
+else
+topmsg_obj.style.backgroundColor=flashtocolor
+which=1
+}
+else{
+if (document.layers)
+topmsg_obj.bgColor=backgroundcolor
+else
+topmsg_obj.style.backgroundColor=backgroundcolor
+which=0
+}
+}
+
+if (ie||document.getElementById)
+document.write('<div id="topmsg" style="position:absolute; visibility:hidden; z-index:1000;">'+message+'</div>')
+
+var topmsg_obj=ie? document.all.topmsg : document.getElementById? document.getElementById("topmsg") : document.topmsg
+
+function positionit(){
+var dsocleft=ie? document.body.scrollLeft : pageXOffset
+var dsoctop=ie? document.body.scrollTop : pageYOffset
+var window_width=ieNOTopera? document.body.clientWidth : window.innerWidth-20
+var window_height=ieNOTopera? document.body.clientHeight : window.innerHeight
+
+if (ie||document.getElementById){
+topmsg_obj.style.left=parseInt(dsocleft)+window_width/2-topmsg_obj.offsetWidth/2
+topmsg_obj.style.top=parseInt(dsoctop)+parseInt(window_height)-topmsg_obj.offsetHeight-4
+}
+else if (document.layers){
+topmsg_obj.left=dsocleft+window_width/2-topmsg_obj.document.width/2
+topmsg_obj.top=dsoctop+window_height-topmsg_obj.document.height-5
+}
+}
+
+function setmessage(){
+if (displaymode==2&&(!display_msg_or_not()))
+return
+if (document.layers){
+topmsg_obj=new Layer(window.innerWidth)
+topmsg_obj.bgColor=backgroundcolor
+regenerate2()
+topmsg_obj.document.write(message)
+topmsg_obj.document.close()
+positionit()
+topmsg_obj.visibility="show"
+if (displayduration!=0)
+setTimeout("topmsg_obj.visibility='hide'",displayduration)
+}
+else{
+positionit()
+topmsg_obj.style.backgroundColor=backgroundcolor
+topmsg_obj.style.visibility="visible"
+if (displayduration!=0)
+setTimeout("topmsg_obj.style.visibility='hidden'",displayduration)
+}
+setInterval("positionit()",100)
+if (flashmode==1)
+setInterval("flash()",1000)
+}
+
+function get_cookie(Name) {
+var search = Name + "="
+var returnvalue = ""
+if (document.cookie.length > 0) {
+offset = document.cookie.indexOf(search)
+if (offset != -1) {
+offset += search.length
+end = document.cookie.indexOf(";", offset)
+if (end == -1)
+end = document.cookie.length;
+returnvalue=unescape(document.cookie.substring(offset, end))
+}
+}
+return returnvalue;
+}
+
+function display_msg_or_not(){
+if (get_cookie("displaymsg")==""){
+document.cookie="displaymsg=yes"
+return true
+}
+else
+return false
+}
+
+if (document.layers||ie||document.getElementById)
+window.onload=setmessage
+
+//-->
+</script>
+=============== ПРАЦЮЮЧИЙ КОД = 027 = END ====================

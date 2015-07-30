@@ -1,0 +1,220 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+  <meta http-equiv="content-type" content="text/html; charset=windows-1251">
+  <meta name="generator" content="PSPad editor, www.pspad.com">
+  <title></title>
+  </head>
+  <body>
+  
+<c__enter>
+text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text <br>
+
+
+
+
+<!--// УНІВЕРСАЛЬНИЙ: ScreenGlide + PeelAvey //-->
+<!-- УВАГА. выдловився баг (при винесенні змінних наружу, банер перестав хлопуватись на ОнМаусАут). у Віталіка в коді його нема, треба дослідити на якій стадії він виникає. -->
+<!--//* УВАГА! 
+Даний код є "заточений" ТІЛЬКИ ПІД ФЛЕШ - під файли збережені в [max.FLA=v8]+[.SWF FLASH=v6]+[NoCompressoin]+[ActionScript 1.0]
+прошивка банера стандартно:
+
+on (release)
+{
+getURL("http://pda.liga.net","_blank");
+}
+
+в самому верхньому леєрі. без зайвих пробілів. так як приведено.
+*//--> 
+
+
+<div style="p__osition:relative; p__osition:absolute; width:580px; height:30; text-align:left; t__op:90px; l__eft:0px; z-index: 0;">
+
+<script>
+var targetUrl = "http://pda.liga.net";  //  лінк куди має перейти при кліку на банер.
+var bannerId = "6628";                  //  Номер БАНЕРА (для OpenX 2.8.3).
+var zoneId = "204";                     //  Номер ЗОНИ (для OpenX 2.8.3).
+
+// # якщо код треба відкручувати напряму то розкоментуй цю і закоментуй наступну змінну.
+// var bannerURL = targetUrl;           // Прямий лінк. це коли крутиться по-за банерками.
+var bannerURL = "http://bg.liga.net/www/delivery/ck.php?oaparams=2__bannerid="+bannerId+"__zoneid="+zoneId+"__cb="+Math.floor(Math.random()*99999999999)+"__oadest="+ targetUrl;  // модернізований УРЛ який "заточерий" на підрахунок кліків в OpenX 2.8.3
+var bannerTARGET = "_blank";  // "_blank" OR "_top"   - відпрацьовує лише тоді коли в сам банер не прошитий цей параметр. Але краще прошивати його в банер.
+
+var sFile = "http://bg.liga.net/www/images/630e31bf72f2f75f805776c0c07171a4.swf";   // URL маленького банера SG.
+// var sFile = "http://bg.liga.net/www/images/b1.swf";                              // URL маленького банера PA.
+// var sFile = "580x30.swf";  // маленький банер (якщо цей скрипт в одній папці разом з файлами).
+var sWidth = "580";           // [SG]=["520" OR "580"]. [PA]=[maximum "105"].
+var sHeight = "30";           // [SG]=["30"]. [PA]=[maximum "95"].
+var sPosition = "absolute";   // "absolute" OR "relative".
+var szIndex = "100";          //  висота леєра (z-index).
+var sLeft = "";               //  відступ з ліва (в пікселях). (якщо без значень, то параметр не відпрацьовує).
+var sTop = "";                //  відступ зверху (в пікселях). (якщо без значень, то параметр не відпрацьовує).
+var sAlign = "left";         // "left" OR "center" OR "right".
+
+
+var dFile = "http://bg.liga.net/www/images/2d8503c8b01a8f86b4fadb3147ed1364.swf";   // URL великого банера SG.
+// var dFile = "http://bg.liga.net/www/images/peel-away_big1_2.swf";                // URL великого банера PA.
+// var dFile = "580x90.swf";  // великий банер (якщо цей скрипт в одній папці разом з файлами).
+var dWidth = "580";           // [SG]=["520" OR "580]". [PA]=[maximum "790" OR "1000"].
+var dHeight = "90";           // [SG]=["60" OR "90"]. [PA]=[maximum "650"].
+var dPosition = "absolute";   // "absolute" OR "relative" . Для SG: якщо треба зі "здвигом" то виставляємо "relative".
+var dzIndex = szIndex;        //  висота леєра (z-index). (зазвичай такий же як і для маленького).
+var dLeft = sLeft;            //  відступ з ліва. (зазвичай такий же як і для маленького).
+var dTop = sTop;              //  відступ зверху. (зазвичай такий же як і для маленького).
+var dAlign = sAlign;
+
+var openX = "R";
+var openY = "down";        // закоментував Лозенко
+var overPlaceX = 'yes';    // закоментував Лозенко
+var overPlaceY = "yes";    // закоментував Лозенко
+
+if ((sFile) && (dFile)) {
+	document.writeln('<div id="peelawey_sDiv" style="t__op: '+sTop+'; l__eft: '+sLeft+'; width: '+sWidth+'; height: '+sHeight+'; position: '+sPosition+'; z-index: '+szIndex+'; " text-align="'+sAlign+'" border="1">');
+	document.writeln('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="'+sWidth+'" height="'+sHeight+'">');
+	document.writeln('<param name="movie" value="'+sFile+'?link1='+escape(bannerURL)+'&target='+escape(bannerTARGET)+'">');
+	document.writeln('<param name="quality" value="high">');
+	document.writeln('<param name="allowScriptAccess" value="always">');
+	document.writeln('<param name="wmode" value="transparent">');
+	document.writeln('<embed src="'+sFile+'?link1='+escape(bannerURL)+'&target=_blank" quality="high" allowScriptAccess="always" wmode="transparent" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="'+sWidth+'" height="'+sHeight+'"></embed>');
+	document.writeln('</object></div>');
+
+	document.writeln('<div id="peelawey_dDiv" style="t__op: '+dTop+'; l__eft: '+dLeft+'; width: '+dWidth+'; height: '+dHeight+'; position: '+dPosition+'; z-index: '+dzIndex+'; display: none" text-align="'+dAlign+'">');
+	document.writeln('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="'+dWidth+'" height="'+dHeight+'">');
+	document.writeln('<param name="movie" value="'+dFile+'?link1='+escape(bannerURL)+'&target='+escape(bannerTARGET)+'">');
+	document.writeln('<param name="quality" value="high">');
+	document.writeln('<param name="allowScriptAccess" value="always">');
+	document.writeln('<embed src="'+dFile+'?link1='+escape(bannerURL)+'&target='+escape(bannerTARGET)+'" quality="high" allowScriptAccess="always"  pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="'+dWidth+'" height="'+dHeight+'"></embed>');
+	document.writeln('</object></div>');
+	
+// <!-- unescape -->
+
+var a_open_deltaX = 0;
+var a_open_deltaY = 0;
+var a_open_posL = 0;
+var a_open_posT = 0;
+var a_open_mode = 0;
+var a_open_obj = new Array;
+
+function a_open_findTags(tag) {
+	if (typeof document.getElementsByTagName != 'undefined') { return document.getElementsByTagName(tag); }
+	else if (document.all && document.all.tags) { return document.all.tags(tag); }
+	return null;
+}
+
+function a_open_View(mode) {
+	if (mode == a_open_mode) return '';
+	document.getElementById('peelawey_dDiv').style.display = mode ? '' : 'none';
+	a_open_mode = mode;
+	for (var i = 0; i < a_open_obj.length; i++) {
+		a_open_obj[i].style.visibility = mode ? 'hidden' : 'visible';
+	}
+}
+
+function a_open_Show() {
+	a_open_View(1);
+}
+
+function a_open_GetLT(obj) {
+	var valueT = 0, valueL = 0;
+	while (obj) {
+		valueT += obj.offsetTop  || 0;
+		valueL += obj.offsetLeft || 0;
+		obj = obj.offsetParent;
+	};
+	return [valueL, valueT];
+}
+
+function a_open_IfInBn(x, y) {
+	var ret = (x >= a_open_posL && x <= (a_open_posL + dWidth) && y >= a_open_posT && y <= (a_open_posT + dHeight));
+	return ret;
+}
+
+function _a_open_init_delta() {
+	setTimeout('_a_open_init_delta()', 250);
+	a_open_deltaX = window.pageXOffset
+		|| document.documentElement.scrollLeft
+		|| document.body.scrollLeft
+		|| 0;
+	a_open_deltaY = window.pageYOffset
+		|| document.documentElement.scrollTop
+		|| document.body.scrollTop
+		|| 0;
+}
+
+function _a_open_init_pos() {
+	var A = a_open_GetLT(document.getElementById('peelawey_sDiv'));
+	a_open_posL = A[0];
+	a_open_posT = A[1];
+	if (openX == 'L') {
+		a_open_posL = a_open_posL + sWidth - dWidth;
+		document.getElementById('peelawey_dDiv').style.left = a_open_posL + 'px';
+	}
+}
+
+function _a_open_init_obj() {
+	var tmp = new Array;
+	var obj;
+	obj = a_open_findTags('iframe');
+	if (obj) for (var i = 0; i < obj.length; i++) tmp.push(obj[i]);
+	obj = a_open_findTags('select');
+	if (obj) for (var i = 0; i < obj.length; i++) tmp.push(obj[i]);
+	obj = a_open_findTags('object');
+	if (obj) for (var i = 0; i < obj.length; i++) tmp.push(obj[i]);
+
+	a_open_obj = new Array();
+	for (var i = 0; i < tmp.length; i++) {
+		if (!(tmp[i].parentNode.id.indexOf('peelawey_') == 0)) {
+			var O = a_open_GetLT(tmp[i]);
+			if (a_open_IfInBn(O[0], O[1])) a_open_obj.push(tmp[i]);
+		}
+	}
+}
+
+function a_open_MouseMove(e) {
+	if (!a_open_IfInBn(e.clientX + a_open_deltaX, e.clientY + a_open_deltaY)) a_open_View(0);
+}
+
+function a_open_Resize() {
+	_a_open_init_pos();
+	_a_open_init_obj();
+}
+
+function _a_open_addEvent(obj, e, func) {
+	if(obj.addEventListener) obj.addEventListener(e, func, false);
+	else if(obj.attachEvent) obj.attachEvent('on'+e, func);
+	else obj['on'+e] = func;
+}
+
+function _a_open_init() {
+	setTimeout('_a_open_init_delta()', 100);
+	_a_open_init_pos();
+	_a_open_init_obj();
+
+	_a_open_addEvent(document.getElementById('peelawey_sDiv'), 'mousemove', a_open_Show);
+	_a_open_addEvent(document, 'mousemove', a_open_MouseMove);
+	_a_open_addEvent(window, 'resize', a_open_Resize);
+}
+
+if (typeof window.onload == "undefined" || window.onload == null) {
+	window.onload = _a_open_init;
+} else {
+	(function() {
+		var oldOnload = window.onload;
+		window.onload = function() { oldOnload(); _a_open_init(); }
+	})();
+}
+// <!-- /unescape -->
+}
+</script>
+</div>
+<!--// ScreenGlide END //-->
+
+
+
+text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text 
+
+</cente__r>
+
+
+  </body>
+</html>

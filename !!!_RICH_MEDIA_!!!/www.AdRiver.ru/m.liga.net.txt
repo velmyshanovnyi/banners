@@ -1,0 +1,112 @@
+<!-- AdRiver ajax2 -->
+<script type="text/javascript" src="http://static.liga.net/resources/files/bg/adriver.core.2.js"></script>
+<!-- AdRiver ajax2 END -->
+</head>
+********************************************************************************
+
+<body>
+
+================================================================================
+
+--------------------------------------------------------------------------------
+САЙТИ
+
+m.liga.net            m.liga      180276
+m.news.liga.net       m.news      180277
+m.biz.liga.net        m.biz       180278
+m.finance.liga.net    m.finance   180279
+pda.liga.net          pda         181530
+
+--------------------------------------------------------------------------------
+УРЛИ:
+
+m.liga.net
+m.news.liga.net
+m.biz.liga.net
+m.finance.liga.net
+pda.liga.net
+
+--------------------------------------------------------------------------------
+ЗОНИ:
+
+m.liga.top       mtopliga      [bn:1] 180276
+m.news.top       mtopnews      [bn:1] 180277
+m.biz.top        mtopbiz       [bn:1] 180278
+m.finance.top    mtopfinance   [bn:1] 180279
+pda.top          pdatop        [bn:1] 181530
+
+================================================================================
+КОДИ:
+================================================================================
+mtopliga [bn:1] 180276
+
+<center>
+<!-- AdRiver mtopliga -->
+<div id="mtopliga" class="mtopliga adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("mtopliga", {sid: 180276, sz: "mtopliga", pz: 0, bn: 1 });
+</script>
+<!-- AdRiver mtopliga END -->
+</center>
+================================================================================
+mtopnews [bn:1] 180277
+
+<center>
+<!-- AdRiver mtopnews -->
+<div id="mtopnews" class="mtopnews adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("mtopnews", {sid: 180277, sz: "mtopnews", pz: 0, bn: 1 });
+</script>
+<!-- AdRiver mtopnews END -->
+</center>
+================================================================================
+mtopbiz [bn:1] 180278
+
+<center>
+<!-- AdRiver mtopbiz -->
+<div id="mtopbiz" class="mtopbiz adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("mtopbiz", {sid: 180278, sz: "mtopbiz", pz: 0, bn: 1 });
+</script>
+<!-- AdRiver mtopbiz END -->
+</center>
+================================================================================
+mtopfinance [bn:1] 180279
+
+<center>
+<!-- AdRiver mtopfinance -->
+<div id="mtopfinance" class="mtopfinance adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("mtopfinance", {sid: 180279, sz: "mtopfinance", pz: 0, bn: 1 });
+</script>
+<!-- AdRiver mtopfinance END -->
+</center>
+================================================================================
+mtopforum [bn:1] 191455
+
+<center>
+<!-- AdRiver mtopforum -->
+<div id="mtopforum" class="mtopforum adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("mtopforum", {sid:191455, pz:0, bn:1});
+</script>
+<!-- AdRiver mtopforum END -->
+</center>
+================================================================================
+<center>
+<!-- AdRiver pdatop -->
+<div id="pdatop" class="pdatop adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("pdatop", {sid: 181530, sz: "pdatop", pz: 0, bn: 1 });
+</script>
+<!-- AdRiver pdatop END -->
+</center>
+================================================================================
+
+
+
+
+
+
+
+

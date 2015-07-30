@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>ANT subscriptions in Google Reader</title>
+    </head>
+    <body>
+        <outline title="music" text="music">
+            <outline text="Українська Шара" title="Українська Шара"
+                type="rss"
+                xmlUrl="http://feeds.feedburner.com/share-net-ua" htmlUrl="http://torrent.share.net.ua"/>
+        </outline>
+        <outline text="(title unknown)" title="(title unknown)"
+            type="rss"
+            xmlUrl="http://abook.org.ua/forum/feed.php?0,type=rss" htmlUrl="http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Fabook.org.ua%2Fforum%2Ffeed.php%3F0%2Ctype%3Drss"/>
+        <outline text="abook" title="abook" type="rss"
+            xmlUrl="http://spreadsheets.google.com/feeds/list/o11744591729364027144.4688592220891690833/od6/public/basic?alt=rss" htmlUrl="http://spreadsheets.google.com/pub?key=o11744591729364027144.4688592220891690833"/>
+        <outline text="Gmail" title="Gmail" type="rss"
+            xmlUrl="https://mail.google.com/mail/feed/atom" htmlUrl="http://www.google.com/reader/view/feed%2Fhttps%3A%2F%2Fmail.google.com%2Fmail%2Ffeed%2Fatom"/>
+        <outline text="N-admin.com - Tips n Tricks | Трюки Админа"
+            title="N-admin.com - Tips n Tricks | Трюки Админа"
+            type="rss" xmlUrl="http://www.n-admin.com/rss.html" htmlUrl="http://www.n-admin.com"/>
+        <outline text="OpenAir" title="OpenAir" type="rss"
+            xmlUrl="http://openair.org.ua/wiki/feed.php" htmlUrl="http://openair.org.ua/wiki/"/>
+        <outline text="Бизнес под микроскопом"
+            title="Бизнес под микроскопом" type="rss"
+            xmlUrl="http://www.internet-business.ru/blog/atom.xml" htmlUrl="http://www.internet-business.ru/blog/"/>
+        <outline
+            text="Материалы за 03.12.2007 » Пенеры как социальное явление! :: Клуб ..."
+            title="Материалы за 03.12.2007 » Пенеры как социальное явление! :: Клуб ..."
+            type="rss" xmlUrl="http://alcoholics.org.ua/rss.xml" htmlUrl="http://alcoholics.org.ua/"/>
+        <outline text="Нові Ініціативи - PledgeBank Україна"
+            title="Нові Ініціативи - PledgeBank Україна" type="rss"
+            xmlUrl="http://ua.uk.pledgebank.com/rss/list" htmlUrl="http://ua.uk.pledgebank.com/list"/>
+        <outline
+            text="Онлайн-конференцiя Президента України Вiктора Ющенка 27 грудня 2007 року"
+            title="Онлайн-конференцiя Президента України Вiктора Ющенка 27 грудня 2007 року"
+            type="rss"
+            xmlUrl="http://www.interview.president.gov.ua/rss.xml" htmlUrl="http://interview.president.gov.ua"/>
+        <outline text="ПОРА" title="ПОРА" type="rss"
+            xmlUrl="http://pora.org.ua/component/option,com_rss/feed,RSS2.0/no_html,1/" htmlUrl="http://pora.org.ua"/>
+        <outline title="afishka" text="afishka">
+            <outline text="AZH.COM.UA" title="AZH.COM.UA" type="rss"
+                xmlUrl="http://www.azh.com.ua/news4/rss.php" htmlUrl="http://azh.com.ua/"/>
+        </outline>
+        <outline title="Я не читаю" text="Я не читаю">
+            <outline text="2000 on-line :: Еженедельник 2000"
+                title="2000 on-line :: Еженедельник 2000" type="rss"
+                xmlUrl="http://2000.net.ua/rss/2000.xml" htmlUrl="http://2000.net.ua/"/>
+            <outline text="2000 on-line :: Новости"
+                title="2000 on-line :: Новости" type="rss"
+                xmlUrl="http://2000.net.ua/rss/news.xml" htmlUrl="http://2000.net.ua/"/>
+            <outline text="2000 on-line :: Уикенд"
+                title="2000 on-line :: Уикенд" type="rss"
+                xmlUrl="http://2000.net.ua/rss/weekend.xml" htmlUrl="http://2000.net.ua/weekend"/>
+            <outline text="24.ua Новости" title="24.ua Новости"
+                type="rss" xmlUrl="http://24.ua/export/rss/index.xml" htmlUrl="http://24.ua/"/>
+            <outline text="AD_BLOG" title="AD_BLOG" type="rss"
+                xmlUrl="http://www.mastertext.spb.ru/blog/feed/" htmlUrl="http://www.mastertext.spb.ru/blog"/>
+            <outline text="bash.org.by" title="bash.org.by" type="rss"
+                xmlUrl="http://bash.org.by/rss.php" htmlUrl="http://bash.org.by/"/>
+            <outline text="CHIN.ORG.UA" title="CHIN.ORG.UA" type="rss"
+                xmlUrl="http://chin.org.ua/export/rss/" htmlUrl="http://chin.org.ua"/>
+            <outline text="dobro-info.kiev.ua"
+                title="dobro-info.kiev.ua" type="rss"
+                xmlUrl="http://dobro-info.kiev.ua/ua/news/rss" htmlUrl="http://dobro-info.kiev.ua/"/>
+            <outline text="iBash.Org.Ru" title="iBash.Org.Ru" type="rss"
+                xmlUrl="http://ibash.org.ru/rss.xml" htmlUrl="http://ibash.org.ru/"/>
+            <outline text="Internet Archive" title="Internet Archive"
+                type="rss"
+                xmlUrl="http://www.archive.org/services/collection-rss.php" htmlUrl="http://www.archive.org"/>
+            <outline text="Liga:Forum - Новые темы. Автофорум"
+                title="Liga:Forum - Новые темы. Автофорум" type="rss"
+                xmlUrl="http://forum.liga.net/rssnewds.asp?forumid=35" htmlUrl="http://forum.liga.net/"/>
+            <outline
+                text="Liga:Forum - Новые темы. Финансы и ценные бумаги"
+                title="Liga:Forum - Новые темы. Финансы и ценные бумаги"
+                type="rss"
+                xmlUrl="http://forum.liga.net/rsslastds.asp?forumid=28&amp;quan=5" htmlUrl="http://forum.liga.net/"/>
+            <outline text="MEMBRANA" title="MEMBRANA" type="rss"
+                xmlUrl="http://www.membrana.ru/export/rss.xml" htmlUrl="http://www.membrana.ru/"/>
+            <outline text="Page2RSS: mnru.mk.ua"
+                title="Page2RSS: mnru.mk.ua" type="rss"
+                xmlUrl="http://page2rss.ru/rss/74023192585722fc468a51b3a070cb48" htmlUrl="http://page2rss.ru/page?url=www.mnru.mk.ua/"/>
+            <outline text="Page2RSS: Студентська Україна"
+                title="Page2RSS: Студентська Україна" type="rss"
+                xmlUrl="http://page2rss.ru/rss/5c3246968051da8799fda538f2e7f21e" htmlUrl="http://page2rss.ru/page?url=www.studenty.org.ua/"/>
+            <outline text="proUA" title="proUA" type="rss"
+                xmlUrl="http://ru.proua.com/rss/rss_ru.xml" htmlUrl="http://ru.proua.com"/>
+            <outline text="test RSS razom" title="test RSS razom"
+                type="rss"
+                xmlUrl="http://www.dapper.net/transform.php?dappName=testRSSrazom&amp;transformer=RSS&amp;extraArg_title=title&amp;extraArg_description%5B%5D=foto&amp;extraArg_description%5B%5D=main&amp;extraArg_pubDate=date&amp;extraArg_fixDates=1&amp;applyToUrl=http%3A%2F%2Fwww.razom.org.ua%2F" htmlUrl="http://www.razom.org.ua/"/>
+            <outline text="test RSS razom" title="test RSS razom"
+                type="rss"
+                xmlUrl="http://www.dapper.net/transform.php?dappName=testRSSrazom&amp;transformer=RSS&amp;extraArg_title=title&amp;extraArg_description%5B%5D=title&amp;extraArg_description%5B%5D=main&amp;extraArg_pubDate=date&amp;extraArg_fixDates=1&amp;applyToUrl=http%3A%2F%2Fwww.razom.org.ua%2F" htmlUrl="http://www.razom.org.ua/"/>
+            <outline text="(title unknown)" title="(title unknown)"
+                type="rss" xmlUrl="http://dev.block.razom.org.ua/rss/" htmlUrl="http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Fdev.block.razom.org.ua%2Frss%2F"/>
+            <outline text="Библиотека аудиокниг"
+                title="Библиотека аудиокниг" type="rss"
+                xmlUrl="http://www.savok.net/rss.xml" htmlUrl="http://www.savok.net/"/>
+            <outline text="Высокоскоростной интернет в Украине"
+                title="Высокоскоростной интернет в Украине" type="rss"
+                xmlUrl="http://www.broadband.org.ua/index2.php?option=com_rss&amp;feed=RSS2.0&amp;no_html=1" htmlUrl="http://www.broadband.org.ua"/>
+            <outline text="Експорт с сайту bilozir.com!"
+                title="Експорт с сайту bilozir.com!" type="rss"
+                xmlUrl="http://bilozir.com/index2.php?option=com_rss&amp;feed=RSS2.0&amp;no_html=1" htmlUrl="http://bilozir.com"/>
+            <outline text="Интернет бизнес" title="Интернет бизнес"
+                type="rss"
+                xmlUrl="http://feeds.feedburner.com/SergeyKorkin" htmlUrl="http://korkin.com"/>
+            <outline text="Интерфакс - Украина"
+                title="Интерфакс - Украина" type="rss"
+                xmlUrl="http://www.interfax.com.ua/ru/rss/headlines" htmlUrl="http://www.interfax.com.ua/"/>
+            <outline text="Информационное агентство УНИАН"
+                title="Информационное агентство УНИАН" type="rss"
+                xmlUrl="http://www.unian.net/rss/export/short/news_rus.rss" htmlUrl="http://www.unian.net/"/>
+            <outline
+                text="ЛIГА:Форумы - бизнес-форум, бухгалтерские посиделки, политический ..."
+                title="ЛIГА:Форумы - бизнес-форум, бухгалтерские посиделки, политический ..."
+                type="rss" xmlUrl="http://forum.liga.net/rssnewmsgs.asp" htmlUrl="http://forum.liga.net/"/>
+            <outline text="ЛІГА.Блоги" title="ЛІГА.Блоги" type="rss"
+                xmlUrl="http://blog.liga.net/rss.aspx" htmlUrl="http://blog.liga.net"/>
+            <outline
+                text="ЛІГА.новости - последние новости Украины и мира. Новости в Украине."
+                title="ЛІГА.новости - последние новости Украины и мира. Новости в Украине."
+                type="rss" xmlUrl="http://news.liga.net/all/rss.xml" htmlUrl="http://www.liga.net"/>
+            <outline text="ЛІГАБізнесІнформ::Бизнес-новости Украины"
+                title="ЛІГАБізнесІнформ::Бизнес-новости Украины"
+                type="rss"
+                xmlUrl="http://www.liga.net/lenta/export/RSS/all.xml" htmlUrl="http://www.liga.net"/>
+            <outline
+                text="Народний Рух України :: Головна сторінка - Page2RSS"
+                title="Народний Рух України :: Головна сторінка - Page2RSS"
+                type="rss"
+                xmlUrl="http://page2rss.ru/atom/66787f6c74daa75f66fe844d00772269" htmlUrl="http://page2rss.ru/page?url=nru.org.ua/"/>
+            <outline
+                text="Независимое аналитическое агентство «ГЛАВРЕД»"
+                title="Независимое аналитическое агентство «ГЛАВРЕД»"
+                type="rss" xmlUrl="http://glavred.info/rss/" htmlUrl="http://glavred.info/"/>
+            <outline text="Новости на korrespondent.net"
+                title="Новости на korrespondent.net" type="rss"
+                xmlUrl="http://k.img.com.ua/rss/ru/news.xml" htmlUrl="http://korrespondent.net"/>
+            <outline text="Новости Телекритика"
+                title="Новости Телекритика" type="rss"
+                xmlUrl="http://www.telekritika.ua/rss/" htmlUrl="http://www.telekritika.ua"/>
+            <outline
+                text="Новостная поисковая система RedTram | liga.net"
+                title="Новостная поисковая система RedTram | liga.net"
+                type="rss"
+                xmlUrl="http://rss.ru.redtram.com/sources/liga.net/feed.xml" htmlUrl="http://ru.redtram.com/"/>
+            <outline text="Обком" title="Обком" type="rss"
+                xmlUrl="http://obkom.net.ua/rss/rss.xml" htmlUrl="http://obkom.net.ua"/>
+            <outline
+                text="Офіційне інтернет-представництво Блоку &amp;quot;Наша Україна - Народна Самооборона&amp;quot; - Page2RSS"
+                title="Офіційне інтернет-представництво Блоку &amp;quot;Наша Україна - Народна Самооборона&amp;quot; - Page2RSS"
+                type="rss"
+                xmlUrl="http://page2rss.ru/rss/71b8b1ae027a5b7cb6d9d53b083f1531" htmlUrl="http://page2rss.ru/page?url=nuns.com.ua/"/>
+            <outline text="повестка дня" title="повестка дня" type="rss"
+                xmlUrl="http://feeds.feedburner.com/agendablog" htmlUrl="http://agenda.com.ua"/>
+            <outline
+                text="Пошукова система новин RedTram | Новини за всіма темами у регіоні ..."
+                title="Пошукова система новин RedTram | Новини за всіма темами у регіоні ..."
+                type="rss"
+                xmlUrl="http://rss.ua.redtram.com/catalogue/ukraine/all-about-all/feed.xml" htmlUrl="http://ua.redtram.com/"/>
+            <outline text="Украинская Правда" title="Украинская Правда"
+                type="rss"
+                xmlUrl="http://www.pravda.com.ua/ru/export.xml" htmlUrl="http://www.pravda.com.ua/"/>
+            <outline text="Фофудья" title="Фофудья" type="rss"
+                xmlUrl="http://community.livejournal.com/fofudja/data/rss" htmlUrl="http://community.livejournal.com/fofudja/"/>
+            <outline text="Экспортировано из msnu.kiev.ua"
+                title="Экспортировано из msnu.kiev.ua" type="rss"
+                xmlUrl="http://www.msnu.kiev.ua/index.php?option=com_rss&amp;feed=RSS1.0&amp;no_html=1" htmlUrl="http://www.msnu.kiev.ua"/>
+            <outline
+                text="Юлія Тимошенко Персональний сайт Юлії Тимошенко лідера БЮТ"
+                title="Юлія Тимошенко Персональний сайт Юлії Тимошенко лідера БЮТ"
+                type="rss"
+                xmlUrl="http://www.tymoshenko.com.ua/index-ukr.xml" htmlUrl="http://www.tymoshenko.com.ua/"/>
+            <outline text="Інфопорн" title="Інфопорн" type="rss"
+                xmlUrl="http://feeds.feedburner.com/http/feedsinfopornorgua" htmlUrl="http://infoporn.org.ua"/>
+            <outline text="Інший Бік" title="Інший Бік" type="rss"
+                xmlUrl="http://otherside.com.ua/rss/export/full_news_ukr.rss" htmlUrl="http://otherside.com.ua/"/>
+        </outline>
+        <outline title="google" text="google">
+            <outline text="EN:Google Operating System"
+                title="EN:Google Operating System" type="rss"
+                xmlUrl="http://feeds.feedburner.com/GoogleOperatingSystem" htmlUrl="http://googlesystem.blogspot.com/"/>
+            <outline text="Google for Non-Profits Google Group"
+                title="Google for Non-Profits Google Group" type="rss"
+                xmlUrl="http://groups.google.com/group/googlefornonprofits/feed/rss_v2_0_topics.xml?num=50" htmlUrl="http://groups.google.com/group/googlefornonprofits"/>
+            <outline text="GoogleWorld.ru" title="GoogleWorld.ru"
+                type="rss" xmlUrl="http://googleworld.ru/feed" htmlUrl="http://googleworld.ru"/>
+            <outline text="Все про Google" title="Все про Google"
+                type="rss" xmlUrl="http://www.googlemon.ru/feed/" htmlUrl="http://www.googlemon.ru"/>
+            <outline text="Официальный блог - Google Россия"
+                title="Официальный блог - Google Россия" type="rss"
+                xmlUrl="http://googlerussiablog.blogspot.com/atom.xml" htmlUrl="http://googlerussiablog.blogspot.com/"/>
+            <outline text="Ґуґл українською" title="Ґуґл українською"
+                type="rss"
+                xmlUrl="http://community.livejournal.com/ua_google/data/rss" htmlUrl="http://community.livejournal.com/ua_google/"/>
+        </outline>
+        <outline title="news" text="news">
+            <outline text="24.ua Новости" title="24.ua Новости"
+                type="rss" xmlUrl="http://24.ua/export/rss/index.xml" htmlUrl="http://24.ua/"/>
+            <outline text="Bricolage NL" title="Bricolage NL" type="rss"
+                xmlUrl="http://feeds.feedburner.com/bricolage_nl" htmlUrl="http://www.lab.org.ua"/>
+            <outline text="Bricolage NL" title="Bricolage NL" type="rss"
+                xmlUrl="http://www.lab.org.ua/feed/" htmlUrl="http://www.lab.org.ua"/>
+            <outline text="Indymedia Ukraine: Тематичні повідомлення"
+                title="Indymedia Ukraine: Тематичні повідомлення"
+                type="rss"
+                xmlUrl="http://ukraine.indymedia.org/frontpage/rss" htmlUrl="http://ukraine.indymedia.org/"/>
+            <outline text="MYNEWS: мои новости / Последние новости"
+                title="MYNEWS: мои новости / Последние новости"
+                type="rss" xmlUrl="http://mynews.com.ua/rss/queued" htmlUrl="http://mynews.com.ua"/>
+            <outline text="NNM.RU" title="NNM.RU" type="rss"
+                xmlUrl="http://www.nnm.ru/rss/index.xml" htmlUrl="http://www.nnm.ru/"/>
+            <outline text="russian language IMC"
+                title="russian language IMC" type="rss"
+                xmlUrl="http://ru.indymedia.org/rss/features.1-0.rdf" htmlUrl="http://ru.indymedia.org/"/>
+            <outline text="«СУМНО» – Інтернет-видання про культуру"
+                title="«СУМНО» – Інтернет-видання про культуру"
+                type="rss"
+                xmlUrl="http://sumno.com/component/option,com_rss/feed,RSS2.0/no_html,1/" htmlUrl="http://sumno.com"/>
+            <outline text="Интерфакс" title="Интерфакс" type="rss"
+                xmlUrl="http://www.interfax.kiev.ua/rss_free.php" htmlUrl="http://www.interfax.kiev.ua/"/>
+            <outline text="Кіно-Переклад" title="Кіно-Переклад"
+                type="rss"
+                xmlUrl="http://kino-pereklad.org.ua/?feed=rss2" htmlUrl="http://kino-pereklad.org.ua"/>
+            <outline text="Незалежна медіа профспілка України"
+                title="Незалежна медіа профспілка України" type="rss"
+                xmlUrl="http://www.profspilka.org.ua//index2.php?option=com_rss&amp;feed=RSS2.0&amp;no_html=1" htmlUrl="http://www.profspilka.org.ua/"/>
+            <outline
+                text="новини | акцію протесту на майдані провела федерація профспілок ..."
+                title="новини | акцію протесту на майдані провела федерація профспілок ..."
+                type="rss"
+                xmlUrl="http://5tv.com.ua/img/export/yandex.rss" htmlUrl="http://5tv.com.ua/rus/"/>
+            <outline text="Телекритика" title="Телекритика" type="rss"
+                xmlUrl="http://www.telekritika.kiev.ua/img/export/tk.rss" htmlUrl="http://telekritika.kiev.ua/"/>
+            <outline text="Экспортировано из msnu.kiev.ua"
+                title="Экспортировано из msnu.kiev.ua" type="rss"
+                xmlUrl="http://www.msnu.kiev.ua/index2.php?option=com_rss&amp;feed=RSS2.0&amp;no_html=1" htmlUrl="http://www.msnu.kiev.ua"/>
+        </outline>
+        <outline title="cms" text="cms">
+            <outline text="(title unknown)" title="(title unknown)"
+                type="rss"
+                xmlUrl="http://www.joomla-ua.org/wiki/ua/feed.php" htmlUrl="http://www.joomla-ua.org/wiki/ua/"/>
+            <outline text="EN:Joomla! - News" title="EN:Joomla! - News"
+                type="rss"
+                xmlUrl="http://www.joomla.org/index.php?option=com_rss_xtd&amp;feed=RSS2.0&amp;type=com_content&amp;task=blogcategory&amp;id=0&amp;Itemid=33" htmlUrl="http://www.joomla.org"/>
+            <outline text="Joom.Ru - Русский дом Joomla!"
+                title="Joom.Ru - Русский дом Joomla!" type="rss"
+                xmlUrl="http://joom.ru/component/option,com_rss/feed,RSS2.0/no_html,1/" htmlUrl="http://joom.ru"/>
+            <outline
+                text="Joom.ru - Русский дом Joomla! - Описание Joomla!"
+                title="Joom.ru - Русский дом Joomla! - Описание Joomla!"
+                type="rss"
+                xmlUrl="http://joom.ru/index2.php?option=com_rss&amp;feed=RSS2.0&amp;no_html=1" htmlUrl="http://joom.ru"/>
+            <outline text="Joomla! - Main" title="Joomla! - Main"
+                type="rss"
+                xmlUrl="http://www.joomla.org/index.php?option=com_rss_xtd&amp;feed=RSS2.0&amp;type=com_frontpage&amp;Itemid=1" htmlUrl="http://www.joomla.org"/>
+            <outline text="Joomla! powered Site"
+                title="Joomla! powered Site" type="rss"
+                xmlUrl="http://joomla.ru/component/option,com_rss/feed,RSS2.0/no_html,1/" htmlUrl="http://joomla.ru"/>
+            <outline text="Joomla! Україна - Розширення"
+                title="Joomla! Україна - Розширення" type="rss"
+                xmlUrl="http://www.joomla-ua.org/wiki/ext/feed.php" htmlUrl="http://www.joomla-ua.org/wiki/ext/"/>
+            <outline text="RU:Joomla! CMS по-русски"
+                title="RU:Joomla! CMS по-русски" type="rss"
+                xmlUrl="http://joomlaportal.ru/component/option,com_rss/feed,RSS2.0/no_html,1/" htmlUrl="http://joomlaportal.ru"/>
+            <outline
+                text="RU:Территория дизайнера и веб-мастера - ЕЖЕДНЕВНОЕ обновление"
+                title="RU:Территория дизайнера и веб-мастера - ЕЖЕДНЕВНОЕ обновление"
+                type="rss" xmlUrl="http://www.grafamania.net/rss.xml" htmlUrl="http://www.grafamania.net/"/>
+            <outline text="Портал Joomla! Україна"
+                title="Портал Joomla! Україна" type="rss"
+                xmlUrl="http://www.joomla-ua.org/index2.php?option=com_rss&amp;feed=RSS2.0&amp;no_html=1" htmlUrl="http://www.joomla-ua.org"/>
+        </outline>
+        <outline title="mobi" text="mobi">
+            <outline
+                text="--=Smart60.ru=- - Всё для смартфонов на платформе Nokia S60"
+                title="--=Smart60.ru=- - Всё для смартфонов на платформе Nokia S60"
+                type="rss" xmlUrl="http://smart60.ru/engine/rss.php" htmlUrl="http://smart60.ru/"/>
+            <outline text="Mobile Cinema" title="Mobile Cinema"
+                type="rss"
+                xmlUrl="http://mobile-cinema.kiev.ua/news/rss/" htmlUrl="http://mobile-cinema.kiev.ua/"/>
+            <outline text="www.MobiMult.net - мультфильмы для мобильных"
+                title="www.MobiMult.net - мультфильмы для мобильных"
+                type="rss" xmlUrl="http://www.mobimult.net/rss.xml" htmlUrl="http://www.mobimult.net/"/>
+            <outline text="Мобильная связь в Украине"
+                title="Мобильная связь в Украине" type="rss"
+                xmlUrl="http://community.livejournal.com/ua_mobile/data/rss" htmlUrl="http://community.livejournal.com/ua_mobile/"/>
+            <outline text="Мобильная техника глазами IT-журналиста"
+                title="Мобильная техника глазами IT-журналиста"
+                type="rss" xmlUrl="http://feeds.feedburner.com/mpctimes" htmlUrl="http://mpctimes.com"/>
+            <outline text="Мобильный форум" title="Мобильный форум"
+                type="rss"
+                xmlUrl="http://allgsm.com.ua/forum/external.php?type=RSS2" htmlUrl="http://allgsm.com.ua/forum"/>
+        </outline>
+        <outline title="OpenAir" text="OpenAir">
+            <outline text="OPENAIR.RU" title="OPENAIR.RU" type="rss"
+                xmlUrl="http://www.openair.ru/info_/rss_menu/rss.php?1.2" htmlUrl="http://openair.ru/"/>
+            <outline text="UA:Радіо Скриня" title="UA:Радіо Скриня"
+                type="rss" xmlUrl="http://feeds.feedburner.com/skynia" htmlUrl="http://skrynia.com"/>
+        </outline>
+        <outline title="IT" text="IT">
+            <outline text="0day - Cофт и Видео в UA-IX"
+                title="0day - Cофт и Видео в UA-IX" type="rss"
+                xmlUrl="http://0day.kiev.ua/rss.php" htmlUrl="http://0day.kiev.ua/"/>
+            <outline text="3Dnews - Новости Hardware"
+                title="3Dnews - Новости Hardware" type="rss"
+                xmlUrl="http://www.3dnews.ru/news/rss/" htmlUrl="http://3dnews.ru/news/"/>
+            <outline
+                text="Blogoreader 2.4 – українська блоґосфера - блоґи, новини, статті, персони"
+                title="Blogoreader 2.4 – українська блоґосфера - блоґи, новини, статті, персони"
+                type="rss"
+                xmlUrl="http://feeds.feedburner.com/Blogoreader?format=xml" htmlUrl="http://blogoreader.org.ua"/>
+            <outline text="developers.org.ua" title="developers.org.ua"
+                type="rss" xmlUrl="http://www.developers.org.ua/feed/" htmlUrl="http://www.developers.org.ua"/>
+            <outline text="DPK blog" title="DPK blog" type="rss"
+                xmlUrl="http://www.dpk.com.ua/rss.xml" htmlUrl="http://www.dpk.com.ua/blog"/>
+            <outline
+                text="FORMAT - ежедневный софт, warez, игры, музыка, скрипты, кино, графика"
+                title="FORMAT - ежедневный софт, warez, игры, музыка, скрипты, кино, графика"
+                type="rss"
+                xmlUrl="http://www.format.org.ua/news/rss.xml" htmlUrl="http://www.format.org.ua"/>
+            <outline text="Google News Россия - Наука и техника"
+                title="Google News Россия - Наука и техника" type="rss"
+                xmlUrl="http://news.google.ru/?auth=DQAAAIQAAAC9DpQi2MW_XTdkEgTvz-xwffLjUr_QKVPtq4WSx0mclNzUiGF2LvgJ36t6_2O1I_f5dUdIwDn1Bhv_M3jhOVSHEqeYyLtVvuWiljCfTDwYw2e7GhFdm5f_5l8QVUW20u7v7IljyyoZHAmMtSKPJDZtGmGwmDOIOVW2vgLghFFFM9SXIQX6RrJYvF3ZeScY9Vk&amp;ned=ru_ru&amp;topic=t&amp;output=rss" htmlUrl="http://news.google.ru/?auth=DQAAAIQAAAC9DpQi2MW_XTdkEgTvz-xwffLjUr_QKVPtq4WSx0mclNzUiGF2LvgJ36t6_2O1I_f5dUdIwDn1Bhv_M3jhOVSHEqeYyLtVvuWiljCfTDwYw2e7GhFdm5f_5l8QVUW20u7v7IljyyoZHAmMtSKPJDZtGmGwmDOIOVW2vgLghFFFM9SXIQX6RrJYvF3ZeScY9Vk&amp;ned=ru_ru&amp;topic=t"/>
+            <outline text="GoogleWorld.ru" title="GoogleWorld.ru"
+                type="rss" xmlUrl="http://googleworld.ru/feed" htmlUrl="http://googleworld.ru"/>
+            <outline text="i-community" title="i-community" type="rss"
+                xmlUrl="http://exe.org.ua/plugins/p47_rsssyn/rssfeed.php" htmlUrl="http://exe.org.ua/"/>
+            <outline text="Internetessa" title="Internetessa" type="rss"
+                xmlUrl="http://feeds.feedburner.com/Internetessa" htmlUrl="http://internetessa.com"/>
+            <outline text="ITC.ua - IT Community United"
+                title="ITC.ua - IT Community United" type="rss"
+                xmlUrl="http://itc.ua/rss.xml" htmlUrl="http://itc.ua"/>
+            <outline text="ITnews: Новости ИТ"
+                title="ITnews: Новости ИТ" type="rss"
+                xmlUrl="http://itnews.com.ua/export/all.rss" htmlUrl="http://itnews.com.ua/"/>
+            <outline text="ITware:. Новости" title="ITware:. Новости"
+                type="rss" xmlUrl="http://itware.com.ua/rss/news.xml" htmlUrl="http://itware.com.ua"/>
+            <outline text="iXBT статьи" title="iXBT статьи" type="rss"
+                xmlUrl="http://www.ixbt.com/export/articles.rdf" htmlUrl="http://www.ixbt.com/"/>
+            <outline text="iXBT.com" title="iXBT.com" type="rss"
+                xmlUrl="http://www.ixbt.com/export/news.rdf" htmlUrl="http://www.ixbt.com/"/>
+            <outline text="Lifehacker" title="Lifehacker" type="rss"
+                xmlUrl="http://lifehacker.ru/feed/" htmlUrl="http://lifehacker.ru"/>
+            <outline text="Overclockers.ru / Общая лента"
+                title="Overclockers.ru / Общая лента" type="rss"
+                xmlUrl="http://www.overclockers.ru/rss/all.rss" htmlUrl="http://www.overclockers.ru"/>
+            <outline text="Portable Box" title="Portable Box" type="rss"
+                xmlUrl="http://portablebox.net/feeds/posts/default" htmlUrl="http://portablebox.net/"/>
+            <outline
+                text="Security Blog - новости компьютерной безопасности"
+                title="Security Blog - новости компьютерной безопасности"
+                type="rss"
+                xmlUrl="http://www.secblog.info/engine/rss.php" htmlUrl="http://www.secblog.info/"/>
+            <outline
+                text="WebDev.org.ua - Интернет в Украине, общение профессионалов"
+                title="WebDev.org.ua - Интернет в Украине, общение профессионалов"
+                type="rss" xmlUrl="http://webdev.org.ua/rss.xml" htmlUrl="http://webdev.org.ua"/>
+            <outline text="Webmascon Daily" title="Webmascon Daily"
+                type="rss"
+                xmlUrl="http://www.webmascon.com/daily/rss.php" htmlUrl="http://www.webmascon.com/daily/"/>
+            <outline
+                text="Блог web-мастера: php, ajax, продвижение сайтов, seo, web-программирование."
+                title="Блог web-мастера: php, ajax, продвижение сайтов, seo, web-программирование."
+                type="rss" xmlUrl="http://www.vozisov.com/rss.xml" htmlUrl="http://www.vozisov.com/"/>
+            <outline text="Блог интернет-разработчика"
+                title="Блог интернет-разработчика" type="rss"
+                xmlUrl="http://feeds.feedburner.com/zhilinsky" htmlUrl="http://zhilinsky.ru"/>
+            <outline text="Блог отчаянного PHP-шника"
+                title="Блог отчаянного PHP-шника" type="rss"
+                xmlUrl="http://dmitry.shaposhnik.name/feed/" htmlUrl="http://dmitry.shaposhnik.name"/>
+            <outline text="Все про Google" title="Все про Google"
+                type="rss" xmlUrl="http://www.googlemon.ru/feed/" htmlUrl="http://www.googlemon.ru"/>
+            <outline text="Высокоскоростной интернет в Украине"
+                title="Высокоскоростной интернет в Украине" type="rss"
+                xmlUrl="http://www.broadband.org.ua/component/option,com_rss/feed,RSS2.0/no_html,1/" htmlUrl="http://www.broadband.org.ua"/>
+            <outline text="Главная страница - kpnemo.ru"
+                title="Главная страница - kpnemo.ru" type="rss"
+                xmlUrl="http://www.kpnemo.ru/feeds.rdf" htmlUrl="http://www.kpnemo.ru/"/>
+            <outline
+                text="Каждодневная подборка материала для дизайнера и не только"
+                title="Каждодневная подборка материала для дизайнера и не только"
+                type="rss" xmlUrl="http://www.warezteam.ws/rss.xml" htmlUrl="http://www.warezteam.ws/"/>
+            <outline
+                text="Каталог україномовних веб ресурсів (сайтів, сторінок) - Закладка"
+                title="Каталог україномовних веб ресурсів (сайтів, сторінок) - Закладка"
+                type="rss" xmlUrl="http://zakladka.org.ua/zakladka.rss" htmlUrl="http://zakladka.org.ua"/>
+            <outline text="Новости CNews" title="Новости CNews"
+                type="rss" xmlUrl="http://www.cnews.ru/news.xml" htmlUrl="http://www.cnews.ru/"/>
+            <outline text="Новости http://itua.info"
+                title="Новости http://itua.info" type="rss"
+                xmlUrl="http://itua.info/rss.php" htmlUrl="http://itua.info"/>
+            <outline text="Новости Компьюлента"
+                title="Новости Компьюлента" type="rss"
+                xmlUrl="http://www.compulenta.ru/rss.xml" htmlUrl="http://www.compulenta.ru"/>
+            <outline text="Планета разработчиков на ДОУ"
+                title="Планета разработчиков на ДОУ" type="rss"
+                xmlUrl="http://www.developers.org.ua/feeds/planet_rss20.xml" htmlUrl="http://www.developers.org.ua/planet/"/>
+            <outline text="Поради від N-Admin"
+                title="Поради від N-Admin" type="rss"
+                xmlUrl="http://ua.n-admin.com/index2.php?option=com_rss&amp;feed=RSS2.0&amp;no_html=1" htmlUrl="http://ua.n-admin.com"/>
+            <outline
+                text="Сайт журнала &amp;quot;Компьютерное Обозрение&amp;quot; -"
+                title="Сайт журнала &amp;quot;Компьютерное Обозрение&amp;quot; -"
+                type="rss" xmlUrl="http://ko-online.com.ua/rss.xml" htmlUrl="http://ko-online.com.ua"/>
+            <outline text="САМОЕ ИНТЕРЕСНОЕ И ПОЛЕЗНОЕ - ДЛЯ ДРУЗЕЙ"
+                title="САМОЕ ИНТЕРЕСНОЕ И ПОЛЕЗНОЕ - ДЛЯ ДРУЗЕЙ"
+                type="rss"
+                xmlUrl="http://community.livejournal.com/flash_pc/data/rss" htmlUrl="http://community.livejournal.com/flash_pc/"/>
+            <outline text="Сети для людей / Network for people"
+                title="Сети для людей / Network for people" type="rss"
+                xmlUrl="http://networkforpeople.blogspot.com/atom.xml" htmlUrl="http://networkforpeople.blogspot.com/"/>
+            <outline text="Спільнота розробників"
+                title="Спільнота розробників" type="rss"
+                xmlUrl="http://community.livejournal.com/fiction_book_ua/data/rss" htmlUrl="http://community.livejournal.com/fiction_book_ua/"/>
+            <outline
+                text="Український софт - понад усе! @ Команда україномовних користувачів ПК"
+                title="Український софт - понад усе! @ Команда україномовних користувачів ПК"
+                type="rss" xmlUrl="http://localize.com.ua/feed/" htmlUrl="http://localize.com.ua"/>
+            <outline
+                text="Уразливість на proit.com.ua - Websecurity - Веб безпека"
+                title="Уразливість на proit.com.ua - Websecurity - Веб безпека"
+                type="rss" xmlUrl="http://websecurity.com.ua/feed/" htmlUrl="http://websecurity.com.ua"/>
+            <outline text="Хабрахабр: Главная / Захабренные"
+                title="Хабрахабр: Главная / Захабренные" type="rss"
+                xmlUrl="http://habrahabr.ru/rss/main/" htmlUrl="http://habrahabr.ru/"/>
+        </outline>
+        <outline title="Liga.Net" text="Liga.Net">
+            <outline text="Выборы 2006" title="Выборы 2006" type="rss"
+                xmlUrl="http://2006.liga.net/rss.asp" htmlUrl="http://2006.liga.net/"/>
+            <outline
+                text="Деловая газета СЕЙЧАС - Знать главное // Новости Украины и ..."
+                title="Деловая газета СЕЙЧАС - Знать главное // Новости Украины и ..."
+                type="rss" xmlUrl="http://times.liga.net/all.xml" htmlUrl="http://times.liga.net/"/>
+            <outline
+                text="Інтегровані маркетингові комунікації - Артем Зелений - ЛІГА.Блоги"
+                title="Інтегровані маркетингові комунікації - Артем Зелений - ЛІГА.Блоги"
+                type="rss"
+                xmlUrl="http://blog.liga.net/user/rss/zelenyi/Default.aspx" htmlUrl="http://blog.liga.net/user/zelenyi/default.aspx"/>
+        </outline>
+        <outline title="velo" text="velo">
+            <outline
+                text="&quot;КРИТИЧЕСКАЯ МАССА&quot; / &quot;CRITICAL MASS&quot;"
+                title="&quot;КРИТИЧЕСКАЯ МАССА&quot; / &quot;CRITICAL MASS&quot;"
+                type="rss"
+                xmlUrl="http://community.livejournal.com/ru_criticalmass/data/rss" htmlUrl="http://community.livejournal.com/ru_criticalmass/"/>
+            <outline text="BY: Jek" title="BY: Jek" type="rss"
+                xmlUrl="http://jek-hor.livejournal.com/data/rss" htmlUrl="http://jek-hor.livejournal.com/"/>
+            <outline text="BY: Город велосипедистов. Google Group"
+                title="BY: Город велосипедистов. Google Group"
+                type="rss"
+                xmlUrl="http://groups.google.com/group/bike-initiative/feed/rss_v2_0_msgs.xml" htmlUrl="http://groups.google.com/group/bike-initiative"/>
+            <outline
+                text="EN:Copenhagenize.com  - The Copenhagen Bike Culture Blog"
+                title="EN:Copenhagenize.com  - The Copenhagen Bike Culture Blog"
+                type="rss"
+                xmlUrl="http://cycleliciousness.blogspot.com/feeds/posts/default" htmlUrl="http://www.copenhagenize.com/"/>
+            <outline text="Joomla! powered Site"
+                title="Joomla! powered Site" type="rss"
+                xmlUrl="http://avk.org.ua/index.php?option=com_rss&amp;feed=RSS1.0&amp;no_html=1" htmlUrl="http://avk.org.ua"/>
+            <outline text="Joomla! powered Site"
+                title="Joomla! powered Site" type="rss"
+                xmlUrl="http://avk.org.ua/index.php?option=com_rss&amp;feed=RSS2.0&amp;no_html=1" htmlUrl="http://avk.org.ua"/>
+            <outline text="Joomla! powered Site"
+                title="Joomla! powered Site" type="rss"
+                xmlUrl="http://www.masa.waw.pl/index.php?option=com_rss&amp;feed=ATOM0.3&amp;no_html=1" htmlUrl="http://www.masa.waw.pl"/>
+            <outline text="reclaim the streets в україні"
+                title="reclaim the streets в україні" type="rss"
+                xmlUrl="http://community.livejournal.com/criticalmass_ua/data/rss" htmlUrl="http://community.livejournal.com/criticalmass_ua/"/>
+            <outline text="UA: спільнота велосипедистів"
+                title="UA: спільнота велосипедистів" type="rss"
+                xmlUrl="http://community.livejournal.com/kiev_velo/data/rss" htmlUrl="http://community.livejournal.com/kiev_velo/"/>
+            <outline text="UA:Віктор Загреба" title="UA:Віктор Загреба"
+                type="rss"
+                xmlUrl="http://feeds.feedburner.com/bikefuture?format=xml" htmlUrl="http://bikefuture.blogspot.com/"/>
+            <outline text="Urbo" title="Urbo" type="rss"
+                xmlUrl="http://urbo.com.ua/ru/feed" htmlUrl="http://urbo.com.ua"/>
+            <outline
+                text="Velo Media Kyiv - неофіційний ЗМІ київських велосипедистів"
+                title="Velo Media Kyiv - неофіційний ЗМІ київських велосипедистів"
+                type="rss"
+                xmlUrl="http://velomedia.livejournal.com/data/rss" htmlUrl="http://velomedia.livejournal.com/"/>
+            <outline text="бюлетень неформальної комісії міської ради"
+                title="бюлетень неформальної комісії міської ради"
+                type="rss"
+                xmlUrl="http://community.livejournal.com/rover_lviv/data/rss" htmlUrl="http://community.livejournal.com/rover_lviv/"/>
+            <outline text="Велосипедный Блог" title="Велосипедный Блог"
+                type="rss"
+                xmlUrl="http://bikefuture.blogspot.com/feeds/posts/default" htmlUrl="http://bikefuture.blogspot.com/"/>
+            <outline text="Критическая масса - Comments"
+                title="Критическая масса - Comments" type="rss"
+                xmlUrl="http://massa.org.ru/?q=crss" htmlUrl="http://massa.org.ru"/>
+            <outline
+                text="Критическая масса - Коллективные вело-покатушки против засилья машин Последняя суббота месяца в 13-00 с Тургеневской площади"
+                title="Критическая масса - Коллективные вело-покатушки против засилья машин Последняя суббота месяца в 13-00 с Тургеневской площади"
+                type="rss" xmlUrl="http://massa.org.ru/?q=node/feed" htmlUrl="http://massa.org.ru"/>
+            <outline text="Критическая Масса Минск!"
+                title="Критическая Масса Минск!" type="rss"
+                xmlUrl="http://www.cm-minsk.org/index2.php?option=com_rss&amp;feed=RSS1.0&amp;no_html=1" htmlUrl="http://www.cm-minsk.org"/>
+            <outline text="Львівський велосипед"
+                title="Львівський велосипед" type="rss"
+                xmlUrl="http://community.livejournal.com/velolviv/data/rss" htmlUrl="http://community.livejournal.com/velolviv/"/>
+        </outline>
+        <outline title="miranda" text="miranda">
+            <outline
+                text="Miranda-Planet - ваша планета Miranda IM ( билды, сборки, скины, плагины, русификация, WiKi, Форум )"
+                title="Miranda-Planet - ваша планета Miranda IM ( билды, сборки, скины, плагины, русификация, WiKi, Форум )"
+                type="rss" xmlUrl="http://miranda-planet.com/rss.xml" htmlUrl="http://miranda-planet.com/"/>
+        </outline>
+        <outline title="піратство" text="піратство">
+            <outline text="про розвиток ПІРАТСТВА в Україні... :-)"
+                title="про розвиток ПІРАТСТВА в Україні... :-)"
+                type="rss"
+                xmlUrl="http://community.livejournal.com/ua_piratstvo/data/rss" htmlUrl="http://community.livejournal.com/ua_piratstvo/"/>
+        </outline>
+        <outline title="OpenAir RSSall" text="OpenAir RSSall">
+            <outline text="EN:Open Air (conclave.open.ac.uk/openair)"
+                title="EN:Open Air (conclave.open.ac.uk/openair)"
+                type="rss"
+                xmlUrl="http://conclave.open.ac.uk/openair/?feed=atom" htmlUrl="http://www.open.ac.uk/blogs/openair"/>
+            <outline
+                text="EN:Open Air (farmersmarketonline.com/OpenAir)"
+                title="EN:Open Air (farmersmarketonline.com/OpenAir)"
+                type="rss"
+                xmlUrl="http://farmersmarketonline.com/OpenAir/?feed=rss2" htmlUrl="http://farmersmarketonline.com/OpenAir"/>
+            <outline
+                text="EN:Openair Market Network - The World Wide Guide to Farmers' Markets, Street Markets, Flea Markets and Street Vendors"
+                title="EN:Openair Market Network - The World Wide Guide to Farmers' Markets, Street Markets, Flea Markets and Street Vendors"
+                type="rss" xmlUrl="http://www.openair.org/rss.xml" htmlUrl="http://www.openair.org"/>
+            <outline text="EN:OpenAir Ministry (openairministry.com)"
+                title="EN:OpenAir Ministry (openairministry.com)"
+                type="rss"
+                xmlUrl="http://openairministry.com/?feed=rss2" htmlUrl="http://openairministry.com"/>
+            <outline text="EN:openair (randomage92.blogspot.com)"
+                title="EN:openair (randomage92.blogspot.com)" type="rss"
+                xmlUrl="http://randomage92.blogspot.com/atom.xml" htmlUrl="http://randomage92.blogspot.com/"/>
+            <outline text="EN:Uploads from !OpenAir!"
+                title="EN:Uploads from !OpenAir!" type="rss"
+                xmlUrl="http://api.flickr.com/services/feeds/photos_public.gne?id=27173859@N00&amp;lang=en-us&amp;format=rss_200" htmlUrl="http://www.flickr.com/photos/openair/"/>
+            <outline
+                text="EN:Uploads from !OpenAir! (flickr.com/photos/openair)"
+                title="EN:Uploads from !OpenAir! (flickr.com/photos/openair)"
+                type="rss"
+                xmlUrl="http://api.flickr.com/services/feeds/photos_public.gne?id=27173859@N00&amp;lang=en-us&amp;format=atom" htmlUrl="http://www.flickr.com/photos/openair/"/>
+            <outline
+                text="EN:Uploads from RodrigoFavera, tagged openair"
+                title="EN:Uploads from RodrigoFavera, tagged openair"
+                type="rss"
+                xmlUrl="http://api.flickr.com/services/feeds/photos_public.gne?id=9936928@N02&amp;tags=openair&amp;lang=en-us&amp;format=rss_200" htmlUrl="http://www.flickr.com/photos/rodrigofavera/tags/openair/"/>
+            <outline text="OpenAir - MySpace Blog"
+                title="OpenAir - MySpace Blog" type="rss"
+                xmlUrl="http://blog.myspace.com/blog/rss.cfm?friendID=29254613" htmlUrl="http://blog.myspace.com/openair"/>
+            <outline text="OpenAir Radio" title="OpenAir Radio"
+                type="rss"
+                xmlUrl="http://openair.fm/index.php?option=com_rss&amp;feed=RSS2.0&amp;no_html=1" htmlUrl="http://openair.fm"/>
+        </outline>
+        <outline title="livejournal" text="livejournal">
+            <outline text="ANT-blogspot.com" title="ANT-blogspot.com"
+                type="rss"
+                xmlUrl="http://velmyshanovnyi.blogspot.com/atom.xml" htmlUrl="http://velmyshanovnyi.blogspot.com/"/>
+            <outline text="Appolo's diary" title="Appolo's diary"
+                type="rss"
+                xmlUrl="http://appolo.livejournal.com/data/rss" htmlUrl="http://appolo.livejournal.com/"/>
+            <outline text="HiTech" title="HiTech" type="rss"
+                xmlUrl="http://hitech.org.ua/rss.xml" htmlUrl="http://hitech.org.ua"/>
+            <outline text="knyzhka_roku" title="knyzhka_roku" type="rss"
+                xmlUrl="http://knyzhka-roku.livejournal.com/data/rss" htmlUrl="http://knyzhka-roku.livejournal.com/"/>
+            <outline text="Marko_z_konopel" title="Marko_z_konopel"
+                type="rss"
+                xmlUrl="http://marko-z-konopel.livejournal.com/data/rss" htmlUrl="http://marko-z-konopel.livejournal.com/"/>
+            <outline text="polar_bird" title="polar_bird" type="rss"
+                xmlUrl="http://polar-bird.livejournal.com/data/rss" htmlUrl="http://polar-bird.livejournal.com/"/>
+            <outline text="reclaim the streets в україні"
+                title="reclaim the streets в україні" type="rss"
+                xmlUrl="http://community.livejournal.com/criticalmass_ua/data/rss" htmlUrl="http://community.livejournal.com/criticalmass_ua/"/>
+            <outline text="Save Old Kyiv" title="Save Old Kyiv"
+                type="rss"
+                xmlUrl="http://community.livejournal.com/saveoldkyiv/data/rss" htmlUrl="http://community.livejournal.com/saveoldkyiv/"/>
+            <outline text="UA: спільнота велосипедистів"
+                title="UA: спільнота велосипедистів" type="rss"
+                xmlUrl="http://community.livejournal.com/kiev_velo/data/rss" htmlUrl="http://community.livejournal.com/kiev_velo/"/>
+            <outline text="velmyshanovnyi" title="velmyshanovnyi"
+                type="rss"
+                xmlUrl="http://velmyshanovnyi.livejournal.com/data/rss" htmlUrl="http://velmyshanovnyi.livejournal.com/"/>
+            <outline
+                text="Velo Media Kyiv - неофіційний ЗМІ київських велосипедистів"
+                title="Velo Media Kyiv - неофіційний ЗМІ київських велосипедистів"
+                type="rss"
+                xmlUrl="http://velomedia.livejournal.com/data/rss" htmlUrl="http://velomedia.livejournal.com/"/>
+            <outline text="Watch yourself" title="Watch yourself"
+                type="rss"
+                xmlUrl="http://murahoid.livejournal.com/data/rss" htmlUrl="http://murahoid.livejournal.com/"/>
+            <outline text="y.p.a." title="y.p.a." type="rss"
+                xmlUrl="http://community.livejournal.com/_ypa_/data/rss" htmlUrl="http://community.livejournal.com/_ypa_/"/>
+            <outline text="Андрій ЮСОВ - куток споживача"
+                title="Андрій ЮСОВ - куток споживача" type="rss"
+                xmlUrl="http://yusov.livejournal.com/data/rss" htmlUrl="http://yusov.livejournal.com/"/>
+            <outline text="Армія Чиполіно" title="Армія Чиполіно"
+                type="rss"
+                xmlUrl="http://community.livejournal.com/chy_polino/data/rss" htmlUrl="http://community.livejournal.com/chy_polino/"/>
+            <outline text="бюлетень неформальної комісії міської ради"
+                title="бюлетень неформальної комісії міської ради"
+                type="rss"
+                xmlUrl="http://community.livejournal.com/rover_lviv/data/rss" htmlUrl="http://community.livejournal.com/rover_lviv/"/>
+            <outline text="Велосипедный Блог" title="Велосипедный Блог"
+                type="rss"
+                xmlUrl="http://bikefuture.blogspot.com/feeds/posts/default" htmlUrl="http://bikefuture.blogspot.com/"/>
+            <outline text="Вечори по-українські"
+                title="Вечори по-українські" type="rss"
+                xmlUrl="http://community.livejournal.com/vechir_ua/data/rss" htmlUrl="http://community.livejournal.com/vechir_ua/"/>
+            <outline text="Дневник ни©шеанца" title="Дневник ни©шеанца"
+                type="rss"
+                xmlUrl="http://denis-poltavets.livejournal.com/data/rss" htmlUrl="http://denis-poltavets.livejournal.com/"/>
+            <outline text="Захалявне" title="Захалявне" type="rss"
+                xmlUrl="http://vaxo.livejournal.com/data/rss" htmlUrl="http://vaxo.livejournal.com/"/>
+            <outline text="Идеи, которые могут изменить мир"
+                title="Идеи, которые могут изменить мир" type="rss"
+                xmlUrl="http://sheller888.livejournal.com/data/rss" htmlUrl="http://sheller888.livejournal.com/"/>
+            <outline text="Киевская Афиша" title="Киевская Афиша"
+                type="rss"
+                xmlUrl="http://community.livejournal.com/kiev_afisha/data/rss" htmlUrl="http://community.livejournal.com/kiev_afisha/"/>
+            <outline text="клініка нонконформізму"
+                title="клініка нонконформізму" type="rss"
+                xmlUrl="http://potekhin.livejournal.com/data/rss" htmlUrl="http://potekhin.livejournal.com/"/>
+            <outline text="Книги в Україні" title="Книги в Україні"
+                type="rss"
+                xmlUrl="http://community.livejournal.com/ua_books/data/rss" htmlUrl="http://community.livejournal.com/ua_books/"/>
+            <outline text="Колекціоную досвіди"
+                title="Колекціоную досвіди" type="rss"
+                xmlUrl="http://viktoza.livejournal.com/data/rss" htmlUrl="http://viktoza.livejournal.com/"/>
+            <outline text="Львівський велосипед"
+                title="Львівський велосипед" type="rss"
+                xmlUrl="http://community.livejournal.com/velolviv/data/rss" htmlUrl="http://community.livejournal.com/velolviv/"/>
+            <outline text="НАРОЧНО НЕ ПРИДУМАЕШЬ"
+                title="НАРОЧНО НЕ ПРИДУМАЕШЬ" type="rss"
+                xmlUrl="http://community.livejournal.com/velik_moguch/data/rss" htmlUrl="http://community.livejournal.com/velik_moguch/"/>
+            <outline text="Націонал-реалізм" title="Націонал-реалізм"
+                type="rss"
+                xmlUrl="http://community.livejournal.com/nationalrealism/data/rss" htmlUrl="http://community.livejournal.com/nationalrealism/"/>
+            <outline text="Олександр Демченко"
+                title="Олександр Демченко" type="rss"
+                xmlUrl="http://molokovoz.livejournal.com/data/rss" htmlUrl="http://molokovoz.livejournal.com/"/>
+            <outline text="Політика в схемах" title="Політика в схемах"
+                type="rss"
+                xmlUrl="http://community.livejournal.com/politskhema/data/rss" htmlUrl="http://community.livejournal.com/politskhema/"/>
+            <outline text="про розвиток ПІРАТСТВА в Україні... :-)"
+                title="про розвиток ПІРАТСТВА в Україні... :-)"
+                type="rss"
+                xmlUrl="http://community.livejournal.com/ua_piratstvo/data/rss" htmlUrl="http://community.livejournal.com/ua_piratstvo/"/>
+            <outline text="САМОЕ ИНТЕРЕСНОЕ И ПОЛЕЗНОЕ - ДЛЯ ДРУЗЕЙ"
+                title="САМОЕ ИНТЕРЕСНОЕ И ПОЛЕЗНОЕ - ДЛЯ ДРУЗЕЙ"
+                type="rss"
+                xmlUrl="http://community.livejournal.com/flash_pc/data/rss" htmlUrl="http://community.livejournal.com/flash_pc/"/>
+            <outline text="Сообщество журналистов Киева"
+                title="Сообщество журналистов Киева" type="rss"
+                xmlUrl="http://community.livejournal.com/kiev_journalist/data/rss" htmlUrl="http://community.livejournal.com/kiev_journalist/"/>
+            <outline text="СПІЛЬНОТА" title="СПІЛЬНОТА" type="rss"
+                xmlUrl="http://aktyvist.livejournal.com/data/rss" htmlUrl="http://aktyvist.livejournal.com/"/>
+            <outline text="Стервус!" title="Стервус!" type="rss"
+                xmlUrl="http://vlodko.livejournal.com/data/rss" htmlUrl="http://vlodko.livejournal.com/"/>
+            <outline text="Судовой журнал Доктора Ливси"
+                title="Судовой журнал Доктора Ливси" type="rss"
+                xmlUrl="http://doctor-livsy.livejournal.com/data/rss" htmlUrl="http://doctor-livsy.livejournal.com/"/>
+            <outline text="твоя задача кульваны и серый"
+                title="твоя задача кульваны и серый" type="rss"
+                xmlUrl="http://otar.livejournal.com/data/rss" htmlUrl="http://otar.livejournal.com/"/>
+            <outline
+                text="Тут шукають відповіді на питання &amp;amp;amp;quot;чому?&amp;amp;amp;quot; і &amp;amp;amp;quot;як?&amp;amp;amp;quot;"
+                title="Тут шукають відповіді на питання &amp;amp;amp;quot;чому?&amp;amp;amp;quot; і &amp;amp;amp;quot;як?&amp;amp;amp;quot;"
+                type="rss"
+                xmlUrl="http://skapirus.livejournal.com/data/rss" htmlUrl="http://skapirus.livejournal.com/"/>
+            <outline text="Юридичні провокації"
+                title="Юридичні провокації" type="rss"
+                xmlUrl="http://mentbuster.livejournal.com/data/rss" htmlUrl="http://mentbuster.livejournal.com/"/>
+            <outline text="Інтелектуальна власність: дебати і деталі"
+                title="Інтелектуальна власність: дебати і деталі"
+                type="rss"
+                xmlUrl="http://community.livejournal.com/copy_left_right/data/rss" htmlUrl="http://community.livejournal.com/copy_left_right/"/>
+        </outline>
+        <outline title="Політика" text="Політика">
+            <outline text="test RSS razom" title="test RSS razom"
+                type="rss"
+                xmlUrl="http://www.dapper.net/transform.php?dappName=testRSSrazom&amp;transformer=RSS&amp;extraArg_title=title&amp;extraArg_description%5B%5D=foto&amp;extraArg_description%5B%5D=main&amp;extraArg_pubDate=date&amp;extraArg_fixDates=1&amp;applyToUrl=http%3A%2F%2Fwww.razom.org.ua%2F" htmlUrl="http://www.razom.org.ua/"/>
+            <outline text="test RSS razom" title="test RSS razom"
+                type="rss"
+                xmlUrl="http://www.dapper.net/transform.php?dappName=testRSSrazom&amp;transformer=RSS&amp;extraArg_title=title&amp;extraArg_description%5B%5D=title&amp;extraArg_description%5B%5D=main&amp;extraArg_pubDate=date&amp;extraArg_fixDates=1&amp;applyToUrl=http%3A%2F%2Fwww.razom.org.ua%2F" htmlUrl="http://www.razom.org.ua/"/>
+            <outline text="www.fri.net.ua - Вільний молодіжний портал"
+                title="www.fri.net.ua - Вільний молодіжний портал"
+                type="rss" xmlUrl="http://rss.fri.net.ua/" htmlUrl="http://www.fri.net.ua"/>
+            <outline text="www.Razom.org.ua" title="www.Razom.org.ua"
+                type="rss" xmlUrl="http://razom.org.ua/rss/" htmlUrl="http://www.razom.org.ua"/>
+            <outline text="Дмитро Корчинський"
+                title="Дмитро Корчинський" type="rss"
+                xmlUrl="http://d-korchinskiy.livejournal.com/data/rss" htmlUrl="http://d-korchinskiy.livejournal.com/"/>
+            <outline
+                text="Документи і Каськів... - Офіційний web-сайт Громадянської партії ..."
+                title="Документи і Каськів... - Офіційний web-сайт Громадянської партії ..."
+                type="rss"
+                xmlUrl="http://pora.kiev.ua/index2.php?option=com_rss&amp;no_html=1" htmlUrl="http://pora.kiev.ua"/>
+            <outline text="Експорт с сайту bilozir.com!"
+                title="Експорт с сайту bilozir.com!" type="rss"
+                xmlUrl="http://bilozir.com/index2.php?option=com_rss&amp;feed=RSS2.0&amp;no_html=1" htmlUrl="http://bilozir.com"/>
+            <outline text="Международный фонд развития ГУАМ"
+                title="Международный фонд развития ГУАМ" type="rss"
+                xmlUrl="http://www.guamway.net/rss.xml" htmlUrl="http://guamway.net/"/>
+            <outline text="Молодіжний союз &quot;Наша Україна&quot;"
+                title="Молодіжний союз &quot;Наша Україна&quot;"
+                type="rss" xmlUrl="http://www.msnu.org/engine/feed/" htmlUrl="http://www.msnu.org/engine"/>
+            <outline
+                text="Офіційне інтернет-представництво Блоку &amp;quot;Наша Україна - Народна Самооборона&amp;quot; - Page2RSS"
+                title="Офіційне інтернет-представництво Блоку &amp;quot;Наша Україна - Народна Самооборона&amp;quot; - Page2RSS"
+                type="rss"
+                xmlUrl="http://page2rss.ru/rss/71b8b1ae027a5b7cb6d9d53b083f1531" htmlUrl="http://page2rss.ru/page?url=nuns.com.ua/"/>
+            <outline text="Экспортировано из msnu.kiev.ua"
+                title="Экспортировано из msnu.kiev.ua" type="rss"
+                xmlUrl="http://www.msnu.kiev.ua/index.php?option=com_rss&amp;feed=RSS2.0&amp;no_html=1" htmlUrl="http://www.msnu.kiev.ua"/>
+        </outline>
+        <outline title="ajax" text="ajax">
+            <outline text="Ajax Russia : Аякс по-русски"
+                title="Ajax Russia : Аякс по-русски" type="rss"
+                xmlUrl="http://feeds.feedburner.com/AjaxRussia" htmlUrl="http://www.ajaxrussia.com"/>
+            <outline
+                text="Галерея css-сайтов и Web 2.0 проектов | CSS Blast"
+                title="Галерея css-сайтов и Web 2.0 проектов | CSS Blast"
+                type="rss" xmlUrl="http://www.cssblast.ru/rss/" htmlUrl="http://www.cssblast.ru"/>
+        </outline>
+        <outline title="Блоги" text="Блоги">
+            <outline text="Bash.Org.Ru" title="Bash.Org.Ru" type="rss"
+                xmlUrl="http://bash.org.ru/rss/" htmlUrl="http://bash.org.ru/"/>
+            <outline text="Bricolage NL" title="Bricolage NL" type="rss"
+                xmlUrl="http://www.lab.org.ua/feed/" htmlUrl="http://www.lab.org.ua"/>
+            <outline text="HiTech" title="HiTech" type="rss"
+                xmlUrl="http://hitech.org.ua/rss.xml" htmlUrl="http://hitech.org.ua"/>
+            <outline text="Mehanik" title="Mehanik" type="rss"
+                xmlUrl="http://mehanik.blog.net.ua/feed/" htmlUrl="http://mehanik.blog.net.ua"/>
+            <outline text="RSS-поток: yulia" title="RSS-поток: yulia"
+                type="rss" xmlUrl="http://h.ua/myrss/24669/yulia/" htmlUrl="http://h.ua/"/>
+            <outline text="UA:Віктор Загреба" title="UA:Віктор Загреба"
+                type="rss"
+                xmlUrl="http://feeds.feedburner.com/bikefuture?format=xml" htmlUrl="http://bikefuture.blogspot.com/"/>
+            <outline text="Блоґ FireON'a" title="Блоґ FireON'a"
+                type="rss" xmlUrl="http://fireon.org.ua/feed/" htmlUrl="http://fireon.org.ua"/>
+            <outline text="Дневник ни©шеанца" title="Дневник ни©шеанца"
+                type="rss"
+                xmlUrl="http://denis-poltavets.livejournal.com/data/rss" htmlUrl="http://denis-poltavets.livejournal.com/"/>
+            <outline text="Колекціоную досвіди"
+                title="Колекціоную досвіди" type="rss"
+                xmlUrl="http://viktoza.livejournal.com/data/rss" htmlUrl="http://viktoza.livejournal.com/"/>
+            <outline text="Олександр Демченко"
+                title="Олександр Демченко" type="rss"
+                xmlUrl="http://molokovoz.livejournal.com/data/rss" htmlUrl="http://molokovoz.livejournal.com/"/>
+            <outline text="повестка дня" title="повестка дня" type="rss"
+                xmlUrl="http://agenda.com.ua/feed/" htmlUrl="http://agenda.com.ua"/>
+            <outline text="Сповідь прихованої сторінки..."
+                title="Сповідь прихованої сторінки..." type="rss"
+                xmlUrl="http://katrulyska.livejournal.com/data/rss" htmlUrl="http://katrulyska.livejournal.com/"/>
+            <outline
+                text="Інтегровані маркетингові комунікації - Артем Зелений - ЛІГА.Блоги"
+                title="Інтегровані маркетингові комунікації - Артем Зелений - ЛІГА.Блоги"
+                type="rss"
+                xmlUrl="http://blog.liga.net/user/rss/zelenyi/Default.aspx" htmlUrl="http://blog.liga.net/user/zelenyi/default.aspx"/>
+            <outline text="Інфопорн" title="Інфопорн" type="rss"
+                xmlUrl="http://feeds.feedburner.com/http/feedsinfopornorgua" htmlUrl="http://infoporn.org.ua"/>
+        </outline>
+        <outline title="MP3" text="MP3">
+            <outline text="Новое MP3 на Mstream.biz"
+                title="Новое MP3 на Mstream.biz" type="rss"
+                xmlUrl="http://mstream.biz/rss.xml" htmlUrl="http://mstream.biz"/>
+        </outline>
+        <outline title="abook" text="abook">
+            <outline text="- Page2RSS" title="- Page2RSS" type="rss"
+                xmlUrl="http://page2rss.ru/atom/6bf2520cd27e4d6e8fa38573a5c82780" htmlUrl="http://page2rss.ru/page?url=a-knigi.ru/"/>
+            <outline text="abukov.net -" title="abukov.net -" type="rss"
+                xmlUrl="http://abukov.net/search.php?PostBackAction=Search&amp;Advanced=1&amp;Type=Comments&amp;Feed=RSS2" htmlUrl="http://abukov.net/"/>
+            <outline text="mds - RussianPodcasting.ru"
+                title="mds - RussianPodcasting.ru" type="rss"
+                xmlUrl="http://mds-club.rpod.ru/rss.xml" htmlUrl="http://mds-club.rpod.ru"/>
+            <outline
+                text="Форум про АудіоКнижки - Питання по роботі движка та форума"
+                title="Форум про АудіоКнижки - Питання по роботі движка та форума"
+                type="rss"
+                xmlUrl="http://abook.org.ua/forum/feed.php?1,type=rss" htmlUrl="http://abook.org.ua/forum/list.php?1"/>
+            <outline text="Форум про АудіоКнижки - Про Абуки"
+                title="Форум про АудіоКнижки - Про Абуки" type="rss"
+                xmlUrl="http://abook.org.ua/forum/feed.php?3,type=rss" htmlUrl="http://abook.org.ua/forum/list.php?3"/>
+            <outline text="Форум про АудіоКнижки - Тестова гілка"
+                title="Форум про АудіоКнижки - Тестова гілка" type="rss"
+                xmlUrl="http://abook.org.ua/forum/feed.php?2,type=rss" htmlUrl="http://abook.org.ua/forum/list.php?2"/>
+        </outline>
+        <outline title="rizne" text="rizne">
+            <outline
+                text="chuv.com.ua - а ти chuv останню новину? / Опубліковані новини"
+                title="chuv.com.ua - а ти chuv останню новину? / Опубліковані новини"
+                type="rss" xmlUrl="http://chuv.com.ua/rss.php" htmlUrl="http://chuv.com.ua"/>
+            <outline text="Glosa - Всеукраїнське літературне об'єднання"
+                title="Glosa - Всеукраїнське літературне об'єднання"
+                type="rss" xmlUrl="http://glosa.com.ua/rss.xml" htmlUrl="http://glosa.com.ua"/>
+            <outline text="[ Vox | Статті » Знесено Лаврську браму ]"
+                title="[ Vox | Статті » Знесено Лаврську браму ]"
+                type="rss" xmlUrl="http://www.vox.com.ua/data/rss.xml" htmlUrl="http://www.vox.com.ua/data/index.php"/>
+            <outline text="Веб-ресурси, якими Ви користуєтесь)))"
+                title="Веб-ресурси, якими Ви користуєтесь)))" type="rss"
+                xmlUrl="http://www.fmob.vn.ua/forum/index.php?type=rss;action=.xml" htmlUrl="http://www.fmob.vn.ua/forum/index.php"/>
+            <outline
+                text="Громадська ініціатива >>ДІЖКА&lt;&lt; - СВІТ УКРАЇНСЬКОГО КІНО ..."
+                title="Громадська ініціатива >>ДІЖКА&lt;&lt; - СВІТ УКРАЇНСЬКОГО КІНО ..."
+                type="rss"
+                xmlUrl="http://digka.org.ua/index2.php?option=com_rss&amp;feed=RSS2.0&amp;no_html=1" htmlUrl="http://digka.org.ua"/>
+            <outline text="КНИГАРНЯ &amp;quot;Є&amp;quot;"
+                title="КНИГАРНЯ &amp;quot;Є&amp;quot;" type="rss"
+                xmlUrl="http://www.book-ye.com/rss.php" htmlUrl="http://www.book-ye.com/"/>
+            <outline text="Кіно-Переклад" title="Кіно-Переклад"
+                type="rss"
+                xmlUrl="http://feeds.feedburner.com/kino-pereklad" htmlUrl="http://kino-pereklad.org.ua"/>
+            <outline text="Могилянський форум"
+                title="Могилянський форум" type="rss"
+                xmlUrl="http://www.bo.net.ua/forum/index.php?automodule=blog&amp;req=syndicate" htmlUrl="http://www.bo.net.ua/forum/index.php?automodule=blog"/>
+            <outline
+                text="Підтримаймо українське кіно » Гуртом - Сайт підтримки всього ..."
+                title="Підтримаймо українське кіно » Гуртом - Сайт підтримки всього ..."
+                type="rss" xmlUrl="http://www.hurtom.com/rss.xml" htmlUrl="http://www.hurtom.com/"/>
+            <outline text="УкрБаш - опубліковані цитати"
+                title="УкрБаш - опубліковані цитати" type="rss"
+                xmlUrl="http://ukrbash.org/rss/quotes.xml" htmlUrl="http://ukrbash.org/"/>
+            <outline
+                text="Ініціатива українського кіно - Тема Форуму - Українські пісні"
+                title="Ініціатива українського кіно - Тема Форуму - Українські пісні"
+                type="rss"
+                xmlUrl="http://www.pisni.org.ua/rss/songs.xml" htmlUrl="http://www.pisni.org.ua/"/>
+        </outline>
+    </body>
+</opml>

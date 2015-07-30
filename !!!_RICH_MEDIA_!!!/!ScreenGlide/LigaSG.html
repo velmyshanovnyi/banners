@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<title>Untitled Document</title>
+</head>
+
+<body>
+
+
+<div style="position:relative; width:1000px; text-align:left">
+<script>
+var bannerURL = "http://liga.net/";
+
+var sFile = "http://bg.liga.net/www/images/80x100_liga.swf";
+var sWidth = 100;
+var sHeight = 80;
+
+var dFile = "http://bg.liga.net/www/images/pa_liga.swf";
+var dWidth = 500;
+var dHeight = 200;
+
+var openX = "R";
+var openY = "down";
+//
+var overPlaceX = 'yes';
+var overPlaceY = "yes";
+var scr2 = '';
+if ((sFile) && (dFile)) {
+	document.writeln('<table width='+sWidth+' border=0 cellpadding=0 cellspacing=0><tr><td width='+sWidth+' height='+sHeight+' valign=top>');
+	document.writeln('<div id="adpro_sDiv" style="width: '+sWidth+'; height: '+sHeight+'; position: absolute;">');
+	document.writeln('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="'+sWidth+'" height="'+sHeight+'">');
+	document.writeln('<param name="movie" value="'+sFile+'?link1='+escape(bannerURL)+'&target=_blank">');
+	document.writeln('<param name="quality" value="high">');
+	document.writeln('<param name="allowScriptAccess" value="always">');
+	document.writeln('<param name="wmode" value="transparent">');
+	document.writeln('<embed src="'+sFile+'?link1='+escape(bannerURL)+'&target=_blank" quality="high" allowScriptAccess="always" wmode="transparent" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="'+sWidth+'" height="'+sHeight+'"></embed>');
+	document.writeln('</object></div>');
+
+	document.writeln('<div id="adpro_dDiv" style="width: '+dWidth+'; height: '+dHeight+'; display: none">');
+	document.writeln('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="'+dWidth+'" height="'+dHeight+'">');
+	document.writeln('<param name="movie" value="'+dFile+'?link1='+escape(bannerURL)+'&target=_blank">');
+	document.writeln('<param name="quality" value="high">');
+	document.writeln('<param name="allowScriptAccess" value="always">');
+	document.writeln('<embed src="'+dFile+'?link1='+escape(bannerURL)+'&target=_blank" quality="high" allowScriptAccess="always"  pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="'+dWidth+'" height="'+dHeight+'"></embed>');
+	document.writeln('</object></div>');
+	document.writeln('</td></tr></table>');
+	scr2 = unescape ( "var%20a_open_deltaX%20%3D%200%3B%0Avar%20a_open_deltaY%20%3D%200%3B%0Avar%20a_open_posL%20%3D%200%3B%0Avar%20a_open_posT%20%3D%200%3B%0Avar%20a_open_mode%20%3D%200%3B%0Avar%20a_open_obj%20%3D%20new%20Array%3B%0A%0Afunction%20a_open_findTags%28tag%29%20%7B%0A%09if%20%28typeof%20document.getElementsByTagName%20%21%3D%20%27undefined%27%29%20%7B%20return%20document.getElementsByTagName%28tag%29%3B%20%7D%0A%09else%20if%20%28document.all%20%26%26%20document.all.tags%29%20%7B%20return%20document.all.tags%28tag%29%3B%20%7D%0A%09return%20null%3B%0A%7D%0A%0Afunction%20a_open_View%28mode%29%20%7B%0A%09if%20%28mode%20%3D%3D%20a_open_mode%29%20return%20%27%27%3B%0A%09document.getElementById%28%27adpro_dDiv%27%29.style.display%20%3D%20mode%20%3F%20%27%27%20%3A%20%27none%27%3B%0A%09a_open_mode%20%3D%20mode%3B%0A%09for%20%28var%20i%20%3D%200%3B%20i%20%3C%20a_open_obj.length%3B%20i++%29%20%7B%0A%09%09a_open_obj%5Bi%5D.style.visibility%20%3D%20mode%20%3F%20%27hidden%27%20%3A%20%27visible%27%3B%0A%09%7D%0A%7D%0A%0Afunction%20a_open_Show%28%29%20%7B%0A%09a_open_View%281%29%3B%0A%7D%0A%0Afunction%20a_open_GetLT%28obj%29%20%7B%0A%09var%20valueT%20%3D%200%2C%20valueL%20%3D%200%3B%0A%09while%20%28obj%29%20%7B%0A%09%09valueT%20+%3D%20obj.offsetTop%20%20%7C%7C%200%3B%0A%09%09valueL%20+%3D%20obj.offsetLeft%20%7C%7C%200%3B%0A%09%09obj%20%3D%20obj.offsetParent%3B%0A%09%7D%3B%0A%09return%20%5BvalueL%2C%20valueT%5D%3B%0A%7D%0A%0Afunction%20a_open_IfInBn%28x%2C%20y%29%20%7B%0A%09var%20ret%20%3D%20%28x%20%3E%3D%20a_open_posL%20%26%26%20x%20%3C%3D%20%28a_open_posL%20+%20dWidth%29%20%26%26%20y%20%3E%3D%20a_open_posT%20%26%26%20y%20%3C%3D%20%28a_open_posT%20+%20dHeight%29%29%3B%0A%09return%20ret%3B%0A%7D%0A%0Afunction%20_a_open_init_delta%28%29%20%7B%0A%09setTimeout%28%27_a_open_init_delta%28%29%27%2C%20250%29%3B%0A%09a_open_deltaX%20%3D%20window.pageXOffset%0A%09%09%7C%7C%20document.documentElement.scrollLeft%0A%09%09%7C%7C%20document.body.scrollLeft%0A%09%09%7C%7C%200%3B%0A%09a_open_deltaY%20%3D%20window.pageYOffset%0A%09%09%7C%7C%20document.documentElement.scrollTop%0A%09%09%7C%7C%20document.body.scrollTop%0A%09%09%7C%7C%200%3B%0A%7D%0A%0Afunction%20_a_open_init_pos%28%29%20%7B%0A%09var%20A%20%3D%20a_open_GetLT%28document.getElementById%28%27adpro_sDiv%27%29%29%3B%0A%09a_open_posL%20%3D%20A%5B0%5D%3B%0A%09a_open_posT%20%3D%20A%5B1%5D%3B%0A%09if%20%28openX%20%3D%3D%20%27L%27%29%20%7B%0A%09%09a_open_posL%20%3D%20a_open_posL%20+%20sWidth%20-%20dWidth%3B%0A%09%09document.getElementById%28%27adpro_dDiv%27%29.style.left%20%3D%20a_open_posL%20+%20%27px%27%3B%0A%09%7D%0A%7D%0A%0Afunction%20_a_open_init_obj%28%29%20%7B%0A%09var%20tmp%20%3D%20new%20Array%3B%0A%09var%20obj%3B%0A%09obj%20%3D%20a_open_findTags%28%27iframe%27%29%3B%0A%09if%20%28obj%29%20for%20%28var%20i%20%3D%200%3B%20i%20%3C%20obj.length%3B%20i++%29%20tmp.push%28obj%5Bi%5D%29%3B%0A%09obj%20%3D%20a_open_findTags%28%27select%27%29%3B%0A%09if%20%28obj%29%20for%20%28var%20i%20%3D%200%3B%20i%20%3C%20obj.length%3B%20i++%29%20tmp.push%28obj%5Bi%5D%29%3B%0A%09obj%20%3D%20a_open_findTags%28%27object%27%29%3B%0A%09if%20%28obj%29%20for%20%28var%20i%20%3D%200%3B%20i%20%3C%20obj.length%3B%20i++%29%20tmp.push%28obj%5Bi%5D%29%3B%0A%0A%09a_open_obj%20%3D%20new%20Array%28%29%3B%0A%09for%20%28var%20i%20%3D%200%3B%20i%20%3C%20tmp.length%3B%20i++%29%20%7B%0A%09%09if%20%28%21%28tmp%5Bi%5D.parentNode.id.indexOf%28%27adpro_%27%29%20%3D%3D%200%29%29%20%7B%0A%09%09%09var%20O%20%3D%20a_open_GetLT%28tmp%5Bi%5D%29%3B%0A%09%09%09if%20%28a_open_IfInBn%28O%5B0%5D%2C%20O%5B1%5D%29%29%20a_open_obj.push%28tmp%5Bi%5D%29%3B%0A%09%09%7D%0A%09%7D%0A%7D%0A%0Afunction%20a_open_MouseMove%28e%29%20%7B%0A%09if%20%28%21a_open_IfInBn%28e.clientX%20+%20a_open_deltaX%2C%20e.clientY%20+%20a_open_deltaY%29%29%20a_open_View%280%29%3B%0A%7D%0A%0Afunction%20a_open_Resize%28%29%20%7B%0A%09_a_open_init_pos%28%29%3B%0A%09_a_open_init_obj%28%29%3B%0A%7D%0A%0Afunction%20_a_open_addEvent%28obj%2C%20e%2C%20func%29%20%7B%0A%09if%28obj.addEventListener%29%20obj.addEventListener%28e%2C%20func%2C%20false%29%3B%0A%09else%20if%28obj.attachEvent%29%20obj.attachEvent%28%27on%27+e%2C%20func%29%3B%0A%09else%20obj%5B%27on%27+e%5D%20%3D%20func%3B%0A%7D%0A%0Afunction%20_a_open_init%28%29%20%7B%0A%09setTimeout%28%27_a_open_init_delta%28%29%27%2C%20100%29%3B%0A%09_a_open_init_pos%28%29%3B%0A%09_a_open_init_obj%28%29%3B%0A%0A%09_a_open_addEvent%28document.getElementById%28%27adpro_sDiv%27%29%2C%20%27mousemove%27%2C%20a_open_Show%29%3B%0A%09_a_open_addEvent%28document%2C%20%27mousemove%27%2C%20a_open_MouseMove%29%3B%0A%09_a_open_addEvent%28window%2C%20%27resize%27%2C%20a_open_Resize%29%3B%0A%7D%0A%0Aif%20%28typeof%20window.onload%20%3D%3D%20%22undefined%22%20%7C%7C%20window.onload%20%3D%3D%20null%29%20%7B%0A%09window.onload%20%3D%20_a_open_init%3B%0A%7D%20else%20%7B%0A%09%28function%28%29%20%7B%0A%09%09var%20oldOnload%20%3D%20window.onload%3B%0A%09%09window.onload%20%3D%20function%28%29%20%7B%20oldOnload%28%29%3B%20_a_open_init%28%29%3B%20%7D%0A%09%7D%29%28%29%3B%0A%7D" );
+}
+document.writeln ( '<scr'+'ipt>'+scr2+'</s'+'cr'+'ipt>' );
+if (scr2) _a_open_init();
+
+
+</script>
+</div>
+
+
+
+</body>
+</html>

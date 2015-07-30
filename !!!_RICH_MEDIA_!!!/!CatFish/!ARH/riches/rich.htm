@@ -1,0 +1,150 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="ru">
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<title>Rich</title>
+<style>
+<!--
+p            { font-family: Arial; font-size: 11px }
+-->
+</style>
+<base target="_blank">
+</head>
+
+<body>
+
+<p><font color="#808080">Организация показа и учета Rich-media баннеров. <br>
+Статья описывает уловку, при помощи которой на любом сайте с PHP и MySQL может быть развернута полнофункциональная система ротации Rich media баннеров.<span lang="en-us"> </span>Вот таких, например: </font><a href="http://www.boston.com/mediakit/shosh_atbat.htm">http://www.boston.com/mediakit/shosh_atbat.htm</a><font color="#808080"> , </font><a href="http://www.unitedvirtualities.com/demo/new_formats/miller_2.html">http://www.unitedvirtualities.com/demo/new_formats/miller_2.html</a> <font color="#808080">,
+</font><a href="http://www.unitedvirtualities.com/demo/new_formats/pediarix.html">http://www.unitedvirtualities.com/demo/new_formats/pediarix.html</a> <font color="#808080">и еще круче. Хочешь за пару часов уметь разворачивать &quot;взрослую&quot;&nbsp; ротацию таких вот баннеров на любой площадке, начиная от хоум пейджа подружки? - Читай статью.<span lang="en-us"> </span>Да! Все время забываю напомнить. Рассматривая примеры - включи звук!</font></p>
+<p><font color="#800000" size="2"><b>Rich-media баннеры для всех<span lang="en-us"> </span></b></font><br>
+<font color="#800000"><a href="http://to-dress.ru/rich/redist/rich.htm">http://to-dress.ru/rich/redist/rich.htm</a></font></p>
+<p>Говоря о Rich-media баннерах можно легко согласиться с двумя утверждениями:</p>
+<p>1. Это привлекательно, это красиво, это престижно. В Rich-media баннер вмещается бездна информации по сравнению с обычными форматами.</p>
+<p>2. Это распространится повсеместно, если будет каждому доступно. </p>
+<p>В этой короткой статье мы с вами шаг за шагом создадим не только заготовку Rich-media баннера, но и, что важно, наладим ротацию, биллинг и учет Rich-media баннеров. Причем собственными силами (без привлечения чужих закрытых систем). </p>
+<p>Самый эффектный из Rich-media форматов, это, конечно, &quot;летающие&quot; и &quot;распахивающиеся&quot; баннеры, в которых часть содержимого может на время выходить за пределы баннера.</p>
+<p>Собственно, сама задача изготовления летающего или распахивающегося баннера проста - это просто флэш-ролик, имеющий размер распахнутого баннера и состоящий из двух сцен: на первой сцене расположена кнопка размером со &quot;сложенный&quot;, &quot;запаркованный&quot; баннер, на второй сцене - &quot;распахнутый&quot;, &quot;летающий&quot; рекламный сюжет. Наведение мыши на кнопку в сцене &quot;сложенного&quot; баннера вызывает переход на вторую &quot;распахнутую&quot; сцену. В &quot;распахнутой&quot; сцене есть кнопка &quot;[х] закрыть&quot;.&nbsp; Команда &quot;закрыть баннер&quot; вызывает 
+переход на первую, &quot;сложенную&quot; сцену. Все.</p>
+<p>Исходники баннеров здесь: <a href="http://to-dress.ru/rich/redist/riches.zip">http://to-dress.ru/rich/redist/riches.zip</a></p>
+<p>Открываем, изучаем короткие скрипты на кнопках и фреймах. Вся наука. </p>
+<p>Теперь баннер нужно поместить на страницу. Заглядываем в HTML файл, созданный Flash'ем при публикации ролика&nbsp; и, создав слой, помещаем в него строчки ограниченные тегами &lt;OBJECT&gt; ... &lt;/OBJECT&gt;:</p>
+<pre>&lt;span style=&quot;position: absolute&quot; ...&gt; 
+&lt;OBJECT&gt; ... &lt;/OBJECT&gt;
+&lt;/span&gt;
+</pre>
+<p>Смотрите, как это сделано в файле &quot;<a href="http://to-dress.ru/rich/redist/test_flash.htm">test_flash.htm</a>&quot;<span lang="en-us">.</span></p>
+<pre>&lt;!-- вот баннер --&gt;
+&lt;p&gt;&lt;span style=&quot;position: absolute; left: 18; top: 3; width: 800; height: 600; z-index: 1&quot;&gt;
+&lt;object classid=&quot;clsid:D27CDB6E-AE6D-11cf-96B8-444553540000&quot; codebase=&quot;http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0&quot; WIDTH=&quot;800&quot; HEIGHT=&quot;600&quot; id=&quot;rich-crave-min&quot; ALIGN&gt;
+&lt;param NAME=&quot;movie&quot; VALUE=&quot;rich-crave-min.swf&quot;&gt;
+&lt;param NAME=&quot;quality&quot; VALUE=&quot;high&quot;&gt;
+&lt;param NAME=&quot;wmode&quot; VALUE=&quot;transparent&quot;&gt;
+&lt;param NAME=&quot;bgcolor&quot; VALUE=&quot;#FFFFFF&quot;&gt;
+&lt;EMBED src=&quot;rich-crave-min.swf&quot; quality=high wmode=transparent bgcolor=#FFFFFF WIDTH=&quot;800&quot; HEIGHT=&quot;600&quot; NAME=&quot;rich-crave-min&quot; ALIGN=&quot;&quot; TYPE=&quot;application/x-shockwave-flash&quot; PLUGINSPAGE=&quot;http://www.macromedia.com/go/getflashplayer&quot;&gt;&lt;/EMBED&gt;
+&lt;/object&gt;
+&lt;/span&gt;&lt;/p&gt;
+&lt;!-- вот баннер --&gt;</pre>
+<p>Баннер работает, но способ его размещения никуда не годен и сейчас мы его усовершенствуем. </p>
+<p>Создаем файл &quot;<a href="http://to-dress.ru/rich/redist/crave_local.js">crave_local.js</a>&quot; с вот таким содержимым:</p>
+<pre>document.write('&lt;span style=&quot;position: absolute; left: 18; top: 3; width: 800; height: 600; z-index: 1&quot;&gt;');
+document.write('&lt;OBJECT classid=&quot;clsid:D27CDB6E-AE6D-11cf-96B8-444553540000&quot; codebase=&quot;http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0&quot; WIDTH=&quot;800&quot; HEIGHT=&quot;600&quot; id=&quot;rich-crave-min&quot; ALIGN=&quot;&quot;&gt;');
+document.write('&lt;PARAM NAME=movie VALUE=&quot;rich-crave-min.swf&quot;&gt;&lt;PARAM NAME=quality VALUE=high&gt;&lt;PARAM NAME=wmode VALUE=transparent&gt;&lt;PARAM NAME=bgcolor VALUE=#FFFFFF&gt;');
+document.write('&lt;EMBED src=&quot;rich-crave-min.swf&quot; quality=high wmode=transparent bgcolor=#FFFFFF WIDTH=&quot;800&quot; HEIGHT=&quot;600&quot; NAME=&quot;rich-crave-min&quot; ALIGN=&quot;&quot; TYPE=&quot;application/x-shockwave-flash&quot; PLUGINSPAGE=&quot;http://www.macromedia.com/go/getflashplayer&quot;&gt;&lt;/EMBED&gt;&lt;/OBJECT&gt;&lt;/span&gt;');</pre>
+<p>Это тот же самый код, что и в предыдущем примере, но помещаемый в страницу конструкцией:</p>
+<pre>&lt;script language=&quot;JavaScript&quot; src=&quot;crave_local.js&quot;&gt;&lt;/script&gt;</pre>
+<p>Смотрите файл &quot;<a href="http://to-dress.ru/rich/redist/test_js.htm">test_js.htm</a>&quot;.</p>
+<p>Этап создания баннера завершен. У нас есть строчка &quot;&lt;script language=&quot;JavaScript&quot; src=&quot;crave_local.js&quot;&gt;&lt;/script&gt;&quot;, которая называется &quot;JavaScript-баннер&quot; и для полного счастья нам осталось только наладить ротацию JavaScript-баннеров.</p>
+<p>Доставку JavaScript-баннеров умеет осуществлять большинство &quot;взрослых&quot;, коммерческих централизованных &quot;крутилок&quot;,&nbsp; класса AdRiver или DoubleClick, но в большинстве случаев (а именно - никогда) их политика не рассчитана на бесплатное или комиссионное обслуживание &quot;хоум пейджей&quot; и т.д., что вполне естественно, т.к. &quot;комиссия&quot; и прочие понятия баннерообменных сетей плохо приложимы к Rich media хотя бы оттого, что это не GIF 468х60 и кто с кем и зачем будет меняться - непонятно.</p>
+<p>А мы ищем решение, доступное абсолютно всем. </p>
+<p>Оказалось, что мелкий хак (и даже не хак, а уловка!) к <a href="http://www.phpadsnew.com">PhpAdsNew</a> - опен сорс &quot;крутилке&quot;, распространяемой под GPL лицензией, позволяет с легкостью наладить показ, учет, ротацию, таргетинг и прочие нужные вещи в отношении JavaScript-баннеров. Которые могут доставлять в страницу хочешь Rich media контент, а хочешь вообще что угодно. </p>
+<p>Историческая справка: команда <a href="http://www.phpadsnew.com">PhpAdsNew</a> - выходцы из команды всем известного <a href="http://www.phpmyadmin.net">PhpMyAdmin</a>. Что вызывает доверие.</p>
+<p>Требования к системе со стороны <a href="http://www.phpadsnew.com">PhpAdsNew</a> минимальны. У вас должны быть PHP и MySQL. </p>
+<p>Существует и версия для PostgreSQL - phpPgAds ( <a href="http://www.phppgads.com/one/">http://www.phppgads.com/one/</a> ).</p>
+<p>Итак, закачиваем и ставим PhpAdsNew ( вот отсюда - <a href="http://phpadsnew.com/two/">http://phpadsnew.com/two/</a> ).</p>
+<p>Внимательно читаем доки. Работать с PhpAdsNew очень просто. Торопыгам советую не мучить себя и прочитать мануал до конца. В мануале есть все. </p>
+<p>Итак, суть хака, позволяющего доставлять JavaScript-баннеры через PhpAdsNew: </p>
+<p>1. Cоздаем DHTML зону: Inventory =&gt; Publishers &amp; Zones =&gt; Expand all =&gt; Create. <br>
+Zone type =&gt; Interstitial or Floating DHTML. Указываем желаемый размер зоны в пикселях. <br>
+Этот размер всегда нужен, даже если баннер будет &quot;летать&quot; и не будет иметь &quot;размера&quot;. <br>
+PhpAdsNew для показа в зоне выбирает из баннерохранилища совпадающий с ней по размеру баннер.</p>
+<p>Получаем код вызова баннера для этой зоны: Inventory =&gt; Publishers &amp; Zones =&gt; Expand all =&gt; Щелкаем на имени нужной Зоны. <br>
+Zone properties =&gt; Invocationcode.</p>
+<p>2. Создаем HTML баннер: Inventory =&gt; Advertisers &amp; Campaigns =&gt; Expand all =&gt; Create. <br>
+...type of the banner =&gt; HTML banner. Вписываем в окошко любой текст. Задаем размер баннера равным только что созданной зоне.</p>
+<p>Привязываем баннер или компанию к зоне: Inventory =&gt; Publishers &amp; Zones =&gt; Expand all =&gt; Щелкаем на имени нужной Зоны. <br>
+Zone properties =&gt; Linked Banners, привязать Кампанию к Зоне (Campaign selection) или Баннер к Зоне (Banner selection) <br>
+из выпадающего списка &quot;type of linking&quot;</p>
+<p>Любуемся, балуемся: &quot;<a href="http://to-dress.ru/rich/redist/test_dhtml.htm">test_dhtml.htm</a>&quot;.</p>
+<p>3. Налюбовавшись, возвращаемся к баннеру: Inventory =&gt; Advertisers &amp; Campaigns =&gt; Expand all =&gt; Щелчок на нужном баннере.<br>
+Теперь вместо текста &quot;DHTML окошко...&quot; вставляем в окно баннера вот эту конструкцию:</p>
+<pre>&lt;script language=&quot;JavaScript&quot;&gt;
+&lt;!-- 
+if ((GETEnough)&amp;&amp;(!OPERA)) { 
+document.write('&lt;script language=&quot;JavaScript&quot; src=&quot;http://to-dress.ru/rich/crave.js&quot;&gt;&lt;/script&gt;'); 
+} 
+//--&gt;&lt;/script&gt;</pre>
+<p>Любуемся, балуемся: &quot;<a href="http://to-dress.ru/rich/redist/test_dhtml_js.htm">test_dhtml_js.htm</a>&quot;. Видим, что если закрыть DHTML окошко, то под ним находится наш работающий JS-баннер.<br>
+<br>
+Конструкция &lt;span style=&quot;position: absolute...; z-index: 1&gt; корректно работает не во всех браузерах.</p>
+<p>Суть в том, что Rich media баннеры на <a href="http://to-dress.ru">http://to-dress.ru</a><span lang="en-us"> </span>&nbsp;распахиваясь, перекрывают кликабельные ссылки. И ссылки, перекрытые распахнутым баннером, сохраняют кликабельность только в IE 5.05 и выше.</p>
+<p>Для этого добавлена проверка версии браузера перед доставкой баннера. </p>
+<p>Если распахивающийся баннер не перекрывает кликабельных ссылок, то можно ограничиться проверкой (лишь бы не ОПЕРА)</p>
+<p>4. Теперь замечаем, что диалог &quot;Invocationcode&quot;, имеет кучу полезных опций! Ставим &quot;Style=&gt;Simple, Automatically close after =&gt; 2 sec&quot;.</p>
+<p>С интересом наблюдаем, &quot;<a href="http://to-dress.ru/rich/redist/test_dhtml_js2.htm">test_dhtml_js2.htm</a>&quot;, как окошко само закрывается, оставляя после себя работающий баннер.</p>
+<p>5. Когда нарезвитесь, меняя цвета и стили окошка, выберите окончательный вариант кода доставки баннера:<br>
+Style=&gt;Simple<br>
+Show close button : No <br>
+Automatically close after : 1 sec <br>
+Transparent background <br>
+No border </p>
+<p>6. Готово. Файл: &quot;<a href="http://to-dress.ru/rich/redist/test_dhtml_js_finish.htm">test_dhtml_js_finish.htm</a>&quot;.</p>
+<p>Как вы уже успели увидеть, позиционирование баннера производится ручками, подсчетом пикселей от верхнего левого угла. Спешу вас успокоить, юнайтедвиртуалитис работает точно так же.</p>
+<p>Теперь PhpAdsNew доставляет нам в страницу JS-баннеры, сопровождая их доставку всеми своими возможностями: ограничениями на показы, таргетингом, ротацией, учетом и проч. Читайте мануал к PhpAdsNew.</p>
+<p><span lang="en-us">JS-</span>баннеры позволяют не только доставлять в страницу <span lang="en-us">Rich media </span>контент, но и смешивать в ротации баннеры нескольких размеров и форматов.</p>
+<p>+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++</p>
+<p>А это все, что осталось от юзер мануала, если взять главное. Повесьте эту страничку на монитор, пока не достигнете автоматизма в управлении рекламой на своем сайте:</p>
+<p><span lang="en-us">I. </span>Добавление баннера в phpAdsNew</p>
+<p>:: Прежде, чем добавить баннер, средствами: Inventory =&gt; Publishers &amp; Zones нужно создать Издателя, а на сайте Издателя - Зоны.</p>
+<p>Добавление баннера:</p>
+<p>:: Прийти в Inventory <br>
+:: Прийти в Advertisers &amp; Campaigns <br>
+:: При необходимости создать нужного Клиента (Advertiser) и Рекламную Кампанию (Campaign)<br>
+:: Открыть нужного Клиента (Advertiser) <br>
+:: Открыть нужную Кампанию (Campaign) внутри Клиента (Advertiser) <br>
+:: Внутри Кампании (Campaign) щелкнуть на баннер-иконке Create <br>
+:: Залить баннер, оформить параметры доставки/таргетинга</p>
+<p>:: При необходимости прийти в Inventory () =&gt; Publishers &amp; Zones <br>
+и привязать Кампанию (Campaign) в которую добавлен баннер к нужной Зоне (Zone)<br>
+Zone properties =&gt; Linked Banners, привязать Кампанию к Зоне&nbsp; (Campaign selection).<br>
+В Зоне будут показываться все баннеры привязанной Кампании, подходяшие по размеру.</p>
+<p>:: К Зоне (Zone) можно привязывать как Кампании, так и отдельные Баннеры: Inventory () =&gt; Publishers &amp; Zones ,<br>
+Щелчок на нужной Зоне (Zone), Zone properties&nbsp; =&gt; Linked Banners , привязка Кампании (Campaign selection) или привязка Баннера (Banner selection)</p>
+<p><span lang="en-us">II. </span>Отображение JS баннеров</p>
+<p>:: Создать DHTML Зону произвольного (но нужного) размера. <br>
+Размер будет влиять только на видимость баннеров в привязках к Зоне.</p>
+<p>:: Выбрать стиль отображения DHTML<br>
+Simple<br>
+Show close button : No <br>
+Automatically close after : 1 sec <br>
+Transparent background <br>
+No border </p>
+<p>:: Здесь мы применяем трюк, заставляя DHTML Layer доставлять JS код баннера в код страницы и умирать.</p>
+<p>Создать <span lang="en-us">HTML </span>баннер, вписать в окно<span lang="en-us"> </span>содержимого баннера волшебные слова:</p>
+<pre>&lt;script language=&quot;JavaScript&quot;&gt;
+&lt;!-- 
+if ((GETEnough)&amp;&amp;(!OPERA)) { 
+document.write('&lt;script language=&quot;JavaScript&quot; src=&quot;http://мой_баннер.js&quot;&gt;&lt;/script&gt;'); 
+} 
+//--&gt;&lt;/script&gt;</pre>
+<p>&nbsp;</p>
+<p>+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++</p>
+<p>Все. Удачи. Ну и вы же понимаете, что баннер может иметь и не 2 интерактивных сцены, а хоть 300. Все ограничивается весом баннера в кило.</p>
+<p>Напитаться креативными идеями вы можете в галерее баннеров газеты &quot;Бостон Глоб&quot;<span lang="en-us">:</span> <a href="http://www.boston.com/mediakit/shosh_globe.htm">http://www.boston.com/mediakit/shosh_globe.htm</a> , <a href="http://www.boston.com/mediakit/shosh_atbat.htm">http://www.boston.com/mediakit/shosh_atbat.htm</a> или компании &quot; <a href="http://www.unitedvirtualities.com/">http://www.unitedvirtualities.com </a>&quot;<span lang="en-us">. </span>Рекомендую ссылку: Главная страница<span lang="en-us"> UV
+</span>=<span lang="en-us">&gt; shoshkele </span>=<span lang="en-us">&gt; product suit </span>=<span lang="en-us">&gt; </span>страница 3 (<span lang="en-us">shohsbanners</span>) =<span lang="en-us">&gt; Expandable 2 </span>и <span lang="en-us">&nbsp;Expandable </span>3.</p>
+
+</body>
+
+</html>

@@ -1,0 +1,268 @@
+
+
+
+
+<!-- AdRiver ajax2 -->
+<script type="text/javascript" src="http://static.liga.net/resources/files/bg/adriver.core.2.js"></script>
+<!-- AdRiver ajax2 END -->
+
+</head>
+================================================================================
+
+
+
+
+
+
+
+
+
+
+<body>
+
+
+
+
+================================================================================
+
+================================================================================
+ЛІГА.net
+ЛІГА.net - RICH - (підвал)
+http://liga.net/
+Дата заміни: 20121207
+
+
+<!-- AdRiver richliga -->
+<div id="richliga" class="richliga adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("richliga", {sid: 164095, bt:52, bn:4});
+</script>
+<!-- AdRiver richliga END -->
+
+          <!-- AdRiver richliga -->
+          <div id="richliga" class="richliga adriverBanner"></div>
+          <script type="text/javascript"> 
+          new adriver("richliga", {sid: 164095, sz: "richliga", pz: 0, bn: 4 });
+          </script>
+          <!-- AdRiver richliga END -->
+================================================================================
+http://news.liga.net/
+
+
+<!-- AdRiver richnews -->
+<div id="richnews" class="richnews adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("richnews", {sid:164097, bt:52, bn:4});
+</script>
+<!-- AdRiver richnews END -->
+
+
+          <!-- AdRiver richnews -->
+          <div id="richnews" class="richnews adriverBanner"></div>
+          <script type="text/javascript"> 
+          new adriver("richnews", {sid: 164097, sz: "richnews", pz: 0, bn: 4 });
+          </script>
+          <!-- AdRiver richnews END -->
+================================================================================
+http://biz.liga.net/ (в зоні РОС також)
+
+<!-- AdRiver richbiz -->
+<div id="richbiz" class="richbiz adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("richbiz", {sid:164098, bt:52, bn:4});
+</script>
+<!-- AdRiver richbiz END -->
+
+          <!-- AdRiver richbiz -->
+          <div id="richbiz" class="richbiz adriverBanner"></div>
+          <script type="text/javascript"> 
+          new adriver("richbiz", {sid: 164098, sz: "richbiz", pz: 0, bn: 4 });
+          </script>
+          <!-- AdRiver richbiz END -->
+================================================================================
+http://finance.liga.net/ (в зоні РОС також)
+
+<!-- AdRiver richfin -->
+<div id="richfin" class="richfin adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("richfin", {sid:164099, bt:52, bn:4});
+</script>
+<!-- AdRiver richfin END -->
+
+          <!-- AdRiver richfin -->
+          <div id="richfin" class="richfin adriverBanner"></div>
+          <script type="text/javascript"> 
+          new adriver("richfin", {sid: 164099, sz: "richfin", pz: 0, bn: 4 });
+          </script>
+          <!-- AdRiver richfin END -->
+================================================================================
+http://file.liga.net/
+
+<!-- AdRiver richfile -->
+<div id="richfile" class="richfile adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("richfile", {sid: 164101, sz: "richfile", pz: 0, bn: 4 });
+</script>
+<!-- AdRiver richfile END -->
+================================================================================
+Мониторинг СМИ    - 728x90 (підвал)
+http://smi.liga.net/
+(заміна кода 20130425)
+
+
+<noindex>
+<!-- AdRiver richsmi -->
+<div id="richsmi" class="richsmi adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("richsmi", {sid:164100, bt:52, bn:4});
+</script>
+<!-- AdRiver richsmi END -->
+</noindex>
+
+
+
+                <!-- AdRiver richsmi -->
+                <div id="richsmi" class="richsmi adriverBanner"></div>
+                <script type="text/javascript"> 
+                new adriver("richsmi", {sid: 164100, sz: "richsmi", pz: 0, bn: 4 });
+                </script>
+                <!-- AdRiver richsmi END -->
+================================================================================
+http://blog.liga.net/
+
+<!-- AdRiver richblog -->
+<div id="richblog" class="richblog adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("richblog", {sid: 164103, sz: "richblog", pz: 0, bn: 4 });
+</script>
+<!-- AdRiver richblog END -->
+================================================================================
+http://forum.liga.net/ 20130423
+
+
+<noindex>
+<!-- AdRiver richforum -->
+<div id="richforum" class="richforum adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("richforum", {sid:164102, bt:52, bn:4});
+</script>
+<!-- AdRiver richforum END -->
+</noindex>
+================================================================================
+http://ratings.liga.net/
+
+<!-- bn: 4 -->
+================================================================================
+[CODE:2012] http://press.liga.net/  Пресс-центр [CODE:2012]
+
+<!-- AdRiver richpress -->
+<div id="richpress" class="richpress adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("richpress", {sid: 164105, sz: "richpress", pz: 0, bn: 4 });
+</script>
+<!-- AdRiver richpress END -->
+================================================================================
+http://avenue.liga.net/
+
+<!-- AdRiver richavenu -->
+<div id="richavenu" class="richavenu adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("richavenu", {sid: 172985, sz: "richavenu", pz: 0, bn: 4 });
+</script>
+<!-- AdRiver richavenu END -->
+================================================================================
+http://ny.liga.net/
+http://ny.action.dev.liga.ua/
+
+<!-- AdRiver richny -->
+<div id="richny" class="richny adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("richny", {sid: 168671, sz: "richny", pz: 0, bn: 4 });
+</script>
+<!-- AdRiver richny END -->
+================================================================================
+http://8marta.liga.net/
+
+<!-- AdRiver rich8marta -->
+<div id="rich8marta" class="rich8marta adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("rich8marta", {sid: 181038, sz: "rich8marta", pz: 0, bn: 4 });
+</script>
+<!-- AdRiver rich8marta END -->
+
+================================================================================
+http://www.ligazakon.ua
+
+<!-- AdRiver richligazakon -->
+<div id="richligazakon" class="richligazakon adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("richligazakon", {sid: 184182, sz: "richligazakon", pz: 0, bn: 4 });
+</script>
+<!-- AdRiver richligazakon END -->
+================================================================================
+http://search.ligazakon.ua
+
+<!-- AdRiver richsearch -->
+<div id="richsearch" class="richsearch adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("richsearch", {sid: 184183, sz: "richsearch", pz: 0, bn: 4 });
+</script>
+<!-- AdRiver richsearch END -->
+================================================================================
+http://buh.ligazakon.ua
+
+<!-- AdRiver richbuh -->
+<div id="richbuh" class="richbuh adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("richbuh", {sid: 184184, sz: "richbuh", pz: 0, bn: 4 });
+</script>
+<!-- AdRiver richbuh END -->
+================================================================================
+http://jurliga.ligazakon.ua
+
+<!-- AdRiver richjurliga -->
+<div id="richjurliga" class="richjurliga adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("richjurliga", {sid: 184185, sz: "richjurliga", pz: 0, bn: 4 });
+</script>
+<!-- AdRiver richjurliga END -->
+================================================================================
+http://moepravo.ligazakon.ua
+
+<!-- AdRiver rich_moepravo_bn4  -->
+<div id="adriver_banner_954084528"></div>
+<script type="text/javascript">
+new adriver("adriver_banner_954084528", {sid:184883, bt:52, bn:4});
+</script>
+<!-- AdRiver rich_moepravo_bn4 END -->
+================================================================================
+http://ny.liga.net
+Дата заміни: 20121207
+
+<!-- AdRiver richny -->
+<div id="richny" class="richny adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("richny", {sid: 168671, bt:52, bn:4});
+</script>
+<!-- AdRiver richny END -->
+================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

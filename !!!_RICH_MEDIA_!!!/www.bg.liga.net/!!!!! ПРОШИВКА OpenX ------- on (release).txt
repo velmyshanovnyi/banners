@@ -1,0 +1,5 @@
+on (release) {
+  if (clickTAG.substr(0,5) == "http:") {
+    getURL(clickTAG,clickTARGET);
+  }
+}

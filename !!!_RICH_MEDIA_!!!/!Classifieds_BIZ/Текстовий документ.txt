@@ -1,0 +1,38 @@
+- skopijuvaty shablon:  http://bg.liga.net/www/admin/banner-edit.php?clientid=4&campaignid=1244&bannerid=3039
+- daty shablonu inshu nazvu
+- vidrebaguvary shablon
+- zberegty TXT
+- vidtryty v FF
+- perejty vrezhym emuliaciji IE
+- zminyty koduvannia z 1251 na UTF-8 
+- skopijuvary kod v BG
+- zberegty v banerci
+
+
+
+
+<div style="clear:both; font-size:1px;">&nbsp;</div>
+<table style="font-family:Arial,Helvetica,sans-serif; font-size:12px; line-height:normal; border:0px solid #5F88BB; background-color:#ffffff; color:#000000; margin:0; padding: 0px; width:258px; height:70px;" ><tr><td>
+<a href="http://lbi.liga.net/advert/akcia-01.html" target="_blank" style="text-decoration:none; color:#000000;">
+<div class="title" style="font-size:12px; font-weight:bold; border:0; margin:0; padding: 0px;">
+<img src="http://bg.liga.net/www/images/ligaparagraf.jpg" style="border:none; height:64px; width:64px; margin-right:3px; padding:0px;" align="left" alt="" />
+<!-- . . . . . . . . . -->
+Акция на BIZ.liga.net
+</div>
+<div class="txt" style="border:0; margin:0; padding-top: 3px;">
+<!-- . . . . . . . . . . . . . . . . . . . . . . . . . . -->
+2 недели размещения в «Актуальных предложениях»<br />
+</div>
+<div class="url" style="color:green; margin:0; padding-top: 3px; padding-left: 5px;">
+в подарок
+</div></a></td></tr></table>
+<div style="clear:both; font-size:2px;">&nbsp;</div>
+
+---------
+
+ 
+Р“РёРїРµСЂРјР°СЂРєРµС‚ СЌР»РµРєС‚СЂРѕРЅРёРєРё
+Р›СѓС‡С€РёР№ РІС‹Р±РѕСЂ Р±С‹С‚РѕРІРѕР№ С‚РµС…РЅРёРєРё РїРѕ РЅРёР·РєРёРј С†РµРЅР°Рј.
+www.003.com.ua
+ 
+

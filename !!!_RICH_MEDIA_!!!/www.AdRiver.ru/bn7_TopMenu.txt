@@ -1,0 +1,168 @@
+<!-- AdRiver ajax2 -->
+<script type="text/javascript" src="http://static.liga.net/resources/files/bg/adriver.core.2.js"></script>
+<!-- AdRiver ajax2 END -->
+</head>
+********************************************************************************
+
+<body>
+
+================================================================================
+240х350 - левая колонка
+================================================================================
+ЛІГА.net
+
+<center>
+<!-- AdRiver topmenu -->
+<div id="topmenu" class="topmenu adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("topmenu", {sid: 164095, sz: "topmenu", pz: 0, bn: 7 });
+</script>
+<!-- AdRiver topmenu END -->
+</center>
+================================================================================
+Новости
+
+<center>
+<!-- AdRiver topmenu -->
+<div id="topmenu" class="topmenu adriverBanner"></div>
+<script type="text/javascript">
+new adriver("topmenu", {sid: 164097, sz: "topmenu", pz: 0, bn: 7 });
+</script>
+<!-- AdRiver topmenu END -->
+</center>
+================================================================================
+БІЗ
+
+<center>
+<!-- AdRiver topmenu -->
+<div id="topmenu" class="topmenu adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("topmenu", {sid: 164098, sz: "topmenu", pz: 0, bn: 7 });
+</script>
+<!-- AdRiver topmenu END -->
+</center>
+================================================================================
+Финансы
+
+<center>
+<!-- AdRiver topmenu -->
+<div id="topmenu" class="topmenu adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("topmenu", {sid: 164099, sz: "topmenu", pz: 0, bn: 7 });
+</script>
+<!-- AdRiver topmenu END -->
+</center>
+================================================================================
+Досье
+
+<center>
+<!-- AdRiver topmenu -->
+<div id="topmenu" class="topmenu adriverBanner" style="margin: 0 0 20px 0;"></div>
+<script type="text/javascript"> 
+new adriver("topmenu", {sid: 164101, sz: "topmenu", pz: 0, bn: 7 });
+</script>
+<!-- AdRiver topmenu END -->
+</center>
+================================================================================
+Мониторинг СМИ
+
+<center>
+<!-- AdRiver topmenu -->
+<div id="topmenu" class="topmenu adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("topmenu", {sid: 164100, sz: "topmenu", pz: 0, bn: 7 });
+</script>
+<!-- AdRiver topmenu END -->
+</center>
+================================================================================
+Блоги
+
+<center>
+<!-- AdRiver topmenu -->
+<div id="topmenu" class="topmenu adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("topmenu", {sid: 164103, sz: "topmenu", pz: 0, bn: 7 });
+</script>
+<!-- AdRiver topmenu END -->
+</center>
+================================================================================
+Форумы
+
+<center>
+<!-- AdRiver topmenu -->
+<div id="topmenu" class="topmenu adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("topmenu", {sid: 164102, sz: "topmenu", pz: 0, bn: 7 });
+</script>
+<!-- AdRiver topmenu END -->
+</center>
+================================================================================
+Рейтинги
+
+<center>
+<!-- AdRiver topmenu -->
+<div id="topmenu" class="topmenu adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("topmenu", {sid: 175125, sz: "topmenu", pz: 0, bn: 7 });
+</script>
+<!-- AdRiver topmenu END -->
+</center>
+================================================================================
+[CODE:2012] Пресс-центр [CODE:2012] 
+
+<center>
+<!-- AdRiver topmenu -->
+<div id="topmenu" class="topmenu adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("topmenu", {sid: 164105, sz: "topmenu", pz: 0, bn: 7 });
+</script>
+<!-- AdRiver topmenu END -->
+</center>
+================================================================================
+Avenu  - 240х350 - левая колонка
+
+<center>
+<!-- AdRiver topmenu -->
+<div id="topmenu" class="topmenu adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("topmenu", {sid: 172985, sz: "topmenu", pz: 0, bn: 7 });
+</script>
+<!-- AdRiver topmenu END -->
+</center>
+================================================================================
+
+
+
+------------ expert ------------
+
+<!-- AdRiver topmenu -->
+<div id="topmenu" class="topmenu adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("topmenu", {sid: 164104, sz: "topmenu", pz: 0, bn: 7 });
+</script>
+<!-- AdRiver topmenu END -->
+
+------------------------------------
+------------ seychas ------------
+
+<!-- AdRiver topmenu -->
+<div id="topmenu" class="topmenu adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("topmenu", {sid: 164106, sz: "topmenu", pz: 0, bn: 7 });
+</script>
+<!-- AdRiver topmenu END -->
+
+------------------------------------
+
+------------  ------------
+
+<!-- AdRiver topmenu -->
+<div id="topmenu" class="topmenu adriverBanner"></div>
+<script type="text/javascript"> 
+new adriver("topmenu", {sid: ******, sz: "topmenu", pz: 0, bn: 7 });
+</script>
+<!-- AdRiver topmenu END -->
+
+------------------------------------
+
+

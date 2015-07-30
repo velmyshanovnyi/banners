@@ -1,0 +1,336 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+
+
+<title>AdRiver / Пример баннера «Раскрывающийся TopLine с элементами ScreenGlide»</title>
+<meta name="Description" content="Пример баннера «Раскрывающийся TopLine с элементами ScreenGlide»">
+<meta name="Keywords" content="Пример баннера «Раскрывающийся TopLine с элементами ScreenGlide»">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<link href="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/adriver.css" rel="stylesheet" type="text/css">
+<link rel="SHORTCUT ICON" href="http://www.adriver.ru/favicon.ico">
+<script src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/fn.js" type="text/javascript"></script>
+<!-- script type='text/javascript' src='/jquery.js'></script>
+<script type='text/javascript' src='/terms_highlight.js'></script -->
+
+<style type="text/css">body { position: relative; }</style><style type="text/css">div.autosuggest { position: absolute; background-image: url(data:image/gif,GIF89a%14%00%0A%00%80%00%00333%FF%FF%FF!%F9%04%01%07%00%01%00%2C%00%00%00%00%14%00%0A%00%00%02%19%8C%7F%00%C8m%AA%9C%84P2J%ED%C3yr%EC%7C%DF%25%8E%5B9%A2h%01%00%3B); background-position: top; background-repeat: no-repeat; padding: 10px 0 0 0; }</style><style type="text/css">div.autosuggest div.as_header, div.autosuggest div.as_footer { position: relative; height: 6px; padding: 0 6px; background-image: url(data:image/gif,GIF89a%06%00%06%00%80%00%00333%FF%FF%FF!%F9%04%00%07%00%FF%00%2C%00%00%00%00%06%00%06%00%00%02%09%04%82a%86%CB~%A0%04%05%00%3B); background-position: top right; background-repeat: no-repeat; overflow: hidden; }</style><style type="text/css">div.autosuggest div.as_footer { background-image: url(data:image/gif,GIF89a%06%00%06%00%80%00%00333%FF%FF%FF!%F9%04%00%07%00%FF%00%2C%00%00%00%00%06%00%06%00%00%02%08%84%8Fi%91%7C%E1%20%2C%00%3B); }</style><style type="text/css">div.autosuggest div.as_header div.as_corner, div.autosuggest div.as_footer div.as_corner { position: absolute; top: 0; left: 0; height: 6px; width: 6px; background-image: url(data:image/gif,GIF89a%06%00%06%00%80%00%00333%FF%FF%FF!%F9%04%00%07%00%FF%00%2C%00%00%00%00%06%00%06%00%00%02%09%8C%03%60%99%C8%FA%A2L%05%00%3B); background-position: top left; background-repeat: no-repeat; }</style><style type="text/css">div.autosuggest div.as_footer div.as_corner { background-image: url(data:image/gif,GIF89a%06%00%06%00%80%00%00333%FF%FF%FF!%F9%04%00%07%00%FF%00%2C%00%00%00%00%06%00%06%00%00%02%08%84%8F%16%B9%18%AD%5E%2B%00%3B); }</style><style type="text/css">div.autosuggest div.as_header div.as_bar,div.autosuggest div.as_footer div.as_bar { height: 6px; overflow: hidden; background-color: #333; }</style><style type="text/css">div.autosuggest ul { list-style: none; margin: 0 0 -4px 0; padding: 0; overflow: hidden; background-color: #333; }</style><style type="text/css">div.autosuggest ul li { color: #ccc; padding: 0; margin: 0 4px 4px; text-align: left; }</style><style type="text/css">div.autosuggest ul li a { color: #ccc; display: block; text-decoration: none; background-color: transparent; text-shadow: #000 0px 0px 5px; position: relative; padding: 0; width: 100%; }</style><style type="text/css">div.autosuggest ul li a:hover { background-color: #444; }</style><style type="text/css">div.autosuggest ul li.as_highlight a:hover { background-color: #1B5CCD; }</style><style type="text/css">div.autosuggest ul li a span { display: block; padding: 3px 6px; font-weight: bold; }</style><style type="text/css">div.autosuggest ul li a span small { font-weight: normal; color: #999; }</style><style type="text/css">div.autosuggest ul li.as_highlight a span small { color: #ccc; }</style><style type="text/css">div.autosuggest ul li.as_highlight a { color: #fff; background-color: #1B5CCD; background-image: url(data:image/gif,GIF89a%06%00%06%00%A2%00%00%1B%5C%CD*Bl%20T%B025%3C%FF%FF%FF%00%00%00%00%00%00%00%00%00!%F9%04%01%07%00%04%00%2C%00%00%00%00%06%00%06%00%00%03%0EH%0A%AC%C4%C2%B1%C0%E0%A8b%5C%11%F4H%00%3B); background-position: bottom right; background-repeat: no-repeat; }</style><style type="text/css">div.autosuggest ul li.as_highlight a span { background-image: url(data:image/gif,GIF89a%06%00%06%00%A2%00%00%1B%5C%CD*Bl%20T%B025%3C%FF%FF%FF%00%00%00%00%00%00%00%00%00!%F9%04%01%07%00%04%00%2C%00%00%00%00%06%00%06%00%00%03%0E%08J%2C%CB%E1%91%E1%14%18%D4%E2%11%5C%02%00%3B); background-position: bottom left; background-repeat: no-repeat; }</style><style type="text/css">div.autosuggest ul li a .tl, div.autosuggest ul li a .tr { background-image: transparent; background-repeat: no-repeat; width: 6px; height: 6px; position: absolute; top: 0; padding: 0; margin: 0; }</style><style type="text/css">div.autosuggest ul li a .tr { right: 0; }</style><style type="text/css">div.autosuggest ul li.as_highlight a .tl { left: 0; background-image: url(data:image/gif,GIF89a%06%00%06%00%A2%00%00%1B%5C%CD*Bl%20T%B016%3D%FF%FF%FF%00%00%00%00%00%00%00%00%00!%F9%04%01%07%00%04%00%2C%00%00%00%00%06%00%06%00%00%03%0E8%1A%02%DA%C0%C1%18%22%B9%F0%92%08t%02%00%3B); background-position: bottom left; }</style><style type="text/css">div.autosuggest ul li.as_highlight a .tr { right: 0; background-image: url(data:image/gif,GIF89a%06%00%06%00%A2%00%00%1B%5C%CD*Bl%20T%B016%3D%FF%FF%FF%00%00%00%00%00%00%00%00%00!%F9%04%01%07%00%04%00%2C%00%00%00%00%06%00%06%00%00%03%0E%08%12%D3%F0%C2%3D5%88%7D%C1%12%A8g%02%00%3B); background-position: bottom right; }</style><style type="text/css">div.autosuggest ul li.as_warning { font-weight: bold; text-align: center; }</style><style type="text/css">div.autosuggest ul em { font-style: normal; color: #6EADE7; }</style><style type="text/css" charset="utf-8">/* See license.txt for terms of usage */
+
+.firebugHighlight {
+    z-index: 2147483647;
+    position: absolute;
+    background-color: #3875d7;
+}
+
+.firebugLayoutBoxParent {
+    z-index: 2147483647;
+    position: absolute;
+    background-color: transparent;
+    border-right: 1px dashed #BBBBBB;
+    border-bottom: 1px dashed #BBBBBB;
+}
+
+.firebugRulerH {
+    position: absolute;
+    top: -15px;
+    left: 0;
+    width: 100%;
+    height: 14px;
+    background: url(chrome://firebug/skin/rulerH.png) repeat-x;
+    border-top: 1px solid #BBBBBB;
+    border-right: 1px dashed #BBBBBB;
+    border-bottom: 1px solid #000000;
+}
+
+.firebugRulerV {
+    position: absolute;
+    top: 0;
+    left: -15px;
+    width: 14px;
+    height: 100%;
+    background: url(chrome://firebug/skin/rulerV.png) repeat-y;
+    border-left: 1px solid #BBBBBB;
+    border-right: 1px solid #000000;
+    border-bottom: 1px dashed #BBBBBB;
+}
+
+.overflowRulerX > .firebugRulerV {
+    left: 0;
+}
+
+.overflowRulerY > .firebugRulerH {
+    top: 0;
+}
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+.firebugLayoutBoxOffset {
+    z-index: 2147483647;
+    position: absolute;
+    opacity: 0.8;
+}
+
+.firebugLayoutBoxMargin {
+    background-color: #EDFF64;
+}
+
+.firebugLayoutBoxBorder {
+    background-color: #666666;
+}
+
+.firebugLayoutBoxPadding {
+    background-color: SlateBlue;
+}
+
+.firebugLayoutBoxContent {
+    background-color: SkyBlue;
+}
+
+/*.firebugHighlightGroup .firebugLayoutBox {
+    background-color: transparent;
+}
+
+.firebugHighlightBox {
+    background-color: Blue !important;
+}*/
+
+.firebugLayoutLine {
+    z-index: 2147483647;
+    background-color: #000000;
+    opacity: 0.4;
+}
+
+.firebugLayoutLineLeft,
+.firebugLayoutLineRight {
+    position: fixed;
+    width: 1px;
+    height: 100%;
+}
+
+.firebugLayoutLineTop,
+.firebugLayoutLineBottom {
+    position: absolute;
+    width: 100%;
+    height: 1px;
+}
+
+.firebugLayoutLineTop {
+    margin-top: -1px;
+    border-top: 1px solid #999999;
+}
+
+.firebugLayoutLineRight {
+    border-right: 1px solid #999999;
+}
+
+.firebugLayoutLineBottom {
+    border-bottom: 1px solid #999999;
+}
+
+.firebugLayoutLineLeft {
+    margin-left: -1px;
+    border-left: 1px solid #999999;
+}
+</style></head><body><link href="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/143912.txt" rel="stylesheet">
+
+<table style="height: 100%;" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td colspan="2" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" height="73" width="100%">
+
+
+
+<tbody><tr valign="top">
+<td style="background-image: url(/_i/bg_top.gif);" align="center" bgcolor="#c7d0d5" width="50%">
+<table class="border1" border="0" cellpadding="0" cellspacing="0" height="60" width="65%">
+<tbody><tr>
+<td align="center" bgcolor="#ffffff">
+<table border="0" cellpadding="0" cellspacing="0" width="232">
+<tbody><tr>
+<td height="60"><a href="http://www.adriver.ru/" title="AdRiver - система управления интернет-рекламой"><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/logo.gif" alt="AdRiver - система управления интернет-рекламой" border="0"></a></td>
+</tr></tbody></table>
+</td>
+</tr>
+</tbody></table>
+
+</td>
+
+<td style="background-image: url(/_i/bg_top.gif);" bgcolor="#c7d0d5" width="50%">
+<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr>
+<td width="102">
+<a href="http://www.adriver.ru/about/"><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/tnav_about.gif" class="second" alt="О компании" border="0"></a></td>
+<td width="114">
+<a href="http://www.adriver.ru/members/"><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/tnav_login.gif" class="second" alt="Вход в систему" border="0"></a></td>
+<td width="80%">
+<a href="http://www.adriver.ru/doc/"><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/tnav_doc_pressed.gif" class="second" alt="Справочное руководство" border="0"></a>
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write('<img src="http://counter.yadro.ru/hit?r'+
+escape(document.referrer)+((typeof(screen)=='undefined')?'':
+';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+
+';'+Math.random()+
+'" width=1 height=1 alt="">')//--></script><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/hit.gif" alt="" height="1" width="1"><!--/LiveInternet-->
+
+<!-- AdRiver code START Type: ZeroPixel Site: adriver PZ: 0 BN: 0-->
+<script language="javascript" type="text/javascript"><!--
+var RndNum4NoCash = Math.round(Math.random() * 1000000000);
+var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer);
+document.write(
+'<img src="http://ad.adriver.ru/cgi-bin/rle.cgi?'
++ 'sid=92680&bt=21&pz=0&rnd=' + RndNum4NoCash + '&tail256=' + ar_Tail + '" border=0 width=1 height=1>')
+//--></script><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/rle.txt" border="0" height="1" width="1">
+<noscript>
+<img src="http://ad.adriver.ru/cgi-bin/rle.cgi?sid=92680&bt=21&pz=0&rnd=1940804408" border=0 width=1 height=1>
+</noscript>
+<!-- AdRiver code END -->
+
+<!-- AdRiver code START Type: ZeroPixel Site: adriver2 PZ: 0 BN: 0-->
+<script language="javascript" type="text/javascript"><!--
+var RndNum4NoCash = Math.round(Math.random() * 1000000000);
+var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer);
+document.write(
+'<img src="http://ad.adriver.ru/cgi-bin/rle.cgi?'
++ 'sid=93241&bt=21&pz=0&rnd=' + RndNum4NoCash + '&tail256=' + ar_Tail + '" border=0 width=1 height=1>')
+//--></script><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/rle_002.txt" border="0" height="1" width="1">
+<noscript>
+<img src="http://ad.adriver.ru/cgi-bin/rle.cgi?sid=93241&bt=21&pz=0&rnd=2037313942" border=0 width=1 height=1>
+</noscript>
+<!-- AdRiver code END -->
+
+
+<!-- YaMetrics begin -->
+<script type="text/javascript"><!--
+var ya_cid=143912;
+//--></script>
+<script src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/watch.js" type="text/javascript"></script>
+<noscript><div style="display: inline;"><img
+src="http://bs.yandex.ru/watch/143912" width="1" height="1"
+alt=""></div></noscript>
+<!-- YaMetrics end -->
+
+
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+
+<!-- HEAD -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+
+
+
+<tbody><tr><td colspan="5" height="1"><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/1x1.gif" height="1" width="1"></td></tr>
+
+<!-- /HEAD -->
+
+
+
+<!-- MAIN MENU -->
+
+<tr valign="top">
+<td style="background-image: url(/_i/bg_toolbar.gif);" bgcolor="#cbd4d9" width="25%">
+<table border="0" cellpadding="0" cellspacing="0" height="30" width="100%"><tbody><tr>
+<td><a href="http://www.adriver.ru/agency/"><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/mi_agency.gif" alt="Рекламным агентствам" border="0" height="29" width="188"></a></td>
+</tr></tbody></table>
+</td>
+
+<td bgcolor="#ffffff" height="32"><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/1x1.gif" height="1" width="1"></td>
+
+<td style="background-image: url(/_i/bg_toolbar.gif);" bgcolor="#cbd4d9" width="25%">
+<table border="0" cellpadding="0" cellspacing="0" height="30" width="100%"><tbody><tr>		
+<td><a href="http://www.adriver.ru/publisher/"><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/mi_publisher.gif" alt="Владельцам сайтов" border="0" height="29" width="188"></a></td>
+</tr></tbody></table>
+</td>
+
+<td bgcolor="#ffffff" height="32"><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/1x1.gif" height="1" width="1"></td>
+<td style="background-image: url(/_i/bg_toolbar.gif);" bgcolor="#cbd4d9" width="50%">
+<table border="0" cellpadding="0" cellspacing="0" height="30" width="100%"><tbody><tr>		
+<td><a href="http://www.adriver.ru/manage/">
+<img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/mi_admanage.gif" alt="Управление рекламой" border="0" height="29" width="230"></a></td>
+		</tr></tbody></table>
+</td>
+</tr>
+</tbody></table>
+
+</td></tr><tr valign="top">
+<td class="textblock3" id="content" width="75%">
+
+<!-- content -->
+
+
+<h1>Раскрывающийся TopLine с элементами ScreenGlide</h1>
+<!-- AdRiver code START: код для баннера; AD: 153171 "topline-mouseover";  сценарий ID 286668 "mouseover"; баннер ID 550160; extension-->
+<script language="javascript" type="text/javascript"><!--
+if(typeof(ar_cn)=="undefined") var ar_cn=1;
+var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer);
+var ar_link="http://ad.adriver.ru/cgi-bin/erle.cgi?sid=1&ad=153171&bt=43&pid=286668&bid=550160&bn=550160&tail256=" + ar_Tail;
+function ar_getDoc(t,n,l){
+var doc;
+if(t<100){if(document.all && !window.opera){doc = window.frames['ar_container_'+n].document;}
+else if(document.getElementById){doc=document.getElementById('ar_container_'+n).contentDocument;}
+if(!doc){setTimeout('ar_getDoc('+(++t)+','+n+',"'+l+'")', 100);}
+else {var RndNum4NoCash = Math.round(Math.random() * 1000000000);
+doc.write ('<sc'+'ript language="JavaScript" type="text/javascript">var ar_bnum='+n+';<\/sc'+'ript>');
+doc.write ('<sc'+'ript language="JavaScript" type="text/javascript" src="'+l+'&rnd='+RndNum4NoCash+'"><\/sc'+'ript>');}}}
+function ar_putContainer(n){document.write('<div style="visibility:hidden;height:0px;"><iframe id="ar_container_'+n+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div>');}
+function ar_putDiv(n, f){document.write('<div id="ad_ph_'+n+'" style="'+(f?'position:absolute;':'')+'display:none"><\/div>');}
+ar_putContainer(ar_cn);ar_putDiv(ar_cn,0);ar_getDoc(0,ar_cn++,ar_link);
+//--></script><div style="visibility: hidden; height: 0px;"><iframe id="ar_container_1" marginwidth="0" marginheight="0" frameborder="0" height="1" scrolling="no" width="1"></iframe></div><div id="ad_ph_1" style="display: block;"><div style="position: relative; width: 100%; height: 60px;"><div style="visibility: visible;" id="sg_small550160"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" id="ar_flash_824280" height="60" width="100%"><param name="movie" value="http://213.186.217.210/banners/0000550/0000550160/0/mts121_760x60v1.swf?link1=http%3A//ad.adriver.ru/cgi-bin/click.cgi%3Fsid%3D1%26ad%3D153171%26bid%3D550160%26bt%3D43%26bn%3D550160%26pz%3D0%26ref%3Dhttp%3A%252f%252fwww.adriver.ru%252fdoc%252fns%252dbanners%252fmouseover%252fsample%252f&amp;target=_blank&amp;ar_comppath=http%3A//213.186.217.210/banners/0000550/0000550160/0/&amp;ar_bid=550160&amp;ar_ntype=0"><param name="menu" value="false"><param name="wmode" value="opaque"><param name="allowscriptaccess" value="always"><param name="quality" value="high"><param name="loop" value="true"><param name="flashvars" value="link1=http%3A//ad.adriver.ru/cgi-bin/click.cgi%3Fsid%3D1%26ad%3D153171%26bid%3D550160%26bt%3D43%26bn%3D550160%26pz%3D0%26ref%3Dhttp%3A%252f%252fwww.adriver.ru%252fdoc%252fns%252dbanners%252fmouseover%252fsample%252f&amp;target=_blank&amp;ar_comppath=http%3A//213.186.217.210/banners/0000550/0000550160/0/&amp;ar_bid=550160&amp;ar_ntype=0"><embed type="application/x-shockwave-flash" src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/mts121_760x60v1.swf" play="true" wmode="opaque" allowscriptaccess="always" loop="true" quality="best" flashvars="link1=http%3A//ad.adriver.ru/cgi-bin/click.cgi%3Fsid%3D1%26ad%3D153171%26bid%3D550160%26bt%3D43%26bn%3D550160%26pz%3D0%26ref%3Dhttp%3A%252f%252fwww.adriver.ru%252fdoc%252fns%252dbanners%252fmouseover%252fsample%252f&amp;target=_blank&amp;ar_comppath=http%3A//213.186.217.210/banners/0000550/0000550160/0/&amp;ar_bid=550160&amp;ar_ntype=0" menu="false" height="60" width="100%"></object></div><div id="sg_big550160" style="position: absolute; visibility: hidden; width: 100%; height: 300px; top: 0px; left: 0px;"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" id="ar_flash_553194" height="300" width="100%"><param name="movie" value="http://213.186.217.210/banners/0000550/0000550160/0/mts121_760x300v4.swf?link1=http%3A//ad.adriver.ru/cgi-bin/click.cgi%3Fsid%3D1%26ad%3D153171%26bid%3D550160%26bt%3D43%26bn%3D550160%26pz%3D0%26ref%3Dhttp%3A%252f%252fwww.adriver.ru%252fdoc%252fns%252dbanners%252fmouseover%252fsample%252f&amp;target=_blank&amp;ar_comppath=http%3A//213.186.217.210/banners/0000550/0000550160/0/&amp;ar_bid=550160&amp;ar_ntype=0"><param name="menu" value="false"><param name="wmode" value="opaque"><param name="allowscriptaccess" value="always"><param name="quality" value="high"><param name="loop" value="true"><param name="flashvars" value="link1=http%3A//ad.adriver.ru/cgi-bin/click.cgi%3Fsid%3D1%26ad%3D153171%26bid%3D550160%26bt%3D43%26bn%3D550160%26pz%3D0%26ref%3Dhttp%3A%252f%252fwww.adriver.ru%252fdoc%252fns%252dbanners%252fmouseover%252fsample%252f&amp;target=_blank&amp;ar_comppath=http%3A//213.186.217.210/banners/0000550/0000550160/0/&amp;ar_bid=550160&amp;ar_ntype=0"><embed type="application/x-shockwave-flash" src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/mts121_760x300v4.swf" play="true" wmode="opaque" allowscriptaccess="always" loop="true" quality="best" flashvars="link1=http%3A//ad.adriver.ru/cgi-bin/click.cgi%3Fsid%3D1%26ad%3D153171%26bid%3D550160%26bt%3D43%26bn%3D550160%26pz%3D0%26ref%3Dhttp%3A%252f%252fwww.adriver.ru%252fdoc%252fns%252dbanners%252fmouseover%252fsample%252f&amp;target=_blank&amp;ar_comppath=http%3A//213.186.217.210/banners/0000550/0000550160/0/&amp;ar_bid=550160&amp;ar_ntype=0" menu="false" height="300" width="100%"></object></div></div></div>
+<!-- AdRiver code END -->
+<!-- /content -->
+
+</td>
+
+<!-- ВТОРОЙ СТОЛБИК -->
+
+
+
+
+<td class="members" height="100%" width="25%">
+
+				
+<div id="textblock4">											
+
+<table border="0" cellpadding="16" cellspacing="0">
+<tbody><tr><td>
+
+ <table border="0" cellpadding="0" cellspacing="0"><tbody><tr valign="top"><td width="18"><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/arr.gif" alt="&gt;" height="13" vspace="2" width="18"></td><td class="menu features"><a href="http://www.adriver.ru/doc/">Справочное руководство</a></td></tr><tr valign="top"><td width="18"><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/arr.gif" alt="&gt;" height="13" vspace="2" width="18"></td><td class="menu features"><a href="http://www.adriver.ru/doc/publisher/" class="level1">Руководство по работе с системой AdRiver для издателей</a></td></tr><tr valign="top"><td width="18"><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/arr.gif" alt="&gt;" height="13" vspace="2" width="18"></td><td class="menu features"><a href="http://www.adriver.ru/doc/adv-agency/" class="level1">Руководство по работе с системой AdRiver для рекламных агентств</a></td></tr><tr valign="top"><td width="18"><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/arr.gif" alt="&gt;" height="13" vspace="2" width="18"></td><td class="menu features"><a href="http://www.adriver.ru/doc/flash/" class="level1">Flash-демонстрации работы с системой AdRiver.</a></td></tr><tr valign="top"><td width="18"><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/arr.gif" alt="&gt;" height="13" vspace="2" width="18"></td><td class="menu features"><a href="http://www.adriver.ru/doc/specs/" class="level1">Технические требования к баннерам</a></td></tr><tr valign="top"><td width="18"><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/arr.gif" alt="&gt;" height="13" vspace="2" width="18"></td><td class="menu features b"><a href="http://www.adriver.ru/doc/ns-banners/">Нестандартные баннеры</a></td></tr><tr><td colspan="5"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr valign="top"><td width="18"><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/1x1.gif" height="1" width="18"></td><td width="18"><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/arr_gray.gif" alt="&gt;" height="13" vspace="2" width="18"></td><td class="menu features2"><a href="http://www.adriver.ru/doc/ns-banners/fullscreen/">FullScreen</a></td></tr><tr valign="top"><td width="18"><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/1x1.gif" height="1" width="18"></td><td width="18"><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/arr_gray.gif" alt="&gt;" height="13" vspace="2" width="18"></td><td class="menu features2"><a href="http://www.adriver.ru/doc/ns-banners/mediatext/">MediaText</a></td></tr><tr valign="top"><td width="18"><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/1x1.gif" height="1" width="18"></td><td width="18"><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/arr_gray.gif" alt="&gt;" height="13" vspace="2" width="18"></td><td class="menu features2"><a href="http://www.adriver.ru/doc/ns-banners/peel-down/">Peel-down</a></td></tr><tr valign="top"><td width="18"><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/1x1.gif" height="1" width="18"></td><td width="18"><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/arr_gray.gif" alt="&gt;" height="13" vspace="2" width="18"></td><td class="menu features2"><a href="http://www.adriver.ru/doc/ns-banners/rashlop/">Раскрывающийся TopLine</a></td></tr><tr valign="top"><td width="18"><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/1x1.gif" height="1" width="18"></td><td width="18"><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/arr_gray.gif" alt="&gt;" height="13" vspace="2" width="18"></td><td class="menu features2"><a href="http://www.adriver.ru/doc/ns-banners/ns-ban/">Баннер нестандартного размера</a></td></tr><tr valign="top"><td width="18"><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/1x1.gif" height="1" width="18"></td><td width="18"><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/arr_gray.gif" alt="&gt;" height="13" vspace="2" width="18"></td><td class="menu features2"><a href="http://www.adriver.ru/doc/ns-banners/videobanner/">Видеобаннер</a></td></tr><tr valign="top"><td width="18"><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/1x1.gif" height="1" width="18"></td><td width="18"><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/arr_gray.gif" alt="&gt;" height="13" vspace="2" width="18"></td><td class="menu features2"><a href="http://www.adriver.ru/doc/ns-banners/click-banner/">Кликовый баннер</a></td></tr><tr valign="top"><td width="18"><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/1x1.gif" height="1" width="18"></td><td width="18"><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/arr_gray.gif" alt="&gt;" height="13" vspace="2" width="18"></td><td class="menu features2"><a href="http://www.adriver.ru/doc/ns-banners/multibanner/">Многокомпонентные баннеры</a></td></tr><tr valign="top"><td width="18"><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/1x1.gif" height="1" width="18"></td><td width="18"><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/arr_gray.gif" alt="&gt;" height="13" vspace="2" width="18"></td><td class="menu features2"><a href="http://www.adriver.ru/doc/ns-banners/synchron/">Синхронизированные баннеры</a></td></tr><tr valign="top"><td width="18"><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/1x1.gif" height="1" width="18"></td><td width="18"><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/arr_gray.gif" alt="&gt;" height="13" vspace="2" width="18"></td><td class="menu features2"><a href="http://www.adriver.ru/doc/ns-banners/textblock/">Текстовый блок</a></td></tr><tr valign="top"><td width="18"><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/1x1.gif" height="1" width="18"></td><td width="18"><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/arr_gray.gif" alt="&gt;" height="13" vspace="2" width="18"></td><td class="menu features2"><a href="http://www.adriver.ru/doc/ns-banners/topor/">«Топор»</a></td></tr><tr valign="top"><td width="18"><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/1x1.gif" height="1" width="18"></td><td width="18"><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/arr_gray.gif" alt="&gt;" height="13" vspace="2" width="18"></td><td class="menu features2"><a href="http://www.adriver.ru/doc/ns-banners/hatchet/">«Топор с расхлопом»</a></td></tr><tr valign="top"><td width="18"><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/1x1.gif" height="1" width="18"></td><td width="18"><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/arr_gray.gif" alt="&gt;" height="13" vspace="2" width="18"></td><td class="menu features2"><a href="http://www.adriver.ru/doc/ns-banners/banner-type/">Виды баннеров и типы кодов в системе AdRiver</a></td></tr></tbody></table><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/1x1.gif" height="10" width="1"><br></td></tr><tr valign="top"><td width="18"><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/arr.gif" alt="&gt;" height="13" vspace="2" width="18"></td><td class="menu features"><a href="http://www.adriver.ru/doc/ns-company/" class="level1">Оригинальные решения</a></td></tr></tbody></table>
+
+
+</td></tr>
+</tbody></table>
+</div>
+
+
+</td>
+<!-- ВТОРОЙ СТОЛБИК -->	
+
+</tr>
+
+
+
+<tr><td colspan="2" bgcolor="#c7d0d5" height="90">
+<table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+<tbody><tr><td colspan="3" bgcolor="#8a9aa8" height="5"></td></tr>
+<tr><td colspan="3" bgcolor="#ffffff" height="1"></td></tr>
+<tr bgcolor="#c7d0d5" valign="top">
+<td width="50%">
+<table border="0" cellpadding="0" cellspacing="0">	
+<form action="/search/" name="FormSearch" method="get"></form><tbody><tr>
+<td><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/t_search.gif" alt="Поиск" height="39" width="66"></td>
+<td width="60%"><input size="35" style="width: 100%;" name="text" type="text">
+<input name="action" value="index" type="hidden">
+</td>
+<td width="40%"><img class="FormSearch" src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/i_search.gif" onclick="FormSearch.submit();" alt="Поиск" border="0"></td>
+</tr>
+<tr><td colspan="3"><p style="padding-left: 22px; padding-top: 2em;">* №1 – По результатам исследования от 03.03.2008</p></td></tr>
+
+</tbody></table>
+</td>
+<td width="25%"><a href="http://www.adriver.ru/map/"><img src="AdRiver%20_%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20TopLine%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20ScreenGlide_files/t_sitemap.gif" alt="Карта сайта" border="0" height="39" width="92"></a></td>
+<td class="footer" width="25%"><div id="textblock2" style="padding-top: 12px;">
+© 2001–2009 Группа компаний <a href="http://www.internest.ru/">Internest</a><br>
+Дизайн сайта: <a href="http://www.mezich.ru/">mezich bureau</a></div>
+</td></tr>
+</tbody></table>
+</td></tr></tbody></table>
+</body></html>

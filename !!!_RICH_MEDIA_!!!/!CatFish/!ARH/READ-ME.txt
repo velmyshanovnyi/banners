@@ -1,0 +1,9 @@
+http://lbi.liga.net/reklama/portal/trebovania2.psml
+
+
+Для клика по баннеру используйте переменную http://www.link.ua и значение переменной target, равное "_blank". В вашем Flash ролике сделайте элемент button. Для этого элемента сделайте следующий скрипт:
+
+on (release)
+{
+getURL("http://www.link.ua","_blank");
+}
